@@ -1,0 +1,149 @@
+{
+  "main": {
+    "id": "646b5ecf4033b2fc",
+    "type": "split",
+    "children": [
+      {
+        "id": "3a753d22dd5e1a08",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a0d76fe388035811",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c97b64daafb4c1cb",
+    "type": "split",
+    "children": [
+      {
+        "id": "9976fa5f9cdece42",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "430615ffe468bf02",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "028a3370ac66deec",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6bb4b52260b3d9e8",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "5f79579e1e02cd82",
+    "type": "split",
+    "children": [
+      {
+        "id": "39f939f98fc31866",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "082f601a4c286b02",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0394efd379d9da15",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "22b02c4adc955e26",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "ece6e48bf6623f09",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "430615ffe468bf02",
+  "lastOpenFiles": [
+    "Computer Architecture/Courses/ENTC/day 02/documents_2024-09-27T200556056Z_1727467556056Combinational Logic Circuits Part I.pdf",
+    "Computer Architecture/Courses/ENTC/day 02",
+    "Computer Architecture/Courses/ENTC",
+    "Computer Architecture/Courses",
+    "Computer Architecture"
+  ]
+}
