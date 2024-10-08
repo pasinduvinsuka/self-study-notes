@@ -11,11 +11,26 @@
             "id": "a0d76fe388035811",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Computer Architecture/Courses/ENTC/day 02/Combinational Logic Gates.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3b12c40678c7875d",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Computer Architecture/Courses/ENTC/day 02/documents_2024-09-27T200556056Z_1727467556056Combinational Logic Circuits Part I.pdf"
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -65,7 +80,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 217.5
   },
   "right": {
     "id": "5f79579e1e02cd82",
@@ -81,6 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Computer Architecture/Courses/ENTC/day 02/documents_2024-09-27T200556056Z_1727467556056Combinational Logic Circuits Part I.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Computer Architecture/Courses/ENTC/day 02/documents_2024-09-27T200556056Z_1727467556056Combinational Logic Circuits Part I.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +135,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Computer Architecture/Courses/ENTC/day 02/documents_2024-09-27T200556056Z_1727467556056Combinational Logic Circuits Part I.pdf"
+              }
             }
           }
         ]
@@ -138,9 +157,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "430615ffe468bf02",
+  "active": "3b12c40678c7875d",
   "lastOpenFiles": [
+    "Computer Architecture/Courses/ENTC/day 02/Combinational Logic Gates.md",
+    "Pasted image 20241008071523.png",
+    "Pasted image 20241008071502.png",
+    "Pasted image 20241008064207.png",
+    "Pasted image 20241007233211.png",
+    "Pasted image 20241007232032.png",
     "Computer Architecture/Courses/ENTC/day 02/documents_2024-09-27T200556056Z_1727467556056Combinational Logic Circuits Part I.pdf",
+    "Computer Architecture/Courses/ENTC/documents_2024-09-29T103156166Z_1727605916166Assignment 01.pdf",
     "Computer Architecture/Courses/ENTC/day 02",
     "Computer Architecture/Courses/ENTC",
     "Computer Architecture/Courses",
