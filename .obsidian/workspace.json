@@ -11,11 +11,9 @@
             "id": "a0d76fe388035811",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Computer Architecture/Courses/ENTC/day 02/Combinational Logic Gates.md",
-                "mode": "source",
-                "source": false
+                "file": "oop/26179540.pdf"
               }
             }
           },
@@ -23,14 +21,15 @@
             "id": "3b12c40678c7875d",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Computer Architecture/Courses/ENTC/day 02/documents_2024-09-27T200556056Z_1727467556056Combinational Logic Circuits Part I.pdf"
+                "file": "robotics/configuration space.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -80,7 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 217.5
+    "width": 207.5
   },
   "right": {
     "id": "5f79579e1e02cd82",
@@ -96,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Architecture/Courses/ENTC/day 02/documents_2024-09-27T200556056Z_1727467556056Combinational Logic Circuits Part I.pdf",
+                "file": "oop/26179540.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Architecture/Courses/ENTC/day 02/documents_2024-09-27T200556056Z_1727467556056Combinational Logic Circuits Part I.pdf",
+                "file": "oop/26179540.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Architecture/Courses/ENTC/day 02/documents_2024-09-27T200556056Z_1727467556056Combinational Logic Circuits Part I.pdf"
+                "file": "oop/26179540.pdf"
               }
             }
           }
@@ -157,19 +156,28 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3b12c40678c7875d",
+  "active": "a0d76fe388035811",
   "lastOpenFiles": [
+    "Computer Architecture/Courses/ENTC/assignment 01.pdf",
+    "oop/26179540.pdf",
+    "oop",
+    "robotics/configuration space.md",
+    "Pasted image 20241014073050.png",
+    "robotics/westminster/5elen018w_lecture2_2025.pdf",
+    "robotics/MR (1).pdf",
+    "robotics/westminster",
+    "Pasted image 20241007232032.png",
+    "Computer Architecture/Courses/ENTC/day 02/documents_2024-09-27T200556056Z_1727467556056Combinational Logic Circuits Part I.pdf",
+    "robotics",
+    "Computer Architecture/Courses/ENTC/day 02/documents_2024-09-28T154547696Z_1727538347696Combinational Logic P2.pdf",
+    "Computer Architecture/Courses/ENTC/day 04",
+    "Computer Architecture/Courses/ENTC/day 03",
     "Computer Architecture/Courses/ENTC/day 02/Combinational Logic Gates.md",
+    "Pasted image 20241008180911.png",
+    "Pasted image 20241008180828.png",
     "Pasted image 20241008071523.png",
     "Pasted image 20241008071502.png",
     "Pasted image 20241008064207.png",
-    "Pasted image 20241007233211.png",
-    "Pasted image 20241007232032.png",
-    "Computer Architecture/Courses/ENTC/day 02/documents_2024-09-27T200556056Z_1727467556056Combinational Logic Circuits Part I.pdf",
-    "Computer Architecture/Courses/ENTC/documents_2024-09-29T103156166Z_1727605916166Assignment 01.pdf",
-    "Computer Architecture/Courses/ENTC/day 02",
-    "Computer Architecture/Courses/ENTC",
-    "Computer Architecture/Courses",
-    "Computer Architecture"
+    "Pasted image 20241007233211.png"
   ]
 }

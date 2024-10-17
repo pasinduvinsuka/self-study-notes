@@ -10,3 +10,8 @@ by using the transistors we can make the logic gates. By using those logic gates
 ![[Pasted image 20241008064207.png]]
 ![[Pasted image 20241008071502.png]]
 ![[Pasted image 20241008071523.png]]
+
+## Adders
+
+Adder is the basic foundation to all the arithmetic.
+![[Pasted image 20241008180911.png]]
