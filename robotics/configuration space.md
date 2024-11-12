@@ -57,3 +57,5 @@ If the table only moved in two directions and rotated around itself, it would ha
 ### Summary:
 
 Each "degree of freedom" is a different way that something can move, and the more ways something can move, the more flexible or mobile it is. A simple hinge or slide has fewer degrees of freedom than a robot arm or a drone!
+
+![[Pasted image 20241030223026.png]]
