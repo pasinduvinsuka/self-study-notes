@@ -6,73 +6,31 @@
       {
         "id": "29013b979f574f78",
         "type": "tabs",
-        "dimension": 91.36442141623489,
         "children": [
           {
-            "id": "ba6e1c2b4e245ca6",
+            "id": "fee6a4614003f59a",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Computer Architecture/Courses/ETH Zurich/07_arithmeticcircuits.pdf"
+                "file": "oop/notes/multithreading/03.Runnable Interface.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "07_arithmeticcircuits"
+              "icon": "lucide-file",
+              "title": "03.Runnable Interface"
             }
           },
           {
-            "id": "043fcf2fbccff477",
+            "id": "be3e5529b84d4017",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "robotics/modern-robotics-solutions.pdf"
+                "file": "oop/week 03/Week03.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "modern-robotics-solutions"
-            }
-          },
-          {
-            "id": "666e3d9ab1b527f1",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "robotics/westminster/5elen018w_lecture4_2025 (1).pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "5elen018w_lecture4_2025 (1)"
-            }
-          }
-        ]
-      },
-      {
-        "id": "9f5e6768c34a90b2",
-        "type": "tabs",
-        "dimension": 8.635578583765112,
-        "children": [
-          {
-            "id": "983f0038738579bf",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "robotics/MR (1).pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "MR (1)"
-            }
-          },
-          {
-            "id": "3fb5a8865c9b1d9f",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "robotics/murray-li-sastry-94-complete.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "murray-li-sastry-94-complete"
+              "title": "Week03"
             }
           }
         ]
@@ -217,72 +175,39 @@
       "command-palette:Open command palette": false
     }
   },
-  "floating": {
-    "id": "139631995e5afd26",
-    "type": "floating",
-    "children": [
-      {
-        "id": "773b785ae676eb6c",
-        "type": "window",
-        "children": [
-          {
-            "id": "f7cd8d74ffc09cce",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "5af004419e507f8d",
-                "type": "leaf",
-                "state": {
-                  "type": "pdf",
-                  "state": {
-                    "file": "robotics/MR (1).pdf"
-                  },
-                  "icon": "lucide-file-text",
-                  "title": "MR (1)"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 515,
-        "y": 154,
-        "width": 1024,
-        "height": 800,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "ba6e1c2b4e245ca6",
+  "active": "fee6a4614003f59a",
   "lastOpenFiles": [
-    "Computer Architecture/Courses/ETH Zurich/ddca_spring2024_l7_sequentialcircuits_design.pdf",
-    "Computer Architecture/Courses/ENTC/documents_2024-11-03T042523040Z_1730607923040Assignment_4.pdf",
-    "Computer Architecture/Courses/ENTC/documents_2024-11-03T042506209Z_1730607906209Assignment_3.pdf",
+    "Pasted image 20241119095239.png",
+    "Pasted image 20241119095227.png",
+    "robotics/MR (1).pdf",
+    "Computer Architecture/Introduction to computing systems.pdf",
     "Computer Architecture/Courses/ENTC/documents_2024-10-24T201056964Z_1729800656964Assignment_2_FSMs (1).pdf",
-    "Computer Architecture/Courses/ENTC/assignment 01.pdf",
-    "Computer Architecture/Courses/ENTC/day 05/documents_2024-11-02T103618744Z_1730543778744Session 7 - ST.pdf",
     "Computer Architecture/Courses/ENTC/day 04/documents_2024-10-19T205559797Z_1729371359797Finite State Machines (Session 5).pdf",
-    "Computer Architecture/Courses/ENTC/day 05",
-    "Computer Architecture/Courses/ENTC/day 03/documents_2024-10-12T113405182Z_1728732845182Session 4 - ST.pdf",
-    "Computer Architecture/Courses/ENTC/day 02/documents_2024-09-28T154547696Z_1727538347696Combinational Logic P2.pdf",
-    "Computer Architecture/Courses/ETH Zurich/07_arithmeticcircuits.pdf",
+    "oop/notes/multithreading/03.Runnable Interface.md",
+    "oop/notes/multithreading/02.Extending a Thread Class.md",
+    "Pasted image 20241119075046.png",
+    "Pasted image 20241119075017.png",
+    "Pasted image 20241119074936.png",
+    "Pasted image 20241119074918.png",
+    "Pasted image 20241119074832.png",
+    "Pasted image 20241119074821.png",
+    "Pasted image 20241119073020.png",
+    "Pasted image 20241119072741.png",
+    "Pasted image 20241119072408.png",
+    "oop/notes/multithreading/01.Introduction to multi threading.md",
+    "oop/week 10/Week10 - Tagged.pdf",
+    "oop/notes/multithreading",
+    "oop/notes",
+    "oop/jsr133.pdf",
+    "oop/Manner2022_LectureNotesConcurrencyTopicsInJava.pdf",
+    "oop/week 03/Week03.pdf",
+    "oop/Untitled.md",
     "robotics/Practice Question Theories.md",
     "robotics/configuration space.md",
-    "Pasted image 20241107080035.png",
-    "Pasted image 20241107080011.png",
-    "Pasted image 20241107075939.png",
-    "Pasted image 20241107075718.png",
     "Untitled.md",
     "Reports.md",
     "study track/november/November 04th.md",
     "study track/november/November 03rd.md",
-    "Pasted image 20241030223026.png",
-    "Pasted image 20241007232032.png",
-    "Pasted image 20241014073050.png",
-    "Computer Architecture/Courses/ENTC/day 02/Combinational Logic Gates.md",
-    "Pasted image 20241008180911.png",
-    "Pasted image 20241008180828.png",
-    "Pasted image 20241008071523.png"
+    "Computer Architecture/Courses/ENTC/day 02/Combinational Logic Gates.md"
   ]
 }
