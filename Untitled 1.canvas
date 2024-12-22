@@ -1,0 +1,22 @@
+{
+	"nodes":[
+		{"id":"2dcd8ee3645925f3","type":"text","text":"Customer (Consumer)","x":-600,"y":-160,"width":240,"height":50},
+		{"id":"72b9f9499cd217a4","type":"text","text":"Vendor (Producer)","x":320,"y":-160,"width":280,"height":50},
+		{"id":"233c1ff774445280","type":"text","text":"- **Ticket Release Rate (ticketReleaseRate)**\n\nIf the ticket release rate got high, the number of tickets available in the pool in a given time will be increased.","x":320,"y":-80,"width":320,"height":240},
+		{"id":"2b3473d9a2f69232","type":"text","text":"Pros :Since the number of tickets available in the pool in a given time is higher, then many customers can buy at the same time.","x":189,"y":240,"width":263,"height":178},
+		{"id":"fcfc7eeb75900602","type":"text","text":"Cons: Since the number of customers who tries to access the pool at the same time is higher, then this might affect the performance.","x":518,"y":241,"width":245,"height":177},
+		{"id":"c8fd9cd52baf54f9","type":"text","text":"- **Customer Retrieval Rate (customerRetrievalRate)**\n\nIf the ticket retrieval rate got high, the number of customers who can buy in a given moment will become high.","x":-640,"y":-80,"width":320,"height":240},
+		{"id":"45855ea8b44a5329","type":"text","text":"Pros: Many customers can buy at the same time.","x":-796,"y":281,"width":250,"height":60},
+		{"id":"3a3192278979d11c","type":"text","text":"Cons : Since many customers are buying at the same time the performance may get affected.","x":-523,"y":257,"width":327,"height":144},
+		{"id":"13071d1ec2b4cb7d","type":"text","text":"Ticket pool","x":-120,"y":-440,"width":272,"height":50},
+		{"id":"7f568aec086435ce","type":"text","text":"- Total Number of Tickets (totalTickets)\n- Maximum Ticket Capacity (maxTicketCapacity)\n\n **maxTicketCapacity >= totalTickets**","x":-171,"y":-680,"width":360,"height":200}
+	],
+	"edges":[
+		{"id":"7e0a40ef833b8ee0","fromNode":"13071d1ec2b4cb7d","fromSide":"left","toNode":"2dcd8ee3645925f3","toSide":"top","label":"removeTickets ( ) "},
+		{"id":"ddd5b94bda831943","fromNode":"72b9f9499cd217a4","fromSide":"top","toNode":"13071d1ec2b4cb7d","toSide":"right","label":"addTickets ( )"},
+		{"id":"95c75e51ed526e63","fromNode":"233c1ff774445280","fromSide":"bottom","toNode":"2b3473d9a2f69232","toSide":"top"},
+		{"id":"3f5b90db91d13bfa","fromNode":"233c1ff774445280","fromSide":"bottom","toNode":"fcfc7eeb75900602","toSide":"top"},
+		{"id":"ddd1945a5ea465cd","fromNode":"c8fd9cd52baf54f9","fromSide":"bottom","toNode":"45855ea8b44a5329","toSide":"top"},
+		{"id":"e72f7e1011b45968","fromNode":"c8fd9cd52baf54f9","fromSide":"bottom","toNode":"3a3192278979d11c","toSide":"top"}
+	]
+}

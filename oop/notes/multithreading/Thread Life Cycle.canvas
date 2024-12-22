@@ -1,0 +1,25 @@
+{
+	"nodes":[
+		{"id":"9c47df55592c4972","type":"text","text":"sleep","x":-208,"y":-360,"width":119,"height":50,"color":"2"},
+		{"id":"171d2fa89e88a7e3","type":"text","text":"Ready","x":-440,"y":-80,"width":140,"height":50,"color":"2"},
+		{"id":"24822268125e0b64","type":"text","text":"Dead","x":460,"y":-80,"width":120,"height":50,"color":"2"},
+		{"id":"e6814f1bbc4e9e64","type":"text","text":"Running","x":60,"y":-80,"width":159,"height":50,"color":"2"},
+		{"id":"7101e3dd670d534e","type":"text","text":"waiting","x":-220,"y":320,"width":240,"height":50,"color":"4"},
+		{"id":"b7cdb28bcecfc802","type":"text","text":"Suspended","x":-140,"y":100,"width":160,"height":60,"color":"2"},
+		{"id":"8a07f402ecb54994","type":"text","text":"Born /New","x":-800,"y":-80,"width":140,"height":50,"color":"2"},
+		{"id":"12833f7f5bcca664","x":-1180,"y":420,"width":2100,"height":1200,"type":"link","url":"https://jenkov.com/tutorials/java-concurrency/index.html"}
+	],
+	"edges":[
+		{"id":"9bf7713e81e6f89e","fromNode":"8a07f402ecb54994","fromSide":"right","toNode":"171d2fa89e88a7e3","toSide":"left","label":"t.start( )"},
+		{"id":"9fce6e5615601bb4","fromNode":"171d2fa89e88a7e3","fromSide":"right","toNode":"e6814f1bbc4e9e64","toSide":"left","label":"by the scheduler"},
+		{"id":"82f6d71ec926a481","fromNode":"e6814f1bbc4e9e64","fromSide":"right","toNode":"24822268125e0b64","toSide":"left","label":"if job under \nthe run method \nis completed"},
+		{"id":"f48dd1bc53d5baca","fromNode":"e6814f1bbc4e9e64","fromSide":"top","toNode":"9c47df55592c4972","toSide":"right","label":"t.sleep(10)"},
+		{"id":"0b5d1e949a81609b","fromNode":"9c47df55592c4972","fromSide":"left","toNode":"171d2fa89e88a7e3","toSide":"top","label":"after 10 miliseconds"},
+		{"id":"8776c5fff2993fd0","fromNode":"e6814f1bbc4e9e64","fromSide":"top","toNode":"171d2fa89e88a7e3","toSide":"top","label":"t.yield( )"},
+		{"id":"6edc91f7e6743532","fromNode":"e6814f1bbc4e9e64","fromSide":"bottom","toNode":"b7cdb28bcecfc802","toSide":"right","label":"t.suspend( )"},
+		{"id":"8e3a2ab3a8353f53","fromNode":"b7cdb28bcecfc802","fromSide":"left","toNode":"171d2fa89e88a7e3","toSide":"bottom","label":"t.resume( )"},
+		{"id":"6c23811a17bd627b","fromNode":"e6814f1bbc4e9e64","fromSide":"bottom","toNode":"24822268125e0b64","toSide":"bottom","label":"t.stop( )"},
+		{"id":"1dfd69044be73e7b","fromNode":"e6814f1bbc4e9e64","fromSide":"bottom","toNode":"7101e3dd670d534e","toSide":"right","label":"ThreadObj.wait( )"},
+		{"id":"8632a3f2acff70d0","fromNode":"7101e3dd670d534e","fromSide":"left","toNode":"171d2fa89e88a7e3","toSide":"bottom","label":"ThreadObj.Notify( )"}
+	]
+}

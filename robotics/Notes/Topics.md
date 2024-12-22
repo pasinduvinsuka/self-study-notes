@@ -1,0 +1,7 @@
+- [ ] DOF and Grubler's formula
+- [x] Rotation Matrices 
+- [x] DH Representation
+- [x] Homogeneous Transformation Matrices
+- [x] Forward Kinematics
+- [ ] Inverse Kinematics
+- [ ] Python
