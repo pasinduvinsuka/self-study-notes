@@ -11,12 +11,14 @@
             "id": "b2d8af164e96e814",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "robotics/westminster/week 10/5elen018w_lecture6_2025.pdf"
+                "file": "robotics/Notes/Topics.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "5elen018w_lecture6_2025"
+              "icon": "lucide-file",
+              "title": "Topics"
             }
           }
         ]
@@ -75,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 276.5026054382324
   },
   "right": {
     "id": "5f79579e1e02cd82",
@@ -219,18 +221,22 @@
   },
   "active": "b2d8af164e96e814",
   "lastOpenFiles": [
+    "sync-obsidian.bat.txt",
+    "test.txt",
+    "New Text Document.txt",
+    "robotics/Notes/attachments/Pasted image 20241203223536.png",
+    "robotics/Notes/Topics.md",
+    "robotics/westminster/week 12/5elen018w_lecture8_2025.pdf",
+    "robotics/Tedrake_notes.pdf",
     "robotics/westminster/week 10/5elen018w_lecture7_2025.pdf",
     "robotics/westminster/week 10/5elen018w_lecture6_2025.pdf",
-    "robotics/westminster/week 12/5elen018w_lecture8_2025.pdf",
+    "robotics/westminster/week 09/5elen018w_lecture6_2025.pdf",
     "robotics/westminster/week 12",
     "oop/westminster/week 10/Week10 - Tagged.pdf",
     "oop/westminster/week 09/Week09 - Tagged.pdf",
-    "oop/westminster/week 08/Week08 - Tagged.pdf",
-    "oop/westminster/week 07/Week07 - Tagged.pdf",
     "oop/Untitled.md",
     "Pasted image 20241117110431.png",
     "Untitled 1.canvas",
-    "robotics/westminster/week 01/Week1 Intro - Tagged.pdf",
     "Reasoning and assumptions I made behind the planning of my coursework.md",
     "oop/notes/multithreading/deep-dive multirhreading/Blocking Queues.md",
     "oop/notes/multithreading/deep-dive multirhreading/Deadlock.md",
@@ -243,11 +249,7 @@
     "oop/notes/multithreading/Thread Life Cycle.canvas",
     "oop/notes/multithreading/Thread Signaling Process.canvas",
     "attachments/Pasted image 20241206130530.png",
-    "attachments",
-    "robotics/Notes/Topics.md",
-    "oop/westminster",
     "robotics/Practice Question Theories.md",
-    "robotics/Notes/attachments/Pasted image 20241203223536.png",
     "robotics/configuration space.md",
     "robotics/westminster/week 06 & 07 & 08/Untitled.md",
     "Untitled 1.md",
