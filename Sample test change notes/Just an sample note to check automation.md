@@ -1,6 +1,1 @@
-Just adding the content to the note : )
-_ 
-_
-_
-
-🌿🌊🌙
+I have made some changes here ! : )
