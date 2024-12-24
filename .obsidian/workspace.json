@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "test folder/Check sync.md",
+                "file": "Sample test change notes/Untitled.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Check sync"
+              "title": "Untitled"
             }
           }
         ]
@@ -219,11 +219,12 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "430615ffe468bf02",
+  "active": "b2d8af164e96e814",
   "lastOpenFiles": [
+    "test folder/Check sync.md",
+    "Sample test change notes/Untitled.md",
     "Sample test change notes",
     "robotics/Notes/Topics.md",
-    "test folder/Check sync.md",
     "test folder",
     "sync-obsidian.bat.txt",
     "test.txt",
@@ -234,7 +235,6 @@
     "robotics/westminster/week 10/5elen018w_lecture7_2025.pdf",
     "robotics/westminster/week 10/5elen018w_lecture6_2025.pdf",
     "robotics/westminster/week 09/5elen018w_lecture6_2025.pdf",
-    "robotics/westminster/week 12",
     "oop/Untitled.md",
     "Pasted image 20241117110431.png",
     "Untitled 1.canvas",
