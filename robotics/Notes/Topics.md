@@ -3,5 +3,5 @@
 - [x] DH Representation
 - [x] Homogeneous Transformation Matrices
 - [x] Forward Kinematics
-- [ ] Inverse Kinematics
-- [ ] Python
+- [x] Inverse Kinematics
+- [x] Python
