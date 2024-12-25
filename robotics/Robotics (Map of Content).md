@@ -7,4 +7,7 @@ Things I falling love with are
 - Complex and amazing stuffs
 - Math
 - Low level programming
-- 
+- Mix of physics
+- Mix of electrical engineering
+- Basically doing magical stuffs and getting the intuition behind : )
+#
