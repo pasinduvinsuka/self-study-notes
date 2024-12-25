@@ -21,4 +21,10 @@ Typically we will define the system in the box via mathematical model that will 
 
 ##  3 Problems we will face 
 
-In a give plant there will be 23 
+In a give plant there will be 3 things. 
+	- Inputs
+	- Outputs
+	- A box which representing the system 
+
+So the 3 problem we will face are 
+01. 
