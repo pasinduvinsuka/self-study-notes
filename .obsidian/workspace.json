@@ -78,9 +78,37 @@
               "icon": "lucide-file",
               "title": "Control Theory"
             }
+          },
+          {
+            "id": "dc42f6f921dc7ff6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "robotics/Control Theory.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Control Theory"
+            }
+          },
+          {
+            "id": "bb02536b8c4181ab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "robotics/Control Theory.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Control Theory"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -279,7 +307,7 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "98e6ccbb3dcd1b34",
+  "active": "bb02536b8c4181ab",
   "lastOpenFiles": [
     "().md",
     "robotics/Control Theory.md",
