@@ -127,7 +127,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -326,12 +326,12 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "5ea91dd34d82a55f",
+  "active": "cd585b10e0ff51c4",
   "lastOpenFiles": [
-    "robotics/Closed Loop Control Systems.md",
-    "robotics/Open Loop Control Systems.md",
     "robotics/Control Theory.md",
+    "robotics/Closed Loop Control Systems.md",
     "robotics/books/fundamentals_of_control_r1_6.pdf",
+    "robotics/Open Loop Control Systems.md",
     "robotics/attachments/Pasted image 20241225143701.png",
     "robotics/attachments/Pasted image 20241225142707.png",
     "robotics/Robotics (Map of Content).md",
