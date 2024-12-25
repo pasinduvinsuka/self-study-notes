@@ -36,14 +36,12 @@
             "id": "8d185bbcf16cf4e2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "robotics/Robotics (Map of Content).md",
-                "mode": "source",
-                "source": false
+                "file": "robotics/westminster/week 12/5elen018w_lecture8_2025.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Robotics (Map of Content)"
+              "icon": "lucide-file-text",
+              "title": "5elen018w_lecture8_2025"
             }
           },
           {
@@ -60,7 +58,8 @@
               "title": "Control Theory"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "6c716ccc1cbffe6c",
@@ -322,16 +321,17 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "5ea91dd34d82a55f",
+  "active": "8d185bbcf16cf4e2",
   "lastOpenFiles": [
+    "robotics/westminster/5elen018w_lecture2_2025.pdf",
+    "robotics/Robotics (Map of Content).md",
+    "robotics/Control Theory.md",
     "robotics/westminster/assignment1_2024_2025.pdf",
-    "robotics/westminster/week 12/5elen018w_lecture8_2025.pdf",
     "robotics/books/fundamentals_of_control_r1_6.pdf",
+    "robotics/westminster/week 12/5elen018w_lecture8_2025.pdf",
     "robotics/westminster/week 10/5elen018w_lecture7_2025.pdf",
     "robotics/westminster/week 10/5elen018w_lecture6_2025.pdf",
-    "robotics/Robotics (Map of Content).md",
     "robotics/Closed Loop Control Systems.md",
-    "robotics/Control Theory.md",
     "robotics/attachments/Pasted image 20241225150145.png",
     "robotics/attachments/Pasted image 20241225150137.png",
     "robotics/attachments/Pasted image 20241225150121.png",
@@ -354,7 +354,6 @@
     "Sample test change notes",
     "test folder",
     "sync-obsidian.bat.txt",
-    "test.txt",
     "oop/Untitled.md",
     "Untitled 1.canvas",
     "Reasoning and assumptions I made behind the planning of my coursework.md",
