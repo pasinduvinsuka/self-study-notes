@@ -28,8 +28,8 @@ In a give plant there will be 3 things.
 
 So the 3 problem we will face are 
 [[#01.System Identification]] - Black box method , White box method
-2. Simulation Problem
-3. Control Problem
+[[#02.Simulation Problem]]
+[[#03.Control Problem]]
 
 # 01.System Identification
 
@@ -45,5 +45,7 @@ We can open the box and see what's inside. So we can see all the underlying elec
 ![[Pasted image 20241225112427.png]]
 ![[Pasted image 20241225112541.png]]
 
-[[#02.Simulation Problem]]
+# 02.Simulation Problem
+
+# 03.Control Problem
 
