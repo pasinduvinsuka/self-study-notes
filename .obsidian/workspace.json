@@ -60,8 +60,7 @@
               "title": "Control Theory"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "6c716ccc1cbffe6c",
@@ -280,11 +279,11 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "8d185bbcf16cf4e2",
+  "active": "5ea91dd34d82a55f",
   "lastOpenFiles": [
+    "robotics/westminster/week 12/5elen018w_lecture8_2025.pdf",
     "robotics/books/fundamentals_of_control_r1_6.pdf",
     "robotics/Control Theory.md",
-    "robotics/westminster/week 12/5elen018w_lecture8_2025.pdf",
     "robotics/Transfer Functions.md",
     "robotics/westminster/assignment1_2024_2025.pdf",
     "robotics/Closed Loop Control Systems.md",
