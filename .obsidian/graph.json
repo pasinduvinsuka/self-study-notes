@@ -6,7 +6,15 @@
   "hideUnresolved": false,
   "showOrphans": false,
   "collapse-color-groups": false,
-  "colorGroups": [],
+  "colorGroups": [
+    {
+      "query": "path:robotics ",
+      "color": {
+        "a": 1,
+        "rgb": 5431466
+      }
+    }
+  ],
   "collapse-display": false,
   "showArrow": true,
   "textFadeMultiplier": -0.3,
@@ -15,8 +23,8 @@
   "collapse-forces": false,
   "centerStrength": 0.45146324054247,
   "repelStrength": 9.14346895074946,
-  "linkStrength": 0,
-  "linkDistance": 250,
+  "linkStrength": 0.78836545324768,
+  "linkDistance": 344,
   "scale": 0.4671004754225088,
   "close": false
 }
