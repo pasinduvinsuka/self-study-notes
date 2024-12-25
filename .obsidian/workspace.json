@@ -58,7 +58,8 @@
               "title": "Control Theory"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "6c716ccc1cbffe6c",
@@ -320,14 +321,14 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "5ea91dd34d82a55f",
+  "active": "7e4510ddd5d0ef0e",
   "lastOpenFiles": [
-    "robotics/westminster/assignment1_2024_2025.pdf",
     "robotics/westminster/week 12/5elen018w_lecture8_2025.pdf",
-    "robotics/westminster/5elen018w_lecture2_2025.pdf",
-    "robotics/Robotics (Map of Content).md",
+    "robotics/westminster/assignment1_2024_2025.pdf",
     "robotics/Control Theory.md",
     "robotics/books/fundamentals_of_control_r1_6.pdf",
+    "robotics/westminster/5elen018w_lecture2_2025.pdf",
+    "robotics/Robotics (Map of Content).md",
     "robotics/westminster/week 10/5elen018w_lecture7_2025.pdf",
     "robotics/westminster/week 10/5elen018w_lecture6_2025.pdf",
     "robotics/Closed Loop Control Systems.md",
@@ -352,7 +353,6 @@
     "test folder/Check sync.md",
     "Sample test change notes",
     "test folder",
-    "sync-obsidian.bat.txt",
     "oop/Untitled.md",
     "Untitled 1.canvas",
     "Reasoning and assumptions I made behind the planning of my coursework.md",
