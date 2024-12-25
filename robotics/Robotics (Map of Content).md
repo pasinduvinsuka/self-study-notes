@@ -11,4 +11,5 @@ Things I falling love with are
 - Mix of electrical engineering
 - Basically doing magical stuffs and getting the intuition behind : )
 
-#Control_Theory - [[Control Theory]]
+Control Theory - [[Control Theory]]
+
