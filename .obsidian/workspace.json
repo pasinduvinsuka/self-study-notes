@@ -6,6 +6,7 @@
       {
         "id": "29baf90fbc598351",
         "type": "tabs",
+        "dimension": 60.18930957683742,
         "children": [
           {
             "id": "5ea91dd34d82a55f",
@@ -18,7 +19,14 @@
               "icon": "lucide-file-text",
               "title": "fundamentals_of_control_r1_6"
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "6c716ccc1cbffe6c",
+        "type": "tabs",
+        "dimension": 39.81069042316258,
+        "children": [
           {
             "id": "c155fe9e1cb2cc43",
             "type": "leaf",
@@ -33,8 +41,7 @@
               "title": "Control Theory"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -90,7 +97,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "5f79579e1e02cd82",
