@@ -46,7 +46,7 @@ We can open the box and see what's inside. So we can see all the underlying elec
 
 # 02.Simulation Problem
 
-Inputs and
+Inputs and the mathematical model is give
 
 # 03.Control Problem
 
