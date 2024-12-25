@@ -5,4 +5,4 @@
 
 	 Actuators will be driven by the actuating signals which comes the controller. The controller is designed to convert the command variable which comes from a high level control system or froma  a person operate this. Then the controller will convert this commanded variable into a actuating signal.
 
-	Now as operators, what we have to do is we have to choose the set of predefined commands that will 
+	Now as operators, what we have to do is we have to choose the set of predefined commands that will generate th
