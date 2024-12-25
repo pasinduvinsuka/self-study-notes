@@ -46,7 +46,9 @@ We can open the box and see what's inside. So we can see all the underlying elec
 
 # 02.Simulation Problem
 
-Inputs and the mathematical model is give
+Inputs and the mathematical model is given, we have to predict the output changes against to those.
+
+![[Pasted image 20241225113523.png]]
 
 # 03.Control Problem
 
