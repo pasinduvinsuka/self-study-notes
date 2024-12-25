@@ -54,4 +54,5 @@ Inputs and the mathematical model is given, we have to predict the output change
 # 03.Control Problem
 [[fundamentals_of_control_r1_6.pdf#page=20&selection=8,1,9,19|fundamentals_of_control_r1_6, page 20]]
 
-System and the outputs are given, we have to determine the appropra
+System and the outputs are given, we have to determine the appropriate inputs through various control methods.
+![[Pasted image 20241225113827.png]]
