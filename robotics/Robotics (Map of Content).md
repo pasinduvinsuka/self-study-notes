@@ -1,4 +1,4 @@
 
 ![[Pasted image 20241225095332.png]]
 
-I always wanted to do something interesting 
+I always wanted to do something interesting and amazing 
