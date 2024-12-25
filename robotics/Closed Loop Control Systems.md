@@ -1,3 +1,5 @@
+[[fundamentals_of_control_r1_6.pdf#page=26&selection=5,0,5,69|fundamentals_of_control_r1_6, page 26]]
+
 Under the [[Closed Loop Control Systems]] I have found that there will be some disturbance for the controlled variable from the nature and things not under our control. So as a solution for this we will be using the closed loop systems.
 
 ![[Pasted image 20241225145036.png]]
