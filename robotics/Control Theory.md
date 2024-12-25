@@ -60,4 +60,4 @@ System and the outputs are given, we have to determine the appropriate inputs th
 # Types Of Control Systems
 
 1. [[Open Loop Control Systems]]
-2. [[]]
+2. [[Closed Loop Control Systems]]
