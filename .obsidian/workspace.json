@@ -40,10 +40,10 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Maths/Signals, Systems, and Differential Equations/MATH213/Lectures/1-23.pdf"
+                "file": "Maths/Signals, Systems, and Differential Equations/MATH213/Lectures/MATH 213 Lecture 3 - Intro to Laplace Transform (sol).pdf"
               },
               "icon": "lucide-file-text",
-              "title": "1-23"
+              "title": "MATH 213 Lecture 3 - Intro to Laplace Transform (sol)"
             }
           },
           {
@@ -167,7 +167,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 425.5
+    "width": 392.5
   },
   "right": {
     "id": "5f79579e1e02cd82",
@@ -311,18 +311,18 @@
   },
   "active": "8d185bbcf16cf4e2",
   "lastOpenFiles": [
+    "Maths/Signals, Systems, and Differential Equations/MATH213/Lectures/MATH 213 Lecture 4 - More Laplace Transforms and Properties of Laplace Transforms.pdf",
+    "Maths/Signals, Systems, and Differential Equations/MATH213/Lectures/MATH 213 Lecture 3 - Intro to Laplace Transform (sol).pdf",
+    "Maths/Signals, Systems, and Differential Equations/MATH213/Lectures/MATH 213 Lecture 3 - Intro to Laplace Transform.pdf",
+    "Maths/Signals, Systems, and Differential Equations/MATH213/Lectures/MATH 213 Lecture 2 - Classifications of DEs and ex of linear DEs (Sol).pdf",
+    "Maths/Signals, Systems, and Differential Equations/MATH213/Lectures/MATH 213 Lecture 2 - Classifications of DEs and ex of linear DEs.pdf",
+    "Maths/Signals, Systems, and Differential Equations/MATH213/Lectures/1-23.pdf",
+    "Maths/Signals, Systems, and Differential Equations/MATH213/Lectures/1-23 RAW.pdf",
     "Maths/Signals, Systems, and Differential Equations/MATH213/Lectures/MATH 213 Lecture 1 - Introduction to Differential Equations.pdf",
     "robotics/westminster/week 12/5elen018w_lecture8_2025.pdf",
     "robotics/Transfer Functions.md",
     "Maths/Signals, Systems, and Differential Equations/MATH213/Tutorials/MATH213 W24 Tutorial 8 Bode plots.pdf",
     "Maths/Signals, Systems, and Differential Equations/MATH213/Tutorials/MATH213 W24 Tutorial 7 Systems 2 - Solutions.pdf",
-    "Maths/Signals, Systems, and Differential Equations/MATH213/Tutorials/MATH213 W24 Tutorial 9 Fourier series.pdf",
-    "Maths/Signals, Systems, and Differential Equations/MATH213/Tutorials/MATH213 W24 Tutorial 9 Fourier series - Solutions.pdf",
-    "Maths/Signals, Systems, and Differential Equations/MATH213/Tutorials/MATH213 W24 Tutorial 8 Bode plots - Solutions.pdf",
-    "Maths/Signals, Systems, and Differential Equations/MATH213/Tutorials/MATH213 W24 Tutorial 7 Systems 2.pdf",
-    "Maths/Signals, Systems, and Differential Equations/MATH213/Tutorials/MATH213 W24 Tutorial 5 Midterm review.pdf",
-    "Maths/Signals, Systems, and Differential Equations/MATH213/Tutorials/MATH213 W24 Tutorial 6 Systems.pdf",
-    "Maths/Signals, Systems, and Differential Equations/MATH213/Tutorials/MATH213 W24 Tutorial 6 Systems - Solutions.pdf",
     "robotics/attachments/Pasted image 20241225202401.png",
     "robotics/Time Domain and Frequency Domain.md",
     "robotics/Control Theory.md",
