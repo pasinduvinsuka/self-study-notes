@@ -1,0 +1,1 @@
+Under the [[Closed Loop Control Systems]] I have found that there will be some disturbance for the controlled variable from the nature and things not under our control. So in order to
