@@ -14,6 +14,5 @@ In this type of controllers, inputs into the system are not fed back from the ou
 
 ## But there might be disturbance that affects our system that are random by nature and also beyond our control. So for those scenario what we can do ?
 
-Closed Loop Control Systems a
-[[Closed Loop Control Systems]]
+Closed Loop Control Systems are the solution [[Closed Loop Control Systems]]
  
