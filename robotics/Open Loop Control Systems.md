@@ -8,3 +8,4 @@
 	Now as operators, what we have to do is we have to choose the set of predefined commands that will generate the proper actuating signal which will affect the manipulated varaible and that manipulated variable will affect the process in a way that we desire.
 
 In this type of controllers, inputs into the system are not fed back from the outputs. So those are called as 'Open loop' controllers.
+![[Pasted image 20241225143701.png]]
