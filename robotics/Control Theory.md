@@ -44,11 +44,12 @@ We can open the box and see what's inside. So we can see all the underlying elec
 ![[Pasted image 20241225112427.png]]
 ![[Pasted image 20241225112541.png]]
 
-# 02.Simulation Problem[[fundamentals_of_control_r1_6.pdf#page=18&selection=21,0,21,22|fundamentals_of_control_r1_6, page 18]]
+# 02.Simulation Problem
+[[fundamentals_of_control_r1_6.pdf#page=18&selection=21,0,21,22|fundamentals_of_control_r1_6, page 18]]
 
 Inputs and the mathematical model is given, we have to predict the output changes against to those.
 
 ![[Pasted image 20241225113523.png]]
 
 # 03.Control Problem
-
+[[fundamentals_of_control_r1_6.pdf#page=20&selection=8,1,9,19|fundamentals_of_control_r1_6, page 20]]
