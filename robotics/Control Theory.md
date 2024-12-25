@@ -18,3 +18,7 @@ Typically we will define the system in the box via mathematical model that will 
 - System can be simple as a single disc disk brake which takes the force of the hydraulic fluid and the output being the temperature of the rotor which slows down the car by converting it's kinematic energy into the heat.
 - Or else a system can be complex like a entire car which have hundreds of inputs and outputs.
 ![[Pasted image 20241225111226.png]]
+
+##  3 Problems we will face 
+
+In a give plant there will be 

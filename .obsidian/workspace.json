@@ -19,6 +19,16 @@
               "icon": "lucide-file-text",
               "title": "fundamentals_of_control_r1_6"
             }
+          },
+          {
+            "id": "7e4510ddd5d0ef0e",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
         ]
       },
@@ -242,10 +252,10 @@
   },
   "active": "c155fe9e1cb2cc43",
   "lastOpenFiles": [
-    "robotics/attachments/Pasted image 20241225111226.png",
-    "robotics/attachments/Pasted image 20241225110806.png",
     "robotics/books/fundamentals_of_control_r1_6.pdf",
     "robotics/Control Theory.md",
+    "robotics/attachments/Pasted image 20241225111226.png",
+    "robotics/attachments/Pasted image 20241225110806.png",
     "robotics/attachments/Pasted image 20241225110619.png",
     "robotics/books",
     "2024-12-25.md",
@@ -287,7 +297,6 @@
     "Traffic Light Scenario.md",
     "oop/notes/multithreading/deep-dive multirhreading/attachments/Pasted image 20241126231655.png",
     "oop/notes/multithreading/deep-dive multirhreading/attachments/Pasted image 20241126231115.png",
-    "oop/notes/multithreading/attachments/Pasted image 20241125155407.png",
     "Binance_Trading_Tracker.md",
     "Thred Life Cycle.canvas",
     "oop/notes/multithreading/Thred Life Cycle 1.canvas",
