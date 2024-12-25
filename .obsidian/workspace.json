@@ -40,10 +40,10 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "robotics/westminster/week 12/5elen018w_lecture8_2025.pdf"
+                "file": "Maths/Signals, Systems, and Differential Equations/MATH213/Lectures/1-23.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "5elen018w_lecture8_2025"
+              "title": "1-23"
             }
           },
           {
@@ -167,7 +167,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 257.5
+    "width": 425.5
   },
   "right": {
     "id": "5f79579e1e02cd82",
@@ -309,8 +309,11 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "430615ffe468bf02",
+  "active": "8d185bbcf16cf4e2",
   "lastOpenFiles": [
+    "Maths/Signals, Systems, and Differential Equations/MATH213/Lectures/MATH 213 Lecture 1 - Introduction to Differential Equations.pdf",
+    "robotics/westminster/week 12/5elen018w_lecture8_2025.pdf",
+    "robotics/Transfer Functions.md",
     "Maths/Signals, Systems, and Differential Equations/MATH213/Tutorials/MATH213 W24 Tutorial 8 Bode plots.pdf",
     "Maths/Signals, Systems, and Differential Equations/MATH213/Tutorials/MATH213 W24 Tutorial 7 Systems 2 - Solutions.pdf",
     "Maths/Signals, Systems, and Differential Equations/MATH213/Tutorials/MATH213 W24 Tutorial 9 Fourier series.pdf",
@@ -320,9 +323,6 @@
     "Maths/Signals, Systems, and Differential Equations/MATH213/Tutorials/MATH213 W24 Tutorial 5 Midterm review.pdf",
     "Maths/Signals, Systems, and Differential Equations/MATH213/Tutorials/MATH213 W24 Tutorial 6 Systems.pdf",
     "Maths/Signals, Systems, and Differential Equations/MATH213/Tutorials/MATH213 W24 Tutorial 6 Systems - Solutions.pdf",
-    "Maths/Signals, Systems, and Differential Equations/MATH213/Tutorials/MATH213 W24 Tutorial 4 Using Laplace to solve DEs and analyzing poles.pdf",
-    "Maths/Signals, Systems, and Differential Equations/MATH213/Tutorials/MATH213 W24 Tutorial 5 Midterm review - Solution1.pdf",
-    "robotics/Transfer Functions.md",
     "robotics/attachments/Pasted image 20241225202401.png",
     "robotics/Time Domain and Frequency Domain.md",
     "robotics/Control Theory.md",
