@@ -6,7 +6,7 @@
       {
         "id": "29baf90fbc598351",
         "type": "tabs",
-        "dimension": 39.89841986455982,
+        "dimension": 75.97799511002445,
         "children": [
           {
             "id": "5ea91dd34d82a55f",
@@ -40,10 +40,10 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "robotics/westminster/week 12/5elen018w_lecture8_2025.pdf"
+                "file": "robotics/westminster/week 10/5elen018w_lecture7_2025.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "5elen018w_lecture8_2025"
+              "title": "5elen018w_lecture7_2025"
             }
           },
           {
@@ -60,12 +60,13 @@
               "title": "Control Theory"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "6c716ccc1cbffe6c",
         "type": "tabs",
-        "dimension": 60.10158013544018,
+        "dimension": 24.022004889975552,
         "children": [
           {
             "id": "c155fe9e1cb2cc43",
@@ -166,8 +167,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "5f79579e1e02cd82",
@@ -309,20 +309,20 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "5ea91dd34d82a55f",
+  "active": "8d185bbcf16cf4e2",
   "lastOpenFiles": [
+    "robotics/westminster/week 10/5elen018w_lecture6_2025.pdf",
+    "robotics/westminster/week 12/5elen018w_lecture8_2025.pdf",
+    "robotics/books/fundamentals_of_control_r1_6.pdf",
     "robotics/Transfer Functions.md",
     "robotics/attachments/Pasted image 20241225202401.png",
-    "robotics/books/fundamentals_of_control_r1_6.pdf",
     "robotics/Time Domain and Frequency Domain.md",
-    "robotics/westminster/week 12/5elen018w_lecture8_2025.pdf",
     "robotics/Control Theory.md",
     "robotics/westminster/assignment1_2024_2025.pdf",
     "robotics/Closed Loop Control Systems.md",
     "robotics/westminster/5elen018w_lecture2_2025.pdf",
     "robotics/Robotics (Map of Content).md",
     "robotics/westminster/week 10/5elen018w_lecture7_2025.pdf",
-    "robotics/westminster/week 10/5elen018w_lecture6_2025.pdf",
     "robotics/attachments/Pasted image 20241225150145.png",
     "robotics/attachments/Pasted image 20241225150137.png",
     "robotics/attachments/Pasted image 20241225150121.png",
