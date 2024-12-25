@@ -1,2 +1,2 @@
 - Let's consider the system that's being controlled as the 'process'.  
-- We have access to our inputs and we can
+- We have access to our inputs. Based on the control scheme we choose we can change those inputs, So these changed variables we will call as ''
