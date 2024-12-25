@@ -3,4 +3,4 @@
 
 ![[Pasted image 20241225142707.png]]
 
-	 Actuators will be driven by the actuating signals which comes from  the controller. The controller is designed
+	 Actuators will be driven by the actuating signals which comes the controller. The controller is designed to convert the command variable wh
