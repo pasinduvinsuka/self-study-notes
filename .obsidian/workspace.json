@@ -60,8 +60,7 @@
               "title": "Control Theory"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "6c716ccc1cbffe6c",
@@ -323,8 +322,9 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "7e4510ddd5d0ef0e",
+  "active": "5ea91dd34d82a55f",
   "lastOpenFiles": [
+    "robotics/westminster/week 12/5elen018w_lecture8_2025.pdf",
     "robotics/westminster/week 10/5elen018w_lecture7_2025.pdf",
     "robotics/westminster/week 10/5elen018w_lecture6_2025.pdf",
     "robotics/books/fundamentals_of_control_r1_6.pdf",
