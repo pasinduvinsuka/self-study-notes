@@ -12,3 +12,7 @@ Let's consider a car as an example. Car as a whole is a complex system. And the 
 This is the part that is actually converting the car’s kinetic energy into heat energy and reducing the vehicle’s speed. Yet the disc brakes are small systems on their own because they are made up of rotors, calipers, brackets, shielding, fasteners, and hoses which allow the disc brakes to function correctly
 
 ![[Pasted image 20241225110806.png]]
+
+Typically we will define the system in the box via mathematical model that will represent the its equations of behavior.
+
+System can be simple as 
