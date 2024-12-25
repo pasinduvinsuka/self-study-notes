@@ -35,7 +35,7 @@ So the 3 problem we will face are
 
 01.**Black Box Method**
 ![[Pasted image 20241225111922.png]]
-We have given with various known inputs and expected outputs. We have to infer what's inside the box by based on the relat
+We have given with various known inputs and expected outputs. We have to infer what's inside the box by based on the relationship between
 
 ---
 
