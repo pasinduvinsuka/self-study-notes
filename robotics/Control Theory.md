@@ -3,4 +3,4 @@
 
 
 > [!NOTE] System
-> System is a collection of interconnected parts which will form a
+> System is a collection of interconnected parts which will form a larger and more complex 
