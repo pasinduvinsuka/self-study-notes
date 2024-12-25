@@ -15,4 +15,6 @@ This is the part that is actually converting the car’s kinetic energy into hea
 
 Typically we will define the system in the box via mathematical model that will represent the its equations of behavior.
 
-System can be simple as a single disc disk brake which takes the force of the hydraulic fluid and the output being the temperature of the rotor which slows down the car by cinver
+- System can be simple as a single disc disk brake which takes the force of the hydraulic fluid and the output being the temperature of the rotor which slows down the car by converting it's kinematic energy into the heat.
+- Or else a system can be complex like a entire car which have hundreds of inputs and outputs.
+![[Pasted image 20241225111226.png]]
