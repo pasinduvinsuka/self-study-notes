@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "robotics/Control Theory.md",
+                "file": "robotics/Robotics (Map of Content).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Control Theory"
+              "title": "Robotics (Map of Content)"
             }
           }
         ]
@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Control_Theory",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,7 +73,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -219,10 +220,10 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "e23a7099334e7c0c",
+  "active": "028a3370ac66deec",
   "lastOpenFiles": [
-    "robotics/Robotics (Map of Content).md",
     "robotics/Control Theory.md",
+    "robotics/Robotics (Map of Content).md",
     "robotics/attachments/Pasted image 20241225095332.png",
     "robotics/attachments/Pasted image 20241225095133.png",
     "robotics/attachments",
