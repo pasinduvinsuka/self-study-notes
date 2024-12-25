@@ -24,10 +24,10 @@
             "id": "7e4510ddd5d0ef0e",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -309,11 +309,11 @@
   },
   "active": "bb02536b8c4181ab",
   "lastOpenFiles": [
-    "().md",
+    "robotics/books/fundamentals_of_control_r1_6.pdf",
     "robotics/Control Theory.md",
+    "().md",
     "robotics/attachments/Pasted image 20241225112541.png",
     "robotics/attachments/Pasted image 20241225112427.png",
-    "robotics/books/fundamentals_of_control_r1_6.pdf",
     "robotics/attachments/Pasted image 20241225112057.png",
     "robotics/attachments/Pasted image 20241225111922.png",
     "robotics/attachments/Pasted image 20241225111226.png",
@@ -360,7 +360,6 @@
     "oop/notes/multithreading/Thred Life Cycle 1.canvas",
     "smart-chats/UNTITLED CHAT 2024-11-19 06 38 19.md",
     "2024-11-19.md",
-    "2024-11-18.md",
     "Untitled.canvas"
   ]
 }

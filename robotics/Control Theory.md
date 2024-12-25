@@ -30,7 +30,6 @@ So the 3 problem we will face are
 [[#01.System Identification]] - Black box method , White box method
 [[#02.Simulation Problem]]
 [[#03.Control Problem]]
-
 # 01.System Identification
 
 # 01.**Black Box Method**
