@@ -6,7 +6,7 @@
       {
         "id": "29baf90fbc598351",
         "type": "tabs",
-        "dimension": 44.91701244813278,
+        "dimension": 43.058690744920995,
         "children": [
           {
             "id": "5ea91dd34d82a55f",
@@ -60,13 +60,12 @@
               "title": "Control Theory"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "6c716ccc1cbffe6c",
         "type": "tabs",
-        "dimension": 55.08298755186723,
+        "dimension": 56.941309255079005,
         "children": [
           {
             "id": "c155fe9e1cb2cc43",
@@ -309,11 +308,11 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "73ffc344904929cc",
+  "active": "5ea91dd34d82a55f",
   "lastOpenFiles": [
+    "robotics/Time Domain and Frequency Domain.md",
     "robotics/westminster/week 12/5elen018w_lecture8_2025.pdf",
     "robotics/Control Theory.md",
-    "robotics/Time Domain and Frequency Domain.md",
     "robotics/Transfer Functions.md",
     "robotics/books/fundamentals_of_control_r1_6.pdf",
     "robotics/westminster/assignment1_2024_2025.pdf",
