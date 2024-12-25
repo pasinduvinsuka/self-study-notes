@@ -27,4 +27,8 @@ In a give plant there will be 3 things.
 	- A box which representing the system 
 
 So the 3 problem we will face are 
-01. 
+1. System identification
+2. Simulation Problem
+3. Control Problem
+
+# System Identification
