@@ -11,14 +11,12 @@
             "id": "5ea91dd34d82a55f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "robotics/Control Theory.md",
-                "mode": "source",
-                "source": false
+                "file": "robotics/books/fundamentals_of_control_r1_6.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Control Theory"
+              "icon": "lucide-file-text",
+              "title": "fundamentals_of_control_r1_6"
             }
           }
         ]
@@ -219,14 +217,14 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "430615ffe468bf02",
+  "active": "5ea91dd34d82a55f",
   "lastOpenFiles": [
+    "robotics/Control Theory.md",
     "robotics/books/fundamentals_of_control_r1_6.pdf",
     "robotics/books",
     "2024-12-25.md",
     "robotics/Robotics (Map of Content).md",
     "Untitled 2.canvas",
-    "robotics/Control Theory.md",
     "robotics/attachments/Pasted image 20241225095332.png",
     "robotics/attachments/Pasted image 20241225095133.png",
     "robotics/attachments",
@@ -241,7 +239,6 @@
     "New Text Document.txt",
     "robotics/westminster/week 12/5elen018w_lecture8_2025.pdf",
     "robotics/Tedrake_notes.pdf",
-    "robotics/westminster/week 10/5elen018w_lecture7_2025.pdf",
     "oop/Untitled.md",
     "Pasted image 20241117110431.png",
     "Untitled 1.canvas",
