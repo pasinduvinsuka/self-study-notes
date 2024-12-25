@@ -63,3 +63,4 @@ System and the outputs are given, we have to determine the appropriate inputs th
 2. [[Closed Loop Control Systems]]
 
 [[Transfer Functions]]
+[[Time Domain and Frequency Domain]]
