@@ -24,10 +24,15 @@
             "id": "7e4510ddd5d0ef0e",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "robotics/Closed Loop Control Systems.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Closed Loop Control Systems"
             }
           },
           {
@@ -99,12 +104,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "robotics/Open Loop Control Systems.md",
+                "file": "robotics/Closed Loop Control Systems.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Open Loop Control Systems"
+              "title": "Closed Loop Control Systems"
             }
           },
           {
@@ -321,15 +326,15 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "98e6ccbb3dcd1b34",
+  "active": "5ea91dd34d82a55f",
   "lastOpenFiles": [
-    "robotics/books/fundamentals_of_control_r1_6.pdf",
+    "robotics/Closed Loop Control Systems.md",
     "robotics/Open Loop Control Systems.md",
+    "robotics/Control Theory.md",
+    "robotics/books/fundamentals_of_control_r1_6.pdf",
     "robotics/attachments/Pasted image 20241225143701.png",
     "robotics/attachments/Pasted image 20241225142707.png",
-    "robotics/Control Theory.md",
     "robotics/Robotics (Map of Content).md",
-    "robotics/Closed Loop Control Systems.md",
     "robotics/attachments/Pasted image 20241225113827.png",
     "robotics/attachments/Pasted image 20241225113523.png",
     "().md",
