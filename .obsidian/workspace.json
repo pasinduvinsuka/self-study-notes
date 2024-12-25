@@ -58,8 +58,7 @@
               "title": "Control Theory"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       },
       {
         "id": "6c716ccc1cbffe6c",
@@ -98,10 +97,14 @@
             "id": "98e6ccbb3dcd1b34",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "robotics/Open Loop Control Systems.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Open Loop Control Systems"
             }
           },
           {
@@ -175,7 +178,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "5f79579e1e02cd82",
@@ -317,13 +321,13 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "98e6ccbb3dcd1b34",
+  "active": "5ea91dd34d82a55f",
   "lastOpenFiles": [
+    "robotics/Open Loop Control Systems.md",
     "robotics/Control Theory.md",
     "robotics/Robotics (Map of Content).md",
     "robotics/books/fundamentals_of_control_r1_6.pdf",
     "robotics/Closed Loop Control Systems.md",
-    "robotics/Open Loop Control Systems.md",
     "robotics/attachments/Pasted image 20241225113827.png",
     "robotics/attachments/Pasted image 20241225113523.png",
     "().md",
