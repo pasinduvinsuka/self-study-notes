@@ -41,3 +41,4 @@ We have given with various known inputs and expected outputs. We have to infer w
 
 02.**White Box Method**
 ![[Pasted image 20241225112057.png]]
+We can open the box and see what's inside. So we can see all the underlying electronics, software and all . Then we have to figure out the 
