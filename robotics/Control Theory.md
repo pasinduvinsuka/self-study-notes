@@ -56,3 +56,8 @@ Inputs and the mathematical model is given, we have to predict the output change
 
 System and the outputs are given, we have to determine the appropriate inputs through various control methods.
 ![[Pasted image 20241225113827.png]]
+
+# Types Of Control Systems
+
+01. [[Open Loop Control Systems]]
+2. 
