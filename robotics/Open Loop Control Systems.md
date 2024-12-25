@@ -1,3 +1,5 @@
+[[fundamentals_of_control_r1_6.pdf#page=23&selection=4,0,4,41|fundamentals_of_control_r1_6, page 23]]
+
 - Let's consider the system that's being controlled as the 'process'.  
 - We have access to our inputs. Based on the control scheme we choose we can change those inputs, So these changed variables we will call as 'manipulated variables'. Those variables will be manipulated by an 'Actuator'.
 
@@ -10,4 +12,8 @@
 In this type of controllers, inputs into the system are not fed back from the outputs. So those are called as 'Open loop' controllers.
 ![[Pasted image 20241225143701.png]]
 
-## But there might be disturbance that affects our system that are random by nature and also beyond our control. So fr
+## But there might be disturbance that affects our system that are random by nature and also beyond our control. So for those scenario what we can do ?
+
+Closed Loop Control Systems a
+[[Closed Loop Control Systems]]
+ 
