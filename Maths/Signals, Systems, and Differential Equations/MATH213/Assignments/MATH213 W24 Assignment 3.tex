@@ -1,0 +1,276 @@
+\documentclass[11pt,a4paper]{article}
+
+\usepackage{amsfonts,tikz,fancyhdr,hyperref,amsmath,amsthm,enumitem,mathrsfs,latexsym,amssymb}
+\usepackage[margin=0.75in, paperwidth=8.5in,paperheight=11in]{geometry}
+
+\usepackage{lastpage}
+
+\pagestyle{fancy}
+\fancyhf{}
+\fancyfoot[R]{\thepage of \pageref{LastPage}}
+\usepackage{multicol}
+
+
+
+\usetikzlibrary{decorations.markings}
+\usepackage{pgfplots}
+\pgfplotsset{compat=1.16}
+\usepgfplotslibrary{colormaps,fillbetween}
+\usepgfplotslibrary{colorbrewer}
+
+
+
+\begin{document}
+	
+	\begin{center}
+		\LARGE \textbf{MATH 213 - Assignment 3}\\ \vspace{0.3cm}
+		\normalsize \textbf{Submit to Crowdmark by 9:00pm EST on Friday, February 16.}\\ \vspace{0.3cm}
+	\end{center}
+	
+	
+	
+	%\tableofcontents
+	%\pagenumbering{arabic}
+	%\newpage
+	
+	%\setcounter{page}{1}
+	
+	\theoremstyle{plain}
+	\newtheorem{thm}{Theorem}
+	\newtheorem{lem}[thm]{Lemma}
+	\newtheorem{cor}[thm]{Corollary}
+	\newtheorem{prop}[thm]{Proposition}
+	\newtheorem{defn}[thm]{Definition}
+	\newtheorem{exmp}[thm]{Example}
+	\newtheorem{rmk}[thm]{Remark}
+	\newtheorem{exer}[thm]{Exercise}
+	
+	%\makeatletter
+	%\•addtoreset{thm}{section}
+	%\makeatother
+	
+	\newcommand{\cc}{\mathbb{C}}
+	\newcommand{\rr}{\mathbb{R}}
+	\newcommand{\dd}{\mathbb{D}}
+	\newcommand{\cldd}{\overline{\mathbb{D}}}
+	\newcommand{\epsi}{\varepsilon}
+	\newcommand{\nn}{\mathbb{N}}
+	\newcommand{\zz}{\mathbb{Z}}
+	\newcommand{\I}{\mathcal{I}}
+	\newcommand{\fy}{\varphi}
+	\newcommand{\sign}{\text{sign}}
+	\newcommand{\bfs}{\textbf{S}}
+	\newcommand{\triv}{\textbf{1}}
+	\newcommand{\bb}{\textbf{B}}
+	\newcommand{\alga}{\mathcal{A}}
+	\newcommand{\hilb}{\mathcal{H}}
+	\newcommand{\inv}{\mathrm{GL}}
+	\newcommand{\nil}{\mathrm{Nil}}
+	\newcommand{\qnil}{\mathrm{QNil}}
+	\newcommand{\bh}{\mathcal{B(H)}}
+	\newcommand{\qh}{\mathcal{Q(H)}}
+	\newcommand{\ol}{\overline}
+	\newcommand{\dist}{\mathrm{dist}}
+	\newcommand{\nor}{\mathrm{Nor}}
+	\newcommand{\mm}{\mathbb{M}}
+	\newcommand{\au}{\sim_{au}}
+	\newcommand{\sorb}{\mathcal{S}}
+	\newcommand{\alg}{\mathrm{Alg}}
+	\newcommand{\bqt}{\mathrm{BQT}}
+	\newcommand\scalemath[2]{\scalebox{#1}{\mbox{\ensuremath{\displaystyle #2}}}}
+	
+	
+
+	
+	
+	\vfill 
+	\normalsize \noindent \textbf{Instructions:}
+	
+	\begin{enumerate}
+		
+		\item Answer each question in the space provided or on a separate piece of paper. You may also use typetting software (e.g., Word, TeX) or a writing app (e.g., Notability). 
+		
+		\item All homework problems must be solved independently.
+		
+		\item For full credit make sure you show \textbf{all }intermediate steps. If you have questions regarding showing intermediate steps, feel free to ask me.
+		
+
+		
+		\item Scan or photograph your answers. 
+		
+		\item Upload and submit your answers by following the instructions provided in an e-mail sent from Crowdmark to your uWaterloo e-mail address. Make sure to upload each problem in the correct submission area and only upload the relevant work for that problem in the submission area. Failure to do this \textbf{will} result in your work not being marked.
+		
+		
+		\item Close the Crowdmark browser window. Follow your personalized Crowdmark link again to carefully view your submission and ensure it will be accepted for credit. Any pages that are uploaded improperly (sideways, upside down, too dark/light, text cut off, out of order, in the wrong location, etc.) will be given a score of \textbf{zero}.\\
+
+		\vspace{0.5cm}
+		
+	\end{enumerate}
+	
+	\newpage
+	
+	\noindent \textbf{Read before starting the assignment:}	In some of the problems in this assignment (1bii, 1cii, 2) I permit the use of to aid in some of the more computational aspect of the problems. The reason I am permitting this is to focus on the new material rather than previous material (partial fractions and integration) which you should already know how to do and will be responsible for on the exam. Unless otherwise explicitly stated all computations \textbf{must} be done by hand, without the use of outside aid (i.e. peers, google, AI, etc.) and all work must be shown.
+	
+	
+	\noindent\textbf{Questions:}
+	
+
+	\begin{center}
+		\textbf{Applied Problems:}
+	\end{center}
+	\begin{enumerate}
+		
+		\item (8 marks) Recall the harmonic oscillator considered in example 7 of lecture 2 and example 1 of lecture 8 with spring constant $k$, dampening coefficient $b$ and an forcing term $f_{ap}(t)$. In lecture 8 we showed that for this system with initial conditions $y(0)$ and $y'(0)$ the Laplace transform of the solution $y(t)$ is given by
+		\[
+		Y(s)=\frac{F_{ap}(s)}{s^2+bs+k}+ \frac{(s+b)y(0)+y'(0)}{s^2+bs+k}.
+		\]
+		In this problem we will use this expression to explore some real world applications of simple harmonic motion in three different regimes the undamped case, the underdamped case and the overdamped case\footnote{There is another case that we do not consider in this question called the critically damped case}.
+		\begin{enumerate}
+			\item Suppose that the UW midnight sun solar car team decided, unwisely, to use an \underline{undamped} suspension system with spring constant $k=1$ and dampening constant $b=0$. In the absence of a forcing term, a spring with these physical properties and the initial conditions $y(0)=1$ and $y'(0)=0$ oscillates forever between $y=-1$ and $y=1$. Using the given $Y(s)$ found in class, find at least two forcing terms so that $f_{ap}(t)$ \underline{remains bounded} while $y(t)$ is unbounded (i.e. there is a $M\in\mathbb{R}$ such that for all $t\in \mathbb{R}_{\geq0}$ $|f_{ap}(t)|\leq M$ but $\lim_{t\to\infty} y(t)$``$=$''$\pm \infty$).  
+			
+			You should explicitly compute what your $f_{ap}(t)$ functions are.\\
+			
+
+			
+			\textbf{Note:} Because such forcing terms sometime exists, for real world design problems one 1) needs to check for such cases and 2) either needs to make sure that these $f_{ap}(t)$ forcing terms \underline{never} occur naturally or ideally would redesign the system so that no forcing term with finite energy can lead to unbounded solutions. This analysis can be done by simply looking at the locations of the poles!
+			
+			
+			
+			
+			\item Suppose buddy, who has unit mass, is bungee jumping using a cable that can be modelled by a \underline{underdamped} harmonic oscillator with a spring coefficient of $k=1$, a dampening factor $b=1$ and a forcing term $f_{ap}(t)=0$. At the bottom of buddy's jump the string was stretched by $-2g$ units from equilibrium and had a velocity of $0$. These conditions can be represented by the initial conditions $y(0)=-2g$ and $y'(0)=0$. Here $y=0$ represents the length of the cord at equilibrium (i.e. the position when buddy is hanging by the cord and is at rest)\footnote{We could have alternatively make $y=0$ be the unstretched length and add a forcing factor of gravity to our DE.} and $g=9.81$\footnote{I am using non-dimensional numbers}.
+			
+			\begin{enumerate}
+				\item Assuming the data in the above statement, solve the IVP for the harmonic motion of the bungee cord. You may use the $Y(s)$ given in lecture.
+				
+
+				
+				\item The human body can generally withstand a \href{https://en.wikipedia.org/wiki/G-force#Human_tolerance}{range of g-force levels} depending on body positioning and duration of time. Suppose buddy's enjoyable g-force tolerance requires that he only experiences a g-force above 2g (i.e. the 2 times the acceleration of gravity) for less than 0.1 seconds at once and a maximum g-force of $4g$. Note that because of the ever present force of gravity on the surface of the earth, the total g-force Buddy experiences while bungee jumping is given by $\underbrace{y''(t)}_\text{g-force from cable}+\underbrace{g}_\text{g-force from earth}$ and both positive and negative g-forces are important to check. 
+				
+				Use your result in part i, determine if Buddy's criteria are met.
+				
+				\textbf{Comment:} For 1b you need to compute the solution $y(t)$ in part i by hand but may use a calculator/numerical methods to compute and plot $y''(t)$ to check the criteria for part ii. Make sure you provide enough information about how you found your results for part ii to justify your results. 
+				
+				
+			\end{enumerate}
+			
+			
+			
+			
+			\item Suppose that Jaxton's mom bought an \underline{overdamped} hydraulic door closer with $k=1$ and $b=4$ to prevent Jaxton (her toddler) from slamming his door. Jaxton attempts to slam his door by applying the initial conditions $y(0)=1$ and $y'(0)=-2$ and the forcing term $f_{ap}(t)=0$. Here $y$ is the distance from the end of the door and the door frame with $y=0$ representing a closed door, $y>0$ representing the door being opened to various degrees and $y<0$ representing a door that is opened the other way (i.e. the door broke).
+			\begin{enumerate}
+				\item Use the above information to solve the IVP for the position of the door over time. You may again use the results of $Y(s)$ for the case of simple harmonic motion that we derived in class.
+				
+				\item Suppose that in this non-dimensional model rapidly closing a door only causes a loud noise if the position of the door decreases from 0.1 to 0.01 within $1$ unit of time. Does the door make a loud noise in this case?
+				
+				
+				\textbf{Comment:} For 1c you need to compute the solution $y(t)$ in part i by hand but may use a calculator/numerical methods to plot and analyze $y(t)$ to check the criteria for part ii. Make sure you provide enough information about how you found your results for part ii to justify your results. 
+			\end{enumerate}
+			
+			
+			
+			
+			
+		\end{enumerate}
+		
+		
+		
+		
+		
+		
+		
+	\begin{center}
+		\textbf{Computational Problems:}
+	\end{center}
+		
+		
+		\textbf{Read before starting problem 2:} For problem 2 you must give the correct functional form for any needed partial fraction decompositions \textbf{but} can use a calculator to help find the coefficients. Additionally, you may use calculators to compute any needed integrals. You must explicitly state what resource(s) you used and can \underline{only} use resources to aid in computing the coefficients of the partial fraction decompositions you chose and to help evaluate any integrals you may setup. You must show all steps for how you compute the inverse Laplace transforms.
+		
+		\item (5 points) Solve the IVP $y^{(4)}(t)-y(t)=\sin(t)$ with the  initial conditions $y^{(3)}(0)=0$, $y''(0)=0$, $y'(0)=0$ and $y(0)=0$. \\
+		
+	
+		
+		
+		\noindent \textbf{Read before starting questions 3-5:} For questions 3-5 all calculations must be done by hand and no outside calculators can be used. Show all your work. 
+	
+		\item In this question we will compare the effect that the initial condition has compared to the delta function.
+		
+		\begin{enumerate}
+			\item (2 marks) Use our revised Laplace table from Lecture 9 to find the zero-input, $Y_{ZIR}(s)$, and zero-state, $Y_{ZSR}(s)$, responses for the IVP 
+			\[
+			y''+\alpha y'=a\delta(t)+b\delta'(t),~~~~~~ y(0)=c, ~~~~~y'(0)=d.
+			\]
+			Here $\alpha, a,b,c$ and $d$ are unknown constants. 
+			
+			\item (1 mark) Find the relation between $a,b$ and $c,d$ so that $Y_{ZSR}(s)=Y_{ZIR}(s)$.\\~\\
+			
+			\textbf{Note: }This result means that if we allow for the $\delta$ function and its derivatives to be used as forcing terms then we can transform all IVPs for linear DEs with constant coefficients to ones where the initial conditions are all zero. Hence, if we know what the zero-input response is for all functions (including $\delta(t)$, $\delta'(t)$, etc), then we also know the zero-state response for all ICs of the standard form.
+		\end{enumerate}
+	
+	
+
+		
+		
+		
+		
+		
+		
+		
+
+				
+		\item While solving some high order DEs, Marmie the cat (shown below and as requested by students in office hours) was working with some Laplace transforms and could not figure out what final values were. Additionally, she was unsure if the initial conditions were properly used (this made her quite tired and hence why she is laying down).
+		
+		\begin{center}
+			\includegraphics[width=.5\textwidth]{M3.jpg}
+		\end{center}
+		
+		
+		
+		Determine $y(0)$ and $\lim_{t\to \infty} y(t)$ (if they exist) for the various $Y(s)$ functions Marmie found. If the limit as $t$ tends to $\infty$ does not exist, explain why (i.e. oscillates vs diverges to $\pm\infty$).
+		
+		\begin{enumerate}
+			\item (3 marks)\[
+			Y(s)=\frac{s^{9001}}{(s+2)^{9002}-1} 
+			\]
+			
+			Hint: In case you forgot refresh how to find the $nth$ roots of unity from MATH 115 (PDF available on Learn).
+			
+			\item (3 marks)\[
+			Y(s)=\frac {s^5+1}{s^7+s^5}
+			\]
+			
+			\item (4 marks)
+			\[
+			Y(s)=\frac{s^3}{s^2+2s+1}
+			\]
+		\end{enumerate}
+		
+		
+
+		
+		\item Your pal Woolipop$^\text{TM}$ is working with  DE whose transfer function is given by 
+		\[
+		T(s)=\frac{1}{(s+1)(s+5)(s-6)}\hspace{1in}\text{or}\hspace{1in}\frac{1}{s^3-31s-30}
+		\]
+		and wants your help to analyze the solution.
+		
+		\begin{enumerate}
+			\item[a)] (1 mark) Find a DE whose transfer function is the one provided. 
+			\item[b)] (2 marks) Determine if the solution to the unforced IVP with initial conditions $y(0)=1$ $y'(0)=-1$ and $y''(0)=1$ is bounded.
+			\item[c)] (1 bonus mark) Find the least restrictive conditions on the initial conditions $y(0)$, $y'(0)$ and $y''(0)$ so that the inverse Laplace transform of the zero-input response is bounded. i.e. give all possible initial conditions so that the solution is bounded.
+			
+			Part c is all or none (i.e. no part marks). Make sure you submit in the separate 5c slot on crowdmark.
+		\end{enumerate}
+	
+		
+		
+		
+		
+	\end{enumerate}
+	
+	
+
+	
+
+	
+	
+\end{document}
