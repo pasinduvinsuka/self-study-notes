@@ -40,10 +40,10 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "robotics/westminster/week 10/5elen018w_lecture7_2025.pdf"
+                "file": "robotics/westminster/week 12/5elen018w_lecture8_2025.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "5elen018w_lecture7_2025"
+              "title": "5elen018w_lecture8_2025"
             }
           },
           {
@@ -311,6 +311,7 @@
   },
   "active": "8d185bbcf16cf4e2",
   "lastOpenFiles": [
+    "robotics/westminster/week 10/5elen018w_lecture7_2025.pdf",
     "robotics/westminster/week 10/5elen018w_lecture6_2025.pdf",
     "robotics/westminster/week 12/5elen018w_lecture8_2025.pdf",
     "robotics/books/fundamentals_of_control_r1_6.pdf",
@@ -322,7 +323,6 @@
     "robotics/Closed Loop Control Systems.md",
     "robotics/westminster/5elen018w_lecture2_2025.pdf",
     "robotics/Robotics (Map of Content).md",
-    "robotics/westminster/week 10/5elen018w_lecture7_2025.pdf",
     "robotics/attachments/Pasted image 20241225150145.png",
     "robotics/attachments/Pasted image 20241225150137.png",
     "robotics/attachments/Pasted image 20241225150121.png",
