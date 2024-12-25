@@ -166,7 +166,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "5f79579e1e02cd82",
@@ -308,14 +309,14 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "1f030d22ba93d18a",
+  "active": "5ea91dd34d82a55f",
   "lastOpenFiles": [
+    "robotics/Transfer Functions.md",
     "robotics/attachments/Pasted image 20241225202401.png",
     "robotics/books/fundamentals_of_control_r1_6.pdf",
     "robotics/Time Domain and Frequency Domain.md",
     "robotics/westminster/week 12/5elen018w_lecture8_2025.pdf",
     "robotics/Control Theory.md",
-    "robotics/Transfer Functions.md",
     "robotics/westminster/assignment1_2024_2025.pdf",
     "robotics/Closed Loop Control Systems.md",
     "robotics/westminster/5elen018w_lecture2_2025.pdf",
@@ -333,7 +334,6 @@
     "robotics/attachments/Pasted image 20241225113827.png",
     "robotics/attachments/Pasted image 20241225113523.png",
     "().md",
-    "robotics/attachments/Pasted image 20241225112541.png",
     "robotics/books",
     "2024-12-25.md",
     "Untitled 2.canvas",
