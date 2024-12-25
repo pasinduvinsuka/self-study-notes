@@ -60,8 +60,7 @@
               "title": "Control Theory"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "6c716ccc1cbffe6c",
@@ -309,8 +308,11 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "8d185bbcf16cf4e2",
+  "active": "5ea91dd34d82a55f",
   "lastOpenFiles": [
+    "robotics/Control Theory.md",
+    "robotics/Transfer Functions.md",
+    "Maths/Signals, Systems, and Differential Equations/MATH213/Lectures/MATH 213 Lecture 5 - More Laplace Transforms and Convolution.pdf",
     "Maths/Signals, Systems, and Differential Equations/MATH213/Lectures/MATH 213 Lecture 4 - More Laplace Transforms and Properties of Laplace Transforms (sol).pdf",
     "Maths/Signals, Systems, and Differential Equations/MATH213/Lectures/MATH 213 Lecture 4 - More Laplace Transforms and Properties of Laplace Transforms.pdf",
     "Maths/Signals, Systems, and Differential Equations/MATH213/Lectures/MATH 213 Lecture 3 - Intro to Laplace Transform (sol).pdf",
@@ -320,12 +322,8 @@
     "Maths/Signals, Systems, and Differential Equations/MATH213/Lectures/1-23.pdf",
     "Maths/Signals, Systems, and Differential Equations/MATH213/Lectures/1-23 RAW.pdf",
     "Maths/Signals, Systems, and Differential Equations/MATH213/Lectures/MATH 213 Lecture 1 - Introduction to Differential Equations.pdf",
-    "robotics/westminster/week 12/5elen018w_lecture8_2025.pdf",
-    "robotics/Transfer Functions.md",
-    "Maths/Signals, Systems, and Differential Equations/MATH213/Tutorials/MATH213 W24 Tutorial 8 Bode plots.pdf",
     "robotics/attachments/Pasted image 20241225202401.png",
     "robotics/Time Domain and Frequency Domain.md",
-    "robotics/Control Theory.md",
     "robotics/Closed Loop Control Systems.md",
     "robotics/Robotics (Map of Content).md",
     "robotics/attachments/Pasted image 20241225150145.png",
