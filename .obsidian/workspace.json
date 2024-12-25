@@ -6,7 +6,7 @@
       {
         "id": "29baf90fbc598351",
         "type": "tabs",
-        "dimension": 51.41987829614605,
+        "dimension": 44.91701244813278,
         "children": [
           {
             "id": "5ea91dd34d82a55f",
@@ -66,7 +66,7 @@
       {
         "id": "6c716ccc1cbffe6c",
         "type": "tabs",
-        "dimension": 48.580121703853955,
+        "dimension": 55.08298755186723,
         "children": [
           {
             "id": "c155fe9e1cb2cc43",
@@ -296,12 +296,12 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "8d185bbcf16cf4e2",
+  "active": "1f030d22ba93d18a",
   "lastOpenFiles": [
+    "robotics/westminster/week 12/5elen018w_lecture8_2025.pdf",
     "robotics/Transfer Functions.md",
     "robotics/books/fundamentals_of_control_r1_6.pdf",
     "robotics/Control Theory.md",
-    "robotics/westminster/week 12/5elen018w_lecture8_2025.pdf",
     "robotics/westminster/assignment1_2024_2025.pdf",
     "robotics/Closed Loop Control Systems.md",
     "robotics/westminster/5elen018w_lecture2_2025.pdf",
