@@ -1,1 +1,2 @@
-Let's consider the system that's being controlled as the 'process'.  
+- Let's consider the system that's being controlled as the 'process'.  
+- We have access to our inputs and we can
