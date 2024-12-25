@@ -9,3 +9,5 @@
 
 In this type of controllers, inputs into the system are not fed back from the outputs. So those are called as 'Open loop' controllers.
 ![[Pasted image 20241225143701.png]]
+
+## But there might be disturbance that affects our system that are random by nature and also beyond our control
