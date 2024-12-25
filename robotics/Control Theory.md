@@ -28,7 +28,7 @@ In a give plant there will be 3 things.
 
 So the 3 problem we will face are 
 1. System identification - Black box method , White box method
-2. [[Simulation Problem]]
+2. [[]]
 3. Control Problem
 
 #  01.System Identification 
