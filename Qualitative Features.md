@@ -8,4 +8,7 @@ That's a common problem in the Fourier series.
 
 **In here we have always used a sin wave to approximate our function. What's the big advantage of using a sin wave here ?**
 
-# Just because the sin wave is periodic. So if we zoomed out our current appro
+# Just because the sin wave is periodic. So if we zoomed out our current approximation, we will get the below.
+
+![[Pasted image 20241226220303.png]]
+
