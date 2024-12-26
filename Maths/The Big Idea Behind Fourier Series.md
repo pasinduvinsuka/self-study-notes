@@ -15,9 +15,15 @@ Well we can do but its like very much loosely like in the below image 😕
 
 How can we make this approximation much more better ? 
 ![[Pasted image 20241226205523.png]]
-	 we can see that if there is a way we can move this sin wave into the directions marked in the image, then we can have a sort of better approximation than the current one. 
-	 So how can we do that ?
+```
+we can see that if there is a way we can move this sin wave into the directions marked in the image, then we can have a sort of better approximation than the current one. 
 
+```
+
+**So how can we do that ?**
+
+```
 Let's try by introducing a newer sin wave to here instead of only having one the we had before. Now we have 2 sin waves.
+```
 
 ![[Pasted image 20241226205804.png]]
