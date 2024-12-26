@@ -18,7 +18,7 @@ How can we make this approximation much more better ?
 `
 we can see that if there is a way we can move this sin wave into the directions marked in the image, then we can have a sort of better approximation than the current one. 
 
-
+`
 
 **So how can we do that ?**
 
@@ -30,4 +30,6 @@ Let's try by introducing a newer sin wave to here instead of only having one the
 So once we add the above 2 sin waves together, as a result of that we get the below sin wave.
 
 ![[Pasted image 20241226210037.png]]
-`Now`
+`Now we can see that this is bit better than the previous approximation we had before 😁`
+
+**Let's add another sin wave to this **
