@@ -14,3 +14,4 @@ So sin and cos functions are example for periodic functions. Apart from them, th
 ![[Pasted image 20241226204839.png]]
 
 [[The Big Idea Behind Fourier Series]]
+[[Qualitative Features]]
