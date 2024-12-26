@@ -7,6 +7,9 @@
     "embed_model": {
       "model_key": "TaylorAI/bge-micro-v2",
       "legacy_transformers": true
+    },
+    "smart_change": {
+      "active": true
     }
   },
   "file_exclusions": "Untitled",
@@ -17,5 +20,6 @@
     "results_limit": "20",
     "exclude_inlinks": false,
     "exclude_outlinks": false
-  }
+  },
+  "excluded_headings": ""
 }
