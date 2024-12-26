@@ -32,4 +32,4 @@ So once we add the above 2 sin waves together, as a result of that we get the be
 ![[Pasted image 20241226210037.png]]
 `Now we can see that this is bit better than the previous approximation we had before 😁`
 
-**Let's add another sin wave to this **
+**Let's add another sin wave to this and see what;s**
