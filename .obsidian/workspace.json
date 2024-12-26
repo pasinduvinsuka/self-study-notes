@@ -11,14 +11,10 @@
             "id": "c155fe9e1cb2cc43",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "robotics/Control Theory.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Control Theory"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           },
           {
@@ -53,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Qualitative Features.md",
+                "file": "Maths/Qualitative Features.md",
                 "mode": "source",
                 "source": false
               },
@@ -67,7 +63,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Qualitative Features.md",
+                "file": "Maths/Qualitative Features.md",
                 "mode": "source",
                 "source": false
               },
@@ -76,7 +72,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -132,8 +128,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 253.5,
-    "collapsed": true
+    "width": 253.5
   },
   "right": {
     "id": "5f79579e1e02cd82",
@@ -149,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Qualitative Features.md",
+                "file": "Maths/Fourier Series.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +154,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Qualitative Features"
+              "title": "Backlinks for Fourier Series"
             }
           },
           {
@@ -274,25 +269,24 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "4c500780d9dc941d",
+  "active": "430615ffe468bf02",
   "lastOpenFiles": [
+    "robotics/westminster/week 12/5elen018w_lecture8_2025.pdf",
+    "robotics/Control Theory.md",
+    "Maths/Qualitative Features.md",
     "attachments/Pasted image 20241226221645.png",
     "attachments/Pasted image 20241226221512.png",
     "attachments/Pasted image 20241226221401.png",
     "Maths/The Big Idea Behind Fourier Series.md",
     "Maths/Fourier Series.md",
-    "robotics/westminster/week 12/5elen018w_lecture8_2025.pdf",
     "robotics/Time Domain and Frequency Domain.md",
-    "Qualitative Features.md",
     "attachments/Pasted image 20241226220303.png",
     "attachments/Pasted image 20241226215123.png",
     "attachments/Pasted image 20241226214943.png",
-    "robotics/Control Theory.md",
     "Maths/attachments/Pasted image 20241226210536.png",
     "Maths/attachments/Pasted image 20241226210533.png",
     "Maths/attachments/Pasted image 20241226210518.png",
     "Maths/attachments/Pasted image 20241226210455.png",
-    "Maths/attachments/Pasted image 20241226210452.png",
     "Maths/attachments",
     "robotics/books/fundamentals_of_control_r1_6.pdf",
     "robotics/westminster/week 10/5elen018w_lecture7_2025.pdf",
