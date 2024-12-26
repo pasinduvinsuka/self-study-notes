@@ -16,3 +16,5 @@ That's a common problem in the Fourier series.
 
 ![[Pasted image 20241226221401.png]]
 ![[Pasted image 20241226221512.png]]
+
+### Future Questions ❔
