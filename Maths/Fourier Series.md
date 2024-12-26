@@ -11,3 +11,6 @@ Which means if we consider a period T and then add it into the current function 
 	![[Pasted image 20241226204707.png]]
 
 So sin and cos functions are example for periodic functions. Apart from them, the below square wave is also an example for a periodic function.
+![[Pasted image 20241226204839.png]]
+
+[[The Big Idea Behind Fourier Series]]
