@@ -11,3 +11,5 @@ Well we can do but its like very much loosely like in the below image 😕
 
 **Let's zoom into a small part of our wave**
 
+![[Pasted image 20241226205415.png]]
+How can we make this approximation much more better ? 
