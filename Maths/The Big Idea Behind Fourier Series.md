@@ -18,7 +18,7 @@ How can we make this approximation much more better ?
 `
 we can see that if there is a way we can move this sin wave into the directions marked in the image, then we can have a sort of better approximation than the current one. 
 
-``
+
 
 **So how can we do that ?**
 
