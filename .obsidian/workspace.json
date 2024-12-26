@@ -24,14 +24,12 @@
             "id": "7e4510ddd5d0ef0e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "robotics/Transfer Functions.md",
-                "mode": "source",
-                "source": false
+                "file": "robotics/westminster/week 10/5elen018w_lecture7_2025.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Transfer Functions"
+              "icon": "lucide-file-text",
+              "title": "5elen018w_lecture7_2025"
             }
           },
           {
@@ -311,12 +309,13 @@
   },
   "active": "7e4510ddd5d0ef0e",
   "lastOpenFiles": [
+    "robotics/westminster/week 12/5elen018w_lecture8_2025.pdf",
+    "robotics/Transfer Functions.md",
     "robotics/westminster/assignment1_2024_2025.pdf",
     "robotics/Control Theory.md",
     "Maths/Signals, Systems, and Differential Equations/MATH213/Lectures/MATH 213 Lecture 5 - More Laplace Transforms and Convolution.pdf",
     "robotics/Time Domain and Frequency Domain.md",
     "robotics/books/fundamentals_of_control_r1_6.pdf",
-    "robotics/Transfer Functions.md",
     "Maths/Signals, Systems, and Differential Equations/MATH213/Lectures/MATH 213 Lecture 4 - More Laplace Transforms and Properties of Laplace Transforms (sol).pdf",
     "Maths/Signals, Systems, and Differential Equations/MATH213/Lectures/MATH 213 Lecture 4 - More Laplace Transforms and Properties of Laplace Transforms.pdf",
     "Maths/Signals, Systems, and Differential Equations/MATH213/Lectures/MATH 213 Lecture 3 - Intro to Laplace Transform (sol).pdf",
