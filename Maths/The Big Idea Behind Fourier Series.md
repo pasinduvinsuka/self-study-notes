@@ -38,3 +38,6 @@ So once we add the above 2 sin waves together, as a result of that we get the be
 ![[Pasted image 20241226210304.png]]
 `Wow we get much more better approximation now !`
 
+# AND THIS IS THE BIG IDEA BEHIND THE FOURIER SERIES.
+
+let's keep adding more sin waves into this.
