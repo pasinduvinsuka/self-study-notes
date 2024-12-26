@@ -9,4 +9,5 @@ In here what we mean by this function is being periodic (specially being 2Pi per
 
 Which means if we consider a period T and then add it into the current function then we will get back the same exact value as where we started again.
 	![[Pasted image 20241226204707.png]]
-	
+
+So sin and cos functions are example for periodic functions. Apart from them, the below square wave is also an example for a periodic function.
