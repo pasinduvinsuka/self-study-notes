@@ -61,7 +61,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       },
       {
         "id": "6c716ccc1cbffe6c",
@@ -309,11 +309,11 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "095a0c5c9ee5d550",
+  "active": "7e4510ddd5d0ef0e",
   "lastOpenFiles": [
     "robotics/westminster/assignment1_2024_2025.pdf",
-    "Maths/Signals, Systems, and Differential Equations/MATH213/Lectures/MATH 213 Lecture 5 - More Laplace Transforms and Convolution.pdf",
     "robotics/Control Theory.md",
+    "Maths/Signals, Systems, and Differential Equations/MATH213/Lectures/MATH 213 Lecture 5 - More Laplace Transforms and Convolution.pdf",
     "robotics/Time Domain and Frequency Domain.md",
     "robotics/books/fundamentals_of_control_r1_6.pdf",
     "robotics/Transfer Functions.md",
@@ -324,7 +324,6 @@
     "Maths/Signals, Systems, and Differential Equations/MATH213/Lectures/MATH 213 Lecture 2 - Classifications of DEs and ex of linear DEs (Sol).pdf",
     "Maths/Signals, Systems, and Differential Equations/MATH213/Lectures/MATH 213 Lecture 2 - Classifications of DEs and ex of linear DEs.pdf",
     "Maths/Signals, Systems, and Differential Equations/MATH213/Lectures/1-23.pdf",
-    "Maths/Signals, Systems, and Differential Equations/MATH213/Lectures/1-23 RAW.pdf",
     "robotics/attachments/Pasted image 20241225202401.png",
     "robotics/Closed Loop Control Systems.md",
     "robotics/Robotics (Map of Content).md",
