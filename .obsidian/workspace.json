@@ -21,12 +21,14 @@
             "id": "73ffc344904929cc",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "robotics/westminster/week 12/5elen018w_lecture8_2025.pdf"
+                "file": "Maths/Fourier Series.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "5elen018w_lecture8_2025"
+              "icon": "lucide-file",
+              "title": "Fourier Series"
             }
           },
           {
@@ -71,8 +73,7 @@
               "title": "Qualitative Features"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -144,7 +145,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Maths/Fourier Series.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +154,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Fourier Series"
+              "title": "Backlinks"
             }
           },
           {
@@ -269,8 +269,9 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "430615ffe468bf02",
+  "active": "c155fe9e1cb2cc43",
   "lastOpenFiles": [
+    "Maths/Fourier Series.md",
     "robotics/westminster/week 12/5elen018w_lecture8_2025.pdf",
     "robotics/Control Theory.md",
     "Maths/Qualitative Features.md",
@@ -278,7 +279,6 @@
     "attachments/Pasted image 20241226221512.png",
     "attachments/Pasted image 20241226221401.png",
     "Maths/The Big Idea Behind Fourier Series.md",
-    "Maths/Fourier Series.md",
     "robotics/Time Domain and Frequency Domain.md",
     "attachments/Pasted image 20241226220303.png",
     "attachments/Pasted image 20241226215123.png",
