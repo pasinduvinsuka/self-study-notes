@@ -44,3 +44,5 @@ let's keep adding more sin waves into this.
 
 ![[Pasted image 20241226210455.png]]
 ![[Pasted image 20241226210536.png]]
+
+[[Qualitative Features]]
