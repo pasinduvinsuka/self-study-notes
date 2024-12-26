@@ -27,3 +27,4 @@ Let's try by introducing a newer sin wave to here instead of only having one the
 ```
 
 ![[Pasted image 20241226205804.png]]
+So once we add the above 
