@@ -25,14 +25,12 @@
             "id": "73ffc344904929cc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "robotics/Time Domain and Frequency Domain.md",
-                "mode": "source",
-                "source": false
+                "file": "robotics/westminster/week 12/5elen018w_lecture8_2025.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Time Domain and Frequency Domain"
+              "icon": "lucide-file-text",
+              "title": "5elen018w_lecture8_2025"
             }
           },
           {
@@ -78,7 +76,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -277,15 +275,15 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "2f309a6a724a31bf",
+  "active": "73ffc344904929cc",
   "lastOpenFiles": [
+    "robotics/Time Domain and Frequency Domain.md",
+    "Qualitative Features.md",
     "attachments/Pasted image 20241226220303.png",
     "attachments/Pasted image 20241226215123.png",
     "attachments/Pasted image 20241226214943.png",
     "Maths/The Big Idea Behind Fourier Series.md",
     "Maths/Fourier Series.md",
-    "Qualitative Features.md",
-    "robotics/Time Domain and Frequency Domain.md",
     "robotics/Control Theory.md",
     "Maths/attachments/Pasted image 20241226210536.png",
     "Maths/attachments/Pasted image 20241226210533.png",
@@ -294,7 +292,6 @@
     "Maths/attachments/Pasted image 20241226210452.png",
     "Maths/attachments/Pasted image 20241226210304.png",
     "Maths/attachments/Pasted image 20241226210249.png",
-    "Maths/attachments/Pasted image 20241226210037.png",
     "Maths/attachments",
     "robotics/books/fundamentals_of_control_r1_6.pdf",
     "robotics/westminster/week 10/5elen018w_lecture7_2025.pdf",
