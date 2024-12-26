@@ -60,7 +60,8 @@
               "title": "Control Theory"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "6c716ccc1cbffe6c",
@@ -308,12 +309,13 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "5ea91dd34d82a55f",
+  "active": "8d185bbcf16cf4e2",
   "lastOpenFiles": [
-    "robotics/Transfer Functions.md",
-    "robotics/books/fundamentals_of_control_r1_6.pdf",
     "robotics/Control Theory.md",
+    "robotics/Time Domain and Frequency Domain.md",
+    "robotics/books/fundamentals_of_control_r1_6.pdf",
     "Maths/Signals, Systems, and Differential Equations/MATH213/Lectures/MATH 213 Lecture 5 - More Laplace Transforms and Convolution.pdf",
+    "robotics/Transfer Functions.md",
     "Maths/Signals, Systems, and Differential Equations/MATH213/Lectures/MATH 213 Lecture 4 - More Laplace Transforms and Properties of Laplace Transforms (sol).pdf",
     "Maths/Signals, Systems, and Differential Equations/MATH213/Lectures/MATH 213 Lecture 4 - More Laplace Transforms and Properties of Laplace Transforms.pdf",
     "Maths/Signals, Systems, and Differential Equations/MATH213/Lectures/MATH 213 Lecture 3 - Intro to Laplace Transform (sol).pdf",
@@ -323,7 +325,6 @@
     "Maths/Signals, Systems, and Differential Equations/MATH213/Lectures/1-23.pdf",
     "Maths/Signals, Systems, and Differential Equations/MATH213/Lectures/1-23 RAW.pdf",
     "robotics/attachments/Pasted image 20241225202401.png",
-    "robotics/Time Domain and Frequency Domain.md",
     "robotics/Closed Loop Control Systems.md",
     "robotics/Robotics (Map of Content).md",
     "robotics/attachments/Pasted image 20241225150145.png",
