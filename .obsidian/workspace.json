@@ -53,12 +53,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Maths/The Big Idea Behind Fourier Series.md",
+                "file": "Qualitative Features.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The Big Idea Behind Fourier Series"
+              "title": "Qualitative Features"
             }
           },
           {
@@ -76,7 +76,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -149,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "robotics/MR (1).pdf",
+                "file": "Qualitative Features.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for MR (1)"
+              "title": "Backlinks for Qualitative Features"
             }
           },
           {
@@ -251,8 +251,7 @@
               "title": "Plugin no longer active"
             }
           }
-        ],
-        "currentTab": 7
+        ]
       }
     ],
     "direction": "horizontal",
@@ -275,15 +274,16 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "73ffc344904929cc",
+  "active": "4c500780d9dc941d",
   "lastOpenFiles": [
+    "Maths/The Big Idea Behind Fourier Series.md",
+    "Maths/Fourier Series.md",
+    "robotics/westminster/week 12/5elen018w_lecture8_2025.pdf",
     "robotics/Time Domain and Frequency Domain.md",
     "Qualitative Features.md",
     "attachments/Pasted image 20241226220303.png",
     "attachments/Pasted image 20241226215123.png",
     "attachments/Pasted image 20241226214943.png",
-    "Maths/The Big Idea Behind Fourier Series.md",
-    "Maths/Fourier Series.md",
     "robotics/Control Theory.md",
     "Maths/attachments/Pasted image 20241226210536.png",
     "Maths/attachments/Pasted image 20241226210533.png",
@@ -297,7 +297,6 @@
     "robotics/westminster/week 10/5elen018w_lecture7_2025.pdf",
     "robotics/westminster/assignment1_2024_2025.pdf",
     "robotics/Transfer Functions.md",
-    "robotics/westminster/week 12/5elen018w_lecture8_2025.pdf",
     "Maths/Signals, Systems, and Differential Equations/MATH213/Lectures/MATH 213 Lecture 5 - More Laplace Transforms and Convolution.pdf",
     "Maths/Signals, Systems, and Differential Equations/MATH213/Lectures/MATH 213 Lecture 4 - More Laplace Transforms and Properties of Laplace Transforms (sol).pdf",
     "Maths/Signals, Systems, and Differential Equations/MATH213/Lectures/MATH 213 Lecture 4 - More Laplace Transforms and Properties of Laplace Transforms.pdf",
