@@ -55,7 +55,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The Big Idea Behind Fourier Series.md",
+                "file": "Maths/The Big Idea Behind Fourier Series.md",
                 "mode": "source",
                 "source": false
               },
@@ -120,7 +120,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 253.5
+    "width": 253.5,
+    "collapsed": true
   },
   "right": {
     "id": "5f79579e1e02cd82",
@@ -264,8 +265,11 @@
   },
   "active": "4c500780d9dc941d",
   "lastOpenFiles": [
+    "Maths/attachments/Pasted image 20241226205030.png",
+    "Maths/attachments/Pasted image 20241226205027.png",
     "Maths/Fourier Series.md",
-    "The Big Idea Behind Fourier Series.md",
+    "Maths/The Big Idea Behind Fourier Series.md",
+    "Maths/attachments/Pasted image 20241226205009.png",
     "Maths/attachments/Pasted image 20241226204839.png",
     "Maths/attachments/Pasted image 20241226204707.png",
     "Maths/attachments/Pasted image 20241226204550.png",
@@ -289,8 +293,6 @@
     "robotics/Robotics (Map of Content).md",
     "robotics/attachments/Pasted image 20241225150145.png",
     "robotics/attachments/Pasted image 20241225150137.png",
-    "robotics/attachments/Pasted image 20241225150121.png",
-    "robotics/attachments/Pasted image 20241225150057.png",
     "robotics/Open Loop Control Systems.md",
     "().md",
     "2024-12-25.md",
@@ -313,7 +315,6 @@
     "oop/notes/multithreading/Thread Signaling Process.canvas",
     "robotics/Practice Question Theories.md",
     "robotics/configuration space.md",
-    "robotics/westminster/week 06 & 07 & 08/Untitled.md",
     "Thred Life Cycle.canvas",
     "oop/notes/multithreading/Thred Life Cycle 1.canvas",
     "Untitled.canvas"
