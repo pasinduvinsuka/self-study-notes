@@ -4,4 +4,6 @@ So how can we get rid of the previously discussed steady state error ? we can do
 ![[Pasted image 20241228124038.png]]
 
 ![[Pasted image 20241228130836.png]]
-`So our integral part will keep the track of our error rate. So it will keeps running the sum of error over time.`
+`So our integral part will keep the track of our error rate. So it will keeps running the sum of error over time. So whenever there is an error the integral part is gonna increase.
+`So while in the steady state error our integral part will keep to growing.`
+`
