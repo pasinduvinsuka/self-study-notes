@@ -144,7 +144,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -342,9 +342,10 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "73ffc344904929cc",
+  "active": "7cac623a9f7eb184",
   "lastOpenFiles": [
     "robotics/Control Theory/PID controller/PID controller Intution.md",
+    "robotics/Open Loop Control Systems.md",
     "robotics/Control Theory/PID controller/attachments/Pasted image 20241228132335.png",
     "robotics/Control Theory/PID controller/attachments/Pasted image 20241228132134.png",
     "robotics/Control Theory/PID controller/attachments/Pasted image 20241228131342.png",
@@ -376,7 +377,6 @@
     "robotics/Control Theory/Time Domain and Frequency Domain.md",
     "robotics/Control Theory/Transfer Functions.md",
     "robotics/Robotics (Map of Content).md",
-    "robotics/Open Loop Control Systems.md",
     "().md",
     "2024-12-25.md",
     "Untitled 2.canvas",

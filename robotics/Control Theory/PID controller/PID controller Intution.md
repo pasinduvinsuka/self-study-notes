@@ -27,3 +27,6 @@ So how can we get rid of the previously discussed steady state error ? we can do
 - **Actuating Signal vs Time (Bottom Graph, Corrected):**
 
     - The actuating signal starts at 100 RPM, increases as the integral grows to correct the altitude error, and then smoothly returns to **100 RPM** once the drone stabilizes at the target altitude.
+
+
+## So now in here we get into the point we needed by looking at the past and present error. But there is a small issue with the way we get to our point !
