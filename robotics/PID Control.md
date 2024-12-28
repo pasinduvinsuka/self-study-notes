@@ -8,3 +8,6 @@ So how can we take this error term and convert a better suitable actuating signa
 ## Example : A person standing in a Soccer Field
 
 ![[Pasted image 20241228112925.png]]
+
+![[Pasted image 20241228113019.png]]
+So in this scenario the 'walking speed ' will be the actuating signal and the our current location will be the output. And where we wanna go is the commanded variable which is 
