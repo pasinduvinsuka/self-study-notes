@@ -9,3 +9,5 @@ So how can we solve this ?
 
 ![[Pasted image 20241228135459.png]]
 
+![[Pasted image 20241228135601.png]]
+`In here the derivative will produce a measure of the rate of change of error, which give us about how fast our error is gr`
