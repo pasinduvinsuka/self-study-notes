@@ -16,3 +16,4 @@ let's consider that  a system is responsible for a constant error. So when that 
 ![[Pasted image 20241228191116.png]]
 
 
+[[How does our PID integral handle an actuator that's saturated]]
