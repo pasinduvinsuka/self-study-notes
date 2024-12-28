@@ -14,4 +14,4 @@ So in here our clamping method has 2 separate checks that it's doing.
 
 ## Setting the saturation limit for the anti-windup algorithm
 
-- Don't set the saturation limit of the clamping system to the exact physical saturation limi
+- Don't set the saturation limit of the clamping system to the exact physical saturation limit of the actuator.  ( `Our actuators can get slow down with age, temperature and based on some other factors. So because of this our saturation limit of the actuator also can be go down. So if in this scenario we have )
