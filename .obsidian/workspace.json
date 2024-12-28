@@ -13,6 +13,20 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "robotics/Control Theory/PID controller/Altitude Controller for a quadcopter drone.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Altitude Controller for a quadcopter drone"
+            }
+          },
+          {
+            "id": "7cac623a9f7eb184",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "robotics/Control Theory/PID controller/PID controller explained.md",
                 "mode": "source",
                 "source": false
@@ -25,12 +39,10 @@
             "id": "73ffc344904929cc",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "robotics/westminster/assignment1_2024_2025.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "assignment1_2024_2025"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           },
           {
@@ -131,7 +143,8 @@
               "title": "Altitude Controller for a quadcopter drone"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -329,10 +342,11 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "c155fe9e1cb2cc43",
+  "active": "7cac623a9f7eb184",
   "lastOpenFiles": [
-    "robotics/Control Theory/PID controller/Altitude Controller for a quadcopter drone.md",
+    "robotics/westminster/assignment1_2024_2025.pdf",
     "robotics/Control Theory/PID controller/PID controller explained.md",
+    "robotics/Control Theory/PID controller/Altitude Controller for a quadcopter drone.md",
     "robotics/Control Theory/PID controller/PID Control.md",
     "robotics/Control Theory/Closed Loop Control Systems.md",
     "robotics/Control Theory/PID controller",
@@ -350,7 +364,6 @@
     "robotics/attachments/Pasted image 20241228114009.png",
     "Maths/Fourier Series/Fourier Series.md",
     "Maths/Fourier Series/Qualitative Features.md",
-    "robotics/westminster/assignment1_2024_2025.pdf",
     "robotics/Control Theory/Control Theory.md",
     "robotics/modern-robotics-solutions.pdf",
     "robotics/Introduction to Linear Algebra 6th edition and A = CR_05.pdf",
@@ -378,7 +391,6 @@
     "oop/notes/multithreading/deep-dive multirhreading/Thread Signaling.md",
     "oop/notes/multithreading/05.Synchronization in multithreading.md",
     "oop/notes/multithreading/01.Introduction to multi threading.md",
-    "oop/notes/multithreading/02.Extending a Thread Class.md",
     "oop/notes/multithreading/Thread Life Cycle.canvas",
     "oop/notes/multithreading/Thread Signaling Process.canvas",
     "Thred Life Cycle.canvas",
