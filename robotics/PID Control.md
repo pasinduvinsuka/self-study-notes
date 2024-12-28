@@ -10,4 +10,4 @@ So how can we take this error term and convert a better suitable actuating signa
 ![[Pasted image 20241228112925.png]]
 
 ![[Pasted image 20241228113019.png]]
-So in this scenario the 'walking speed ' will be the actuating signal and the our current location will be the output. And where we wanna go is the commanded variable which is 
+So in this scenario the 'walking speed ' will be the actuating signal and the our current location will be the output. And where we wanna go is the commanded variable which is 50m at the biggening.  And also the output is 0 at the biggening. So the error term will be 50 - 0 = 50 .  
