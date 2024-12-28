@@ -8,4 +8,5 @@ Temperature captured without and with noises are shown here. Because of the nois
 Low amplitude signals won't affect for some controllers. **But that's not true for an ideal PID controller.**
 **![[Pasted image 20241228234959.png]]
 
-In here the derivative part will amplify the high frequency signals, so those tiny barely noticabl
+In here the derivative part will amplify the high frequency signals, so those tiny barely noticeable noises may get amplify to a values that can be an affect to our systems. Below is an explanation how that's gonna happen.
+
