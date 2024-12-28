@@ -78,6 +78,50 @@
             }
           }
         ]
+      },
+      {
+        "id": "51d80c05571ca2fb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b5d77f3140c718b8",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "robotics/Control Theory/PID controller/Noise filtering in PID control.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1.4019828977761022,
+                  "close": false
+                }
+              },
+              "icon": "lucide-git-fork",
+              "title": "Graph of Noise filtering in PID control"
+            },
+            "group": "a1bdb491a8e8e0f7"
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,13 +138,16 @@
             "id": "430615ffe468bf02",
             "type": "leaf",
             "state": {
-              "type": "file-explorer",
+              "type": "markdown",
               "state": {
-                "sortOrder": "alphabetical"
+                "file": "robotics/Control Theory/PID controller/Noise filtering in PID control.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-folder-closed",
-              "title": "Files"
-            }
+              "icon": "lucide-file",
+              "title": "Noise filtering in PID control"
+            },
+            "group": "a1bdb491a8e8e0f7"
           },
           {
             "id": "028a3370ac66deec",
@@ -207,8 +254,8 @@
             "state": {
               "type": "smart-connections-view",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "smart-connections",
+              "title": "Smart Connections"
             }
           },
           {
@@ -217,8 +264,8 @@
             "state": {
               "type": "smart-connections-chat-view",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "message-square",
+              "title": "Smart Chat Conversation View"
             }
           },
           {
@@ -247,16 +294,17 @@
             "state": {
               "type": "smart-search-view",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "search",
+              "title": "Smart Search"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 8
       }
     ],
     "direction": "horizontal",
-    "width": 498.5
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -274,8 +322,9 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "ece6e48bf6623f09",
+  "active": "b5d77f3140c718b8",
   "lastOpenFiles": [
+    "smart-chats",
     "robotics/Control Theory/PID controller/attachments/Pasted image 20241228235222.png",
     "robotics/Control Theory/PID controller/Noise filtering in PID control.md",
     "robotics/Control Theory/PID controller/attachments/Pasted image 20241228235611.png",
