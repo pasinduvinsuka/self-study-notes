@@ -23,3 +23,5 @@ So when that's happening the propellor speed will again begin to increase since 
 ![[Pasted image 20241228115017.png]]
 `Note : There will be specific speed where the propellor lift force will get equal to the drone weight. So in that speed, the drone will start hovering.So let's assume that our propellors need to rotate at 100 rpm in order to hover the drone.So this speed will depened on our propotional gain now`
 
+![[Pasted image 20241228122354.png]]
+`So let's assume that our initial propotional gain is 2. So then our propeller speed will be `
