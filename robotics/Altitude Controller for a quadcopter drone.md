@@ -25,4 +25,4 @@ So when that's happening the propellor speed will again begin to increase since 
 
 ![[Pasted image 20241228122354.png]]
 `So let's assume that our initial propotional gain is 2. So then our propeller speed will be 100 rpm (error rate x gain = 50 x 2 = 100 ).So our drone will be hover at the ground level. 
-`So let's increase our gain to 5. Then our drone will start to lift`
+`So let's increase our gain to 5. Then our drone will start to lift up then our error rate will slowly go down. So when our eror rate is going down our propeller speed will also go down. Then once our error rate reach to 20 from 50 then our propeller speed will again be `
