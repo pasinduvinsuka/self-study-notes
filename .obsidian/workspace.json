@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "robotics/Control Theory/PID controller/PID controller explained.md",
+                "file": "robotics/Control Theory/PID controller/PID controller Intution.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "PID controller explained"
+              "title": "PID controller Intution"
             }
           },
           {
@@ -344,7 +344,7 @@
   },
   "active": "73ffc344904929cc",
   "lastOpenFiles": [
-    "robotics/Control Theory/PID controller/PID controller explained.md",
+    "robotics/Control Theory/PID controller/PID controller Intution.md",
     "robotics/Control Theory/PID controller/attachments/Pasted image 20241228132335.png",
     "robotics/Control Theory/PID controller/attachments/Pasted image 20241228132134.png",
     "robotics/Control Theory/PID controller/attachments/Pasted image 20241228131342.png",
