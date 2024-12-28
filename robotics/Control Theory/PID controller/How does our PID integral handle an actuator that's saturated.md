@@ -34,6 +34,6 @@ So we need to implement some sort of anti-windup method.
 
 ## Anti-windup methods
 
-1. Clamping
-2. Back-Calculation
-3. Observer approach
+1. Clamping  - [[Clamping]]
+2. Back-Calculation - [[Back-calculation]]
+3. Observer approach - [[Observer approach]]
