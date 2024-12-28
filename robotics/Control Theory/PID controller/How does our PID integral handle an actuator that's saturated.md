@@ -22,4 +22,6 @@ And what's because of the speed it had it's gonna past our target altitude and r
 - 1900 rpm --> 1500 rpm  - still motors spinning at 1000 rpm
 - 1500 rpm --> 1100 rpm  - still motors spinning at 1000 rpm
 
-`So our motors will keep spinning at 1000 rpm until the integral output reach to the level 1000 from the 2000 and goes below.So until that point our motors are spinning at 1000 1
+`So our motors will keep spinning at 1000 rpm until the integral output reach to the level 1000 from the 2000 and goes below.So until that point our motors are spinning at 1000 rpm and because of this our drone will be sky rocketting and go so high and lose from our area.
+
+![[Pasted image 20241228195216.png]]
