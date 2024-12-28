@@ -14,7 +14,7 @@ So how can we get rid of the previously discussed steady state error ? we can do
 
 ---
 
-![[Pasted image 20241228131342.png]]
+![[Pasted image 20241228132335.png]]
 
 - **Error vs Time (Top Graph):**
 
