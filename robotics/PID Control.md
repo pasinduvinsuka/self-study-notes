@@ -5,4 +5,4 @@ In here the difference between the command and the feedback is called as the 'er
 So how can we take this error term and convert a better suitable actuating signal ?So with the time the error will be driven into the 0.So we are using the controller to accomplish this.
 
 ![[Pasted image 20241228111734.png]]
- 
+## Example : A per
