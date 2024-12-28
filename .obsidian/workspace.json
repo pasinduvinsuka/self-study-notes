@@ -78,50 +78,6 @@
             }
           }
         ]
-      },
-      {
-        "id": "51d80c05571ca2fb",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "b5d77f3140c718b8",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "robotics/Control Theory/PID controller/Noise filtering in PID control.md",
-                "options": {
-                  "collapse-filter": true,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 1.4019828977761022,
-                  "close": false
-                }
-              },
-              "icon": "lucide-git-fork",
-              "title": "Graph of Noise filtering in PID control"
-            },
-            "group": "a1bdb491a8e8e0f7"
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -146,8 +102,7 @@
               },
               "icon": "lucide-file",
               "title": "Noise filtering in PID control"
-            },
-            "group": "a1bdb491a8e8e0f7"
+            }
           },
           {
             "id": "028a3370ac66deec",
@@ -180,7 +135,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 734.5
   },
   "right": {
     "id": "5f79579e1e02cd82",
@@ -322,8 +277,9 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "b5d77f3140c718b8",
+  "active": "c155fe9e1cb2cc43",
   "lastOpenFiles": [
+    "robotics/Control Theory/PID controller/attachments/Recording 20241229000118.webm",
     "smart-chats",
     "robotics/Control Theory/PID controller/attachments/Pasted image 20241228235222.png",
     "robotics/Control Theory/PID controller/Noise filtering in PID control.md",
@@ -365,7 +321,6 @@
     "robotics/configuration space.md",
     "Maths/Fourier Series",
     "robotics/westminster/5elen018w_lecture2_2025.pdf",
-    "robotics/westminster/week 12/5elen018w_lecture8_2025.pdf",
     "robotics/Control Theory/Time Domain and Frequency Domain.md",
     "robotics/Control Theory/Transfer Functions.md",
     "robotics/Robotics (Map of Content).md",

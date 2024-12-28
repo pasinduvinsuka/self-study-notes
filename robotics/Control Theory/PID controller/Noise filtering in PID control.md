@@ -17,3 +17,4 @@ In here the derivative part will amplify the high frequency signals, so those ti
 
 So how can we reduce the slope (value of the derivative) while keeping our frequency ? We can do it simply by reducing the amplitude of our frequency like in below.
 ![[Pasted image 20241228235611.png]]
+
