@@ -12,4 +12,6 @@ So in here our clamping method has 2 separate checks that it's doing.
 ![[Pasted image 20241228211124.png]]
 `So here how our dron system will look like if we had clamping system. ( check the scenario marked with integral path decrease)`
 
-## Setting 
+## Setting the saturation limit for the anti-windup algorithm
+
+- Don't set the saturation limit of the clamping system to the exact physical saturation limi
