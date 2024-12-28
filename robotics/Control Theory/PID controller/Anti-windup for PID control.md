@@ -14,3 +14,5 @@ In our theoretical  linear actuator, we don't have any sort of limit (saturation
 let's consider that  a system is responsible for a constant error. So when that error goes through the integral the integral will cause our output to rise over time. So in this case let's imagine our actuator is a motor. But in real life our motors will have a maximum rpm. So the motor is not gonna increase its speed after it hits it's maximum rpm.
 
 ![[Pasted image 20241228191116.png]]
+
+
