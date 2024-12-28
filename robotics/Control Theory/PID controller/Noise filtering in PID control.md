@@ -1,1 +1,1 @@
-Noise is a random disturbance on our signal. Those noises are something unavoidable when we are wroking with the sensors.
+Noise is a random disturbance on our signal. Those noises are something unavoidable when we are working with sensors.
