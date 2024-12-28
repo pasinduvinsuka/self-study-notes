@@ -26,4 +26,6 @@ And what's because of the speed it had it's gonna past our target altitude and r
 
 ![[Pasted image 20241228195237.png]]
 
-So this is called as the integral windup and we need to protect our PID controller from this.
+So this is called as the integral windup and we need to protect our PID controller from this. Because we don't know when our actuators will get saturated.
+
+So if something has saturated, then we need to minimize the time that the system take to 
