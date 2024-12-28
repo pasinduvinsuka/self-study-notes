@@ -31,3 +31,9 @@ So this is called as the integral windup and we need to protect our PID controll
 **So if something has saturated, then we need to minimize the time that takes to reverse the command when error change the sign.**
 
 So we need to implement some sort of anti-windup method.
+
+## Anti-windup methods
+
+1. Clamping
+2. Back-Calculation
+3. Observer approach
