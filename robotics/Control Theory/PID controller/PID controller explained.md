@@ -8,4 +8,4 @@ So how can we get rid of the previously discussed steady state error ? we can do
 `So while in the steady state error our integral part will keep to growing.`
 
 ![[Pasted image 20241228131058.png]]
-`So now in here our both propotional and interg`
+`So now in here our both propotional and intergral controllers will work together to bring our error down to the 0.`
