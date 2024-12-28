@@ -74,7 +74,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -272,12 +272,12 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "a3b82fa62fef40b3",
+  "active": "111137a6ac35224a",
   "lastOpenFiles": [
+    "robotics/Control Theory/PID controller/Clamping.md",
     "robotics/Control Theory/PID controller/attachments/Pasted image 20241228211124.png",
     "robotics/Control Theory/PID controller/How does our PID integral handle an actuator that's saturated.md",
     "robotics/Control Theory/PID controller/Anti-windup for PID control.md",
-    "robotics/Control Theory/PID controller/Clamping.md",
     "robotics/Control Theory/PID controller/attachments/Pasted image 20241228211059.png",
     "robotics/Control Theory/PID controller/attachments/Pasted image 20241228210645.png",
     "robotics/Control Theory/PID controller/Back-calculation.md",
@@ -292,7 +292,6 @@
     "PID Controller Finally.md",
     "robotics/Control Theory/PID controller/PID Controller Finally.md",
     "robotics/Control Theory/PID controller/Altitude Controller for a quadcopter drone.md",
-    "robotics/Control Theory/PID controller/attachments/Pasted image 20241228191116.png",
     "robotics/Control Theory/PID controller/PID Control.md",
     "robotics/Control Theory/PID controller/Integral Part (Past Error ).md",
     "robotics/Control Theory/PID controller/Derivative Part (Future Error).md",
