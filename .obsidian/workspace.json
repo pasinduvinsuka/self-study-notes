@@ -158,7 +158,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -356,11 +356,12 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "7cac623a9f7eb184",
+  "active": "485ff3327a9ccefa",
   "lastOpenFiles": [
+    "robotics/Control Theory/PID controller/attachments/Pasted image 20241228134722.png",
+    "robotics/Control Theory/PID controller/Integral Part (Past Error ).md",
     "robotics/Control Theory/PID controller/Altitude Controller for a quadcopter drone.md",
     "robotics/Control Theory/PID controller/Derivative Part (Future Error).md",
-    "robotics/Control Theory/PID controller/Integral Part (Past Error ).md",
     "robotics/Open Loop Control Systems.md",
     "robotics/Control Theory/PID controller/attachments/Pasted image 20241228132335.png",
     "robotics/Control Theory/PID controller/attachments/Pasted image 20241228132134.png",
@@ -405,7 +406,6 @@
     "oop/notes/multithreading/deep-dive multirhreading/Deadlock.md",
     "oop/notes/multithreading/deep-dive multirhreading/Thread Signaling.md",
     "oop/notes/multithreading/05.Synchronization in multithreading.md",
-    "oop/notes/multithreading/01.Introduction to multi threading.md",
     "oop/notes/multithreading/Thread Life Cycle.canvas",
     "oop/notes/multithreading/Thread Signaling Process.canvas",
     "Thred Life Cycle.canvas",
