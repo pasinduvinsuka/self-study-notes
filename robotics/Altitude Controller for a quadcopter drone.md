@@ -43,4 +43,8 @@ So what's the solution we got for this ?
 
 ![[Pasted image 20241228123442.png]]
 
-In here we have noticed that our proportional control system kept having a error no matter how much we have increased our gain.
+In here we have noticed that our proportional control system kept having a error no matter how much we have increased our gain. This error is called as "Steady State Error".
+
+## So how can we tweak our controller to get away from this steady state error ?
+
+[[[]]]
