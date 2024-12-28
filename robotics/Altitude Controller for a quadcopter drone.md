@@ -33,3 +33,6 @@ So when that's happening the propellor speed will again begin to increase since 
 `So now let's increase our gain again to 100 and then our drone will again start to lift up until it reach the error rate 1 and once it reached the error rate 1, then again our propller speed will be 100 and our drone will start to hover.`
 
 So we can notice that this gonna continue happening.
+
+**No matter how much we increase the gain, our error won't go away.** 
+The error is only getting smaller and smaller with our pr
