@@ -8,4 +8,8 @@ So in here our clamping method has 2 separate checks that it's doing.
 `So in here if our signs are same and also there is a saturation then the value of our AND gate will be 1 and we will clamp the integral part.(think as disconnecting the integral part)`
 
 `If the sign got changed, or else there is no saturation then we will restore our integral part again.`
+
 ![[Pasted image 20241228211124.png]]
+`So here how our dron system will look like if we had clamping system. ( check the scenario marked with integral path decrease)`
+
+## Setting 
