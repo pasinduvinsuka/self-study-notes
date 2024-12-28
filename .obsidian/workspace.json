@@ -330,7 +330,8 @@
               "title": "Plugin no longer active"
             }
           }
-        ]
+        ],
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
@@ -353,7 +354,7 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "ffb9dab30af60cdc",
+  "active": "75e8e3b09fb98cf3",
   "lastOpenFiles": [
     "Maths/Fourier Series/The Big Idea Behind Fourier Series.md",
     "Maths/Fourier Series/Fourier Series.md",
