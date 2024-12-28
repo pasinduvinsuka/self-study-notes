@@ -23,3 +23,7 @@ Walking speed  = error rate x 0.1
 
 So initially the speed will be 5ms-1 and with the time since the error rate gets down our walking speed will get down too as in above graphs.
 
+ So if we wanna go to our desired location in a less time what we have to do is increase our current gain value 01. to something higher.
+
+![[Pasted image 20241228113650.png]]
+
