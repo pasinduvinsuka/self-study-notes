@@ -73,7 +73,8 @@
               "title": "Altitude Controller for a quadcopter drone"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -292,11 +293,13 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "c155fe9e1cb2cc43",
+  "active": "7cac623a9f7eb184",
   "lastOpenFiles": [
+    "robotics/Control Theory/PID controller/Noise filtering in PID control.md",
+    "Maths/Fourier Series/Fourier Series.md",
+    "Maths/Fourier Series/Qualitative Features.md",
     "robotics/Control Theory/PID controller/attachments/Pasted image 20241229000907.png",
     "robotics/Control Theory/PID controller/Clamping.md",
-    "robotics/Control Theory/PID controller/Noise filtering in PID control.md",
     "robotics/Control Theory/PID controller/Back-calculation.md",
     "robotics/Control Theory/PID controller/How does our PID integral handle an actuator that's saturated.md",
     "robotics/Control Theory/PID controller/attachments/Recording 20241229000118.webm",
@@ -314,15 +317,12 @@
     "robotics/Control Theory/PID controller/attachments/Pasted image 20241228211059.png",
     "robotics/Control Theory/PID controller/attachments/Pasted image 20241228210645.png",
     "robotics/Control Theory/PID controller/Observer approach.md",
-    "robotics/Control Theory/PID controller/attachments/Pasted image 20241228195237.png",
     "PID Controller Finally.md",
     "robotics/Control Theory/PID controller/PID Controller Finally.md",
     "robotics/Control Theory/PID controller/Integral Part (Past Error ).md",
     "robotics/Control Theory/PID controller/Derivative Part (Future Error).md",
     "Untitled 3.canvas",
-    "Maths/Fourier Series/Qualitative Features.md",
     "Maths/Fourier Series/The Big Idea Behind Fourier Series.md",
-    "Maths/Fourier Series/Fourier Series.md",
     "Untitled 2.md",
     "robotics/Open Loop Control Systems.md",
     "robotics/Control Theory/PID controller/attachments",
