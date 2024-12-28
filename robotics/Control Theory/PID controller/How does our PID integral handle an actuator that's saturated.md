@@ -19,4 +19,7 @@ And what's because of the speed it had it's gonna past our target altitude and r
 `So now since our error term is negative, our integral output will start to get decreased. But there is an issue. Think that our integral output reduced to 1900 from 2000, still motors are spinning at 1000 rpm.`
 
 - 2000 rpm --> 1900 rpm  - still motors spinning at 1000 rpm
-- 1900 rpm --> 1900 rpm  - still motors spinning at 1000 rpm
+- 1900 rpm --> 1500 rpm  - still motors spinning at 1000 rpm
+- 1500 rpm --> 1100 rpm  - still motors spinning at 1000 rpm
+
+`So our motors will keep spinning at 1000 rpm until the integral output reach to the level 1000 from the 2000 and goes below.So until that point our motors are spinning at 1000 1
