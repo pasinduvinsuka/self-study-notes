@@ -14,4 +14,3 @@ So how can we solve this ?
 `So if our drone is rising quickly (fast approaching the goal), then our will start to decrease quickly. So that decreasing will have a negative rate which will produce a negative value.`
 `So this value is added to our controller. So this will reduce our propeller speed.`
 
-![[Pasted image 20241228140018.png]]
