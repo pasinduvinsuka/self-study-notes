@@ -16,3 +16,4 @@ So now we have noticed our integral part has exceeded the saturation level of th
 And what's because of the speed it had it's gonna past our target altitude and rise up more. So our error will start to reach a negative value.
 
 ![[Pasted image 20241228193228.png]]
+`So now since our error term is negative, our integral output will start to get decreased. But there is an issue. Think that our integral output reduces`
