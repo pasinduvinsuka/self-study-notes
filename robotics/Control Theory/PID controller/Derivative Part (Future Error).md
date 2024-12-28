@@ -1,3 +1,6 @@
 ![[Pasted image 20241228134722.png]]
-`Right before we get into our 50 meters, there will be an interesting sitation. The propotioanl part is 0 but the depending on how we get to the current point (where now only have a really small error) our integral part may have a value more than 100.`
+`Right before we get into our 50 meters, there will be an interesting situation. The propotioanl part is 0 but the depending on how we get to the current point (where now only have a really small error) our integral part may have a value more than 100.`
 `So this will cause our drone to rise more than the 50 m. So because of the extra propeller speed we had when we were closer to 50m, our drone will have to go bit higher in order to reduce its speed by creating a negative error.`
+## So this over shooting is not something we have expected !
+
+So how can we solve this ? 
