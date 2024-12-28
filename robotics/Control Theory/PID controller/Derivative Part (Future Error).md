@@ -1,2 +1,2 @@
 ![[Pasted image 20241228134722.png]]
-`Right br`
+`Right before we get into our 50 meters, there will be an interesting sitation. The propotioanl part is 0 but the depending on how we get to the current point (where now only have a really small error) ou`
