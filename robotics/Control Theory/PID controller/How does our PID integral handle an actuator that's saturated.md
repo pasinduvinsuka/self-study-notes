@@ -7,3 +7,5 @@ Let's consider only the integral part from the above example . And also let's im
 --- 
 
 So now we have noticed our integral part has exceeded the saturation level of the motor. The issue is arise when we are trying to remove back this exceeded amount from our integral. 
+
+`Let's consider our motor's maximum speed is 1000 rpm.But since we kept holding our drone, the output of our integral is requesting now 2000 rpm.`
