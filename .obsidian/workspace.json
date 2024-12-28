@@ -149,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Maths/Fourier Series/Qualitative Features.md",
+                "file": "robotics/Control Theory/PID controller/Noise filtering in PID control.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Qualitative Features"
+              "title": "Backlinks for Noise filtering in PID control"
             }
           },
           {
@@ -168,12 +168,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "robotics/Practice Question Theories.md",
+                "file": "robotics/Control Theory/PID controller/Noise filtering in PID control.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Practice Question Theories"
+              "title": "Outgoing links from Noise filtering in PID control"
             }
           },
           {
@@ -195,10 +195,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Architecture/Courses/ENTC/documents_2024-11-03T042523040Z_1730607923040Assignment_4.pdf"
+                "file": "robotics/Control Theory/PID controller/Noise filtering in PID control.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of documents_2024-11-03T042523040Z_1730607923040Assignment_4"
+              "title": "Outline of Noise filtering in PID control"
             }
           },
           {
@@ -252,12 +252,11 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 498.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -275,17 +274,17 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "c155fe9e1cb2cc43",
+  "active": "ece6e48bf6623f09",
   "lastOpenFiles": [
+    "robotics/Control Theory/PID controller/attachments/Pasted image 20241228235222.png",
+    "robotics/Control Theory/PID controller/Noise filtering in PID control.md",
     "robotics/Control Theory/PID controller/attachments/Pasted image 20241228235611.png",
     "robotics/Control Theory/PID controller/attachments/Pasted image 20241228235319.png",
-    "robotics/Control Theory/PID controller/attachments/Pasted image 20241228235222.png",
     "robotics/Control Theory/PID controller/attachments/Pasted image 20241228234959.png",
     "robotics/Control Theory/PID controller/attachments/Pasted image 20241228232458.png",
     "robotics/Control Theory/PID controller/attachments/Pasted image 20241228232350.png",
     "robotics/Control Theory/PID controller/How does our PID integral handle an actuator that's saturated.md",
     "robotics/Control Theory/PID controller/PID Control.md",
-    "robotics/Control Theory/PID controller/Noise filtering in PID control.md",
     "robotics/Control Theory/PID controller/Clamping.md",
     "robotics/Control Theory/PID controller/Altitude Controller for a quadcopter drone.md",
     "robotics/Control Theory/PID controller/attachments/Pasted image 20241228211124.png",
@@ -295,7 +294,6 @@
     "robotics/Control Theory/PID controller/Back-calculation.md",
     "robotics/Control Theory/PID controller/Observer approach.md",
     "robotics/Control Theory/PID controller/attachments/Pasted image 20241228195237.png",
-    "robotics/Control Theory/PID controller/attachments/Pasted image 20241228195216.png",
     "PID Controller Finally.md",
     "robotics/Control Theory/PID controller/PID Controller Finally.md",
     "robotics/Control Theory/PID controller/Integral Part (Past Error ).md",
