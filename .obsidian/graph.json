@@ -13,6 +13,13 @@
         "a": 1,
         "rgb": 5431466
       }
+    },
+    {
+      "query": "path:Maths  ",
+      "color": {
+        "a": 1,
+        "rgb": 14725458
+      }
     }
   ],
   "collapse-display": false,
@@ -25,6 +32,6 @@
   "repelStrength": 15.5389007851535,
   "linkStrength": 0.645610278372591,
   "linkDistance": 30,
-  "scale": 0.4731843575853786,
+  "scale": 0.4731843575853788,
   "close": true
 }

@@ -19,5 +19,5 @@ So how can we reduce the slope (value of the derivative) while keeping our frequ
 ![[Pasted image 20241228235611.png]]
 
  ![[Pasted image 20241229000907.png]]
- `We can represent any noise with the infinite number of the sin waves.`This is what we are doing with the Fourier transform ([[Fourier Series]]).
+ `We can represent any noise with the infinite number of the sin waves.`This is what we are doing with the Fourier transform ([[Fourier Series]]).`For this examplher`
  
