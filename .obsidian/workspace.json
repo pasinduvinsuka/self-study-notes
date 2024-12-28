@@ -91,12 +91,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Maths/Fourier Series/Qualitative Features.md",
+                "file": "robotics/PID Control.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Qualitative Features"
+              "title": "PID Control"
             }
           },
           {
@@ -212,7 +212,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 253.5
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "5f79579e1e02cd82",
@@ -354,16 +355,21 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "75e8e3b09fb98cf3",
+  "active": "ffb9dab30af60cdc",
   "lastOpenFiles": [
+    "robotics/modern-robotics-solutions.pdf",
+    "robotics/PID Control.md",
+    "robotics/Introduction to Linear Algebra 6th edition and A = CR_05.pdf",
+    "robotics/Control Theory.md",
+    "robotics/configuration space.md",
+    "robotics/Closed Loop Control Systems.md",
+    "Maths/Fourier Series/Qualitative Features.md",
     "Maths/Fourier Series/The Big Idea Behind Fourier Series.md",
     "Maths/Fourier Series/Fourier Series.md",
-    "Maths/Fourier Series/Qualitative Features.md",
     "robotics/westminster/assignment1_2024_2025.pdf",
     "Maths/Fourier Series",
     "robotics/westminster/5elen018w_lecture2_2025.pdf",
     "robotics/westminster/week 12/5elen018w_lecture8_2025.pdf",
-    "robotics/Control Theory.md",
     "attachments/Pasted image 20241226221645.png",
     "attachments/Pasted image 20241226221512.png",
     "attachments/Pasted image 20241226221401.png",
@@ -381,8 +387,6 @@
     "robotics/Transfer Functions.md",
     "Maths/Signals, Systems, and Differential Equations/MATH213/Lectures/MATH 213 Lecture 5 - More Laplace Transforms and Convolution.pdf",
     "Maths/Signals, Systems, and Differential Equations/MATH213/Lectures/MATH 213 Lecture 4 - More Laplace Transforms and Properties of Laplace Transforms (sol).pdf",
-    "Maths/Signals, Systems, and Differential Equations/MATH213/Lectures/MATH 213 Lecture 4 - More Laplace Transforms and Properties of Laplace Transforms.pdf",
-    "robotics/Closed Loop Control Systems.md",
     "robotics/Robotics (Map of Content).md",
     "robotics/Open Loop Control Systems.md",
     "().md",
@@ -401,10 +405,8 @@
     "oop/notes/multithreading/01.Introduction to multi threading.md",
     "oop/notes/multithreading/02.Extending a Thread Class.md",
     "oop/notes/multithreading/03.Runnable Interface.md",
-    "oop/notes/multithreading/04.Thread Life Cycle.md",
     "oop/notes/multithreading/Thread Life Cycle.canvas",
     "oop/notes/multithreading/Thread Signaling Process.canvas",
-    "robotics/Practice Question Theories.md",
     "Thred Life Cycle.canvas",
     "oop/notes/multithreading/Thred Life Cycle 1.canvas",
     "Untitled.canvas"
