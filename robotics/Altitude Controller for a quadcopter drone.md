@@ -40,3 +40,7 @@ The error is only getting smaller and smaller with our proportional controller s
 # So we  can see that a simple proportional controller will not work in every situation : (
 
 So what's the solution we got for this ? 
+
+![[Pasted image 20241228123442.png]]
+
+In here we have noticed that our proportional control system kept having a error no matter how much we have increased our gain.
