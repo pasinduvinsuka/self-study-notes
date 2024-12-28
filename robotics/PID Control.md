@@ -27,3 +27,7 @@ So initially the speed will be 5ms-1 and with the time since the error rate gets
 
 ![[Pasted image 20241228113650.png]]
 
+So in this current example our human gonna stop at the exact right location once he reached their since there regardless of the gain amount since the error term will become 0.
+
+## Will this sort of controller works for the all scenarios ?
+
