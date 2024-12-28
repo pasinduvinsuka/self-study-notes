@@ -28,4 +28,6 @@ And what's because of the speed it had it's gonna past our target altitude and r
 
 So this is called as the integral windup and we need to protect our PID controller from this. Because we don't know when our actuators will get saturated.
 
-So if something has saturated, then we need to minimize the time that the system take to 
+**So if something has saturated, then we need to minimize the time that takes to reverse the command when error change the sign.**
+
+So we need to implement some sort of anti-windup method.
