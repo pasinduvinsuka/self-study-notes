@@ -4,3 +4,4 @@ Noise is a random disturbance on our signal. Those noises are something unavoida
 
 ![[Pasted image 20241228232458.png]]
 Temperature captured without and with noises are shown here. Because of the noises we can see there are sort of tiny fluctuations.
+
