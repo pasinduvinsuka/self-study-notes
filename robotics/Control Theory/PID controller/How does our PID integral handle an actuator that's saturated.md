@@ -13,3 +13,6 @@ So now we have noticed our integral part has exceeded the saturation level of th
 `So now let's give a change for the drone to go up, let's release it from our hand. Remember that now our drone propellers are spinning at 1000 rpm and also our integral part is requesting 2000 rpm. Since we released the drone at 1000 rpm, our drone will start to go up pretty much faster, and also our error begins to decrease very fast too.`
 ![[Pasted image 20241228193055.png]]
 
+And what's because of the speed it had it's gonna past our target altitude and rise up more. So our error will start to reach a negative value.
+
+![[Pasted image 20241228193228.png]]
