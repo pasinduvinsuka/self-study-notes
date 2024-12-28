@@ -4,3 +4,5 @@ So in here our clamping method has 2 separate checks that it's doing.
 
 2.  **Check the sign of the PID controller output with the sign of the error** - `Check whether the both error and the output signs are equal
 
+![[Pasted image 20241228210645.png]]
+`So in here if our `
