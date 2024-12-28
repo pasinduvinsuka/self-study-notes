@@ -84,7 +84,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -282,14 +282,16 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "d9351bbfcbe3e3fa",
+  "active": "7cac623a9f7eb184",
   "lastOpenFiles": [
+    "robotics/Control Theory/PID controller/Anti-windup for PID control.md",
+    "robotics/Control Theory/PID controller/attachments/Pasted image 20241228191116.png",
+    "robotics/Control Theory/PID controller/attachments/Pasted image 20241228191107.png",
     "robotics/Control Theory/PID controller/attachments/Pasted image 20241228190815.png",
     "robotics/Control Theory/PID controller/attachments/Pasted image 20241228190811.png",
     "robotics/Control Theory/PID controller/attachments/Pasted image 20241228190603.png",
     "robotics/Control Theory/PID controller/attachments/Pasted image 20241228190342.png",
     "robotics/Control Theory/PID controller/attachments/Pasted image 20241228190159.png",
-    "robotics/Control Theory/PID controller/Anti-windup for PID control.md",
     "PID Controller Finally.md",
     "robotics/Control Theory/PID controller/PID Control.md",
     "robotics/Control Theory/PID controller/Integral Part (Past Error ).md",
@@ -303,11 +305,8 @@
     "Maths/Fourier Series/Fourier Series.md",
     "robotics/Control Theory/PID controller/attachments/Pasted image 20241228140018.png",
     "robotics/Control Theory/PID controller/attachments/Pasted image 20241228135601.png",
-    "robotics/Control Theory/PID controller/attachments/Pasted image 20241228135459.png",
     "Untitled 2.md",
-    "robotics/Control Theory/PID controller/attachments/Pasted image 20241228134722.png",
     "robotics/Open Loop Control Systems.md",
-    "robotics/Control Theory/PID controller/attachments/Pasted image 20241228132335.png",
     "robotics/Control Theory/PID controller/attachments",
     "robotics/westminster/assignment1_2024_2025.pdf",
     "robotics/Control Theory/Closed Loop Control Systems.md",
