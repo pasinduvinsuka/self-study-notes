@@ -30,4 +30,6 @@ So when that's happening the propellor speed will again begin to increase since 
 
 `So now let's increase our gain again to 10 from 5. Now our drone will start to lift up again and our error rate will start to go down. So what will happend once our error rate reached the value 10. then again our propeller speed will be 10 x 10 = 100 and then the drone will start to hover again.`
 
-`So now let's increase our gain again to 100 and the n`
+`So now let's increase our gain again to 100 and then our drone will again start to lift up until it reach the error rate 1 and once it reached the error rate 1, then again our propller speed will be 100 and our drone will start to hover.`
+
+So we can notice that this gonna continue happening.
