@@ -11,8 +11,8 @@ Low amplitude signals won't affect for some controllers. **But that's not true f
 In here the derivative part will amplify the high frequency signals, so those tiny barely noticeable noises may get amplify to a values that can be an affect to our systems. Below is an explanation how that's gonna happen.
 
 ![[Pasted image 20241228235222.png]]
-`In here the sloap will give the derivative of this signal. What's gonna happne if we increase the frequency of this signal ?`
+`In here the slope will give the derivative of this signal. What's gonna happne if we increase the frequency of this signal ?`
 ![[Pasted image 20241228235319.png]]
-`Now here we can see that the increased frequency has caused to the increase the sloap of our frequency which means it has increased the value of derivative.`
+`Now here we can see that the increased frequency has caused to the increase the slope of our frequency which means it has increased the value of derivative.`
 
-So how can we reduce the s
+So how can we reduce the slope (value of the derivative) while keeping our frequency ? We can do it simply by reducing the amplitude of our frequency like b
