@@ -277,6 +277,7 @@
   },
   "active": "c155fe9e1cb2cc43",
   "lastOpenFiles": [
+    "robotics/Control Theory/PID controller/attachments/Pasted image 20241228232350.png",
     "robotics/Control Theory/PID controller/How does our PID integral handle an actuator that's saturated.md",
     "robotics/Control Theory/PID controller/PID Control.md",
     "robotics/Control Theory/PID controller/Noise filtering in PID control.md",
@@ -324,7 +325,6 @@
     "().md",
     "2024-12-25.md",
     "Untitled 2.canvas",
-    "robotics/Notes/Topics.md",
     "Untitled 1.canvas",
     "oop/notes/multithreading/Thread Life Cycle.canvas",
     "oop/notes/multithreading/Thread Signaling Process.canvas",
