@@ -11,4 +11,5 @@ So how can we solve this ?
 
 ![[Pasted image 20241228135601.png]]
 `In here the derivative will produce a measure of the rate of change of error, which give us about how fast our error is growing or shriking.`
-`So if our drone is rising quickly (fast approaching the goal), then our will start to decrease quickly. So that decreasing will have a negative rate/ `
+`So if our drone is rising quickly (fast approaching the goal), then our will start to decrease quickly. So that decreasing will have a negative rate which will produce a negative value.`
+`So this value is added to our controller. So this will reduce our propeller speed.`
