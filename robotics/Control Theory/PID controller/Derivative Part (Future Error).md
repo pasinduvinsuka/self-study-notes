@@ -6,3 +6,6 @@
 So how can we solve this ? 
 
 **That's by adding a part where we can calculated the future error. So we do that with a derivative.**
+
+![[Pasted image 20241228135459.png]]
+

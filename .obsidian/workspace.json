@@ -386,6 +386,7 @@
   },
   "active": "28346607eac98b27",
   "lastOpenFiles": [
+    "robotics/Control Theory/PID controller/attachments/Pasted image 20241228135459.png",
     "robotics/Control Theory/PID controller/Integral Part (Past Error ).md",
     "robotics/Control Theory/PID controller/Altitude Controller for a quadcopter drone.md",
     "robotics/Control Theory/PID controller/Derivative Part (Future Error).md",
@@ -433,7 +434,6 @@
     "oop/notes/multithreading/deep-dive multirhreading/Blocking Queues.md",
     "oop/notes/multithreading/deep-dive multirhreading/Deadlock.md",
     "oop/notes/multithreading/deep-dive multirhreading/Thread Signaling.md",
-    "oop/notes/multithreading/05.Synchronization in multithreading.md",
     "oop/notes/multithreading/Thread Life Cycle.canvas",
     "oop/notes/multithreading/Thread Signaling Process.canvas",
     "Thred Life Cycle.canvas",
