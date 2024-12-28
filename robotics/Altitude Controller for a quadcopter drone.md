@@ -14,8 +14,8 @@ So our plant will be the drone and our actuating signal will be the propellor sp
 
 
 
-
-
-
+![[Pasted image 20241228114908.png]]
+![[Pasted image 20241228114918.png]]
 `So now let's imagine that our drone has reached the desired height. So what's gonna happen next ? The error will drop to 0 since the output and command variable both are 50m.So this will cause to turn off the propellor and if it happened then our drone is gonna fall off.`
 
+So when that's happening the propellor speed will again 
