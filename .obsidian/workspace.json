@@ -84,7 +84,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -282,14 +282,15 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "7cac623a9f7eb184",
+  "active": "d9351bbfcbe3e3fa",
   "lastOpenFiles": [
-    "robotics/Control Theory/PID controller/Integral Part (Past Error ).md",
+    "robotics/Control Theory/PID controller/attachments/Pasted image 20241228190159.png",
     "robotics/Control Theory/PID controller/Anti-windup for PID control.md",
-    "robotics/Control Theory/PID controller/PID Controller Finally.md",
-    "robotics/Control Theory/PID controller/Derivative Part (Future Error).md",
     "PID Controller Finally.md",
     "robotics/Control Theory/PID controller/PID Control.md",
+    "robotics/Control Theory/PID controller/Integral Part (Past Error ).md",
+    "robotics/Control Theory/PID controller/PID Controller Finally.md",
+    "robotics/Control Theory/PID controller/Derivative Part (Future Error).md",
     "robotics/Control Theory/PID controller/Altitude Controller for a quadcopter drone.md",
     "attachments/Pasted image 20241228140440.png",
     "Untitled 3.canvas",
@@ -332,7 +333,6 @@
     "oop/Untitled.md",
     "Untitled 1.canvas",
     "Reasoning and assumptions I made behind the planning of my coursework.md",
-    "oop/notes/multithreading/deep-dive multirhreading/Blocking Queues.md",
     "oop/notes/multithreading/Thread Life Cycle.canvas",
     "oop/notes/multithreading/Thread Signaling Process.canvas",
     "Thred Life Cycle.canvas",
