@@ -18,14 +18,10 @@ So how can we get rid of the previously discussed steady state error ? we can do
 
 - **Error vs Time (Top Graph):**
     
-    - The error starts at **1 meter** (steady-state error) and gradually decreases as the drone approaches the setpoint of 50 meters.
-
+    - The error decreases over time as the drone approaches the target altitude.
 - **Integral of Error vs Time (Middle Graph):**
     
-    - The integral of the error grows steadily when the error is high and slows down as the error decreases.
-    - It stops increasing once the error becomes zero, reflecting the accumulated correction needed over time.
-
-- **Actuating Signal vs Time (Bottom Graph):**
+    - The integral accumulates error over time, slowing as the error decreases and stabilizing once the error reaches zero.
+- **Actuating Signal vs Time (Bottom Graph, Corrected):**
     
-    - The actuating signal (motor RPM) starts at **100 RPM** and increases due to the integral term.
-    - It stabilizes at a higher RPM once the error is corrected and the drone reaches the target altitude.
+    - The actuating signal starts at 100 RPM, increases as the integral grows to correct the altitude error, and then smoothly returns to **100 RPM** once the drone stabilizes at the target altitude.
