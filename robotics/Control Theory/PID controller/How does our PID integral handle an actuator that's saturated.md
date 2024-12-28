@@ -10,4 +10,4 @@ So now we have noticed our integral part has exceeded the saturation level of th
 
 `Let's consider our motor's maximum speed is 1000 rpm.But since we kept holding our drone, the output of our integral is requesting now 2000 rpm.But motors are only spinning at 1000 rpm since its the maximum speed of the motors.`
 
-`So now let's give a change for the drone to go up, let's release it from our hand. Remember that now our drone propellers are spinnig`
+`So now let's give a change for the drone to go up, let's release it from our hand. Remember that now our drone propellers are spinning at 1000 rpm and also our integral part is requesting 2000 rpm. Since we released the drone at 1000 rpm, our drone will start to go up pretty much faster, and also our error begins to d`
