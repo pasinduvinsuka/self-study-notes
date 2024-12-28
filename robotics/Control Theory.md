@@ -64,3 +64,4 @@ System and the outputs are given, we have to determine the appropriate inputs th
 
 [[Transfer Functions]]
 [[Time Domain and Frequency Domain]]
+[[PID Control]]
