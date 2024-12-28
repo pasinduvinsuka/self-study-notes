@@ -1,0 +1,1 @@
+Noise is a random disturbance on our signal. 

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "robotics/Control Theory/PID controller/Untitled.md",
+                "file": "robotics/Control Theory/PID controller/Noise filtering in PID control.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "Noise filtering in PID control"
             }
           },
           {
@@ -277,9 +277,9 @@
   },
   "active": "c155fe9e1cb2cc43",
   "lastOpenFiles": [
-    "robotics/Control Theory/PID controller/PID Control.md",
-    "robotics/Control Theory/PID controller/Untitled.md",
     "robotics/Control Theory/PID controller/How does our PID integral handle an actuator that's saturated.md",
+    "robotics/Control Theory/PID controller/PID Control.md",
+    "robotics/Control Theory/PID controller/Noise filtering in PID control.md",
     "robotics/Control Theory/PID controller/Clamping.md",
     "robotics/Control Theory/PID controller/Altitude Controller for a quadcopter drone.md",
     "robotics/Control Theory/PID controller/attachments/Pasted image 20241228211124.png",
