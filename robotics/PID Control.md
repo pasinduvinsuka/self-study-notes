@@ -19,3 +19,7 @@ Let's take a way that our brain will get the error rate and then it will multipl
 Walking speed  = error rate x 0.1
 ```
 
+![[Pasted image 20241228113435.png]]
+
+So initially the speed will be 5ms-1 and with the time since the error rate gets down our walking speed will get down too as in above graphs.
+
