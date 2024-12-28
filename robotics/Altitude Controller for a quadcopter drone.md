@@ -21,4 +21,5 @@ So our plant will be the drone and our actuating signal will be the propellor sp
 So when that's happening the propellor speed will again begin to increase since the error rate is increasing now.
 
 ![[Pasted image 20241228115017.png]]
-`Note : There will be specific speed where the propellor lift force will get equal to the drone weight. So in that speed, the drone will start hovering.So let's assume that our propellors need to rotate at 100 rpm in order to hover the drone. `
+`Note : There will be specific speed where the propellor lift force will get equal to the drone weight. So in that speed, the drone will start hovering.So let's assume that our propellors need to rotate at 100 rpm in order to hover the drone.So this speed will depened on our propotional gain now`
+
