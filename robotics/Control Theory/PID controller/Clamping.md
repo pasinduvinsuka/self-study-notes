@@ -16,4 +16,5 @@ So in here our clamping method has 2 separate checks that it's doing.
 
 - Don't set the saturation limit of the clamping system to the exact physical saturation limit of the actuator.  ( `Our actuators can get slow down with age, temperature and based on some other factors. So because of this our saturation limit of the actuator also can be go down. So if in this scenario we have marked the saturation limit as same as the maximum of the physical device, then ther will be a integral windup again even while having our clamping algorithm.)
 
-
+	So we should set the limit of our saturation level in clamping algorithm lower than the real physical system's limit.
+	
