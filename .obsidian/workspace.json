@@ -208,8 +208,8 @@
             "state": {
               "type": "smart-connections-view",
               "state": {},
-              "icon": "smart-connections",
-              "title": "Smart Connections"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -218,12 +218,42 @@
             "state": {
               "type": "smart-connections-chat-view",
               "state": {},
-              "icon": "message-square",
-              "title": "Smart Chat Conversation View"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
             "id": "892d09ddb04c06af",
+            "type": "leaf",
+            "state": {
+              "type": "planner-timeline",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "75e8e3b09fb98cf3",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "2ecf2d36add67b4e",
+            "type": "leaf",
+            "state": {
+              "type": "smart-search-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "6ae548927766d260",
             "type": "leaf",
             "state": {
               "type": "planner-timeline",
@@ -233,7 +263,7 @@
             }
           },
           {
-            "id": "75e8e3b09fb98cf3",
+            "id": "265982ebf776a823",
             "type": "leaf",
             "state": {
               "type": "review-queue-list-view",
@@ -241,19 +271,9 @@
               "icon": "SpacedRepIcon",
               "title": "Notes Review Queue"
             }
-          },
-          {
-            "id": "2ecf2d36add67b4e",
-            "type": "leaf",
-            "state": {
-              "type": "smart-search-view",
-              "state": {},
-              "icon": "search",
-              "title": "Smart Search"
-            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 10
       }
     ],
     "direction": "horizontal",
@@ -268,15 +288,15 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
+      "audio-recorder:Start/stop recording": false,
+      "smart-connections:Open: View Smart Connections": false,
+      "smart-connections:Open: Smart Chat Conversation": false,
       "obsidian-day-planner:Open Timeline": false,
       "obsidian-day-planner:Open Multi-Day View": false,
-      "audio-recorder:Start/stop recording": false,
-      "obsidian-spaced-repetition:Review flashcards": false,
-      "smart-connections:Open: View Smart Connections": false,
-      "smart-connections:Open: Smart Chat Conversation": false
+      "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "c155fe9e1cb2cc43",
+  "active": "265982ebf776a823",
   "lastOpenFiles": [
     "robotics/Control Theory/PID controller/attachments/Recording 20241229000118.webm",
     "smart-chats",
