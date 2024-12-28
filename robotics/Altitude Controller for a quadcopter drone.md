@@ -35,4 +35,8 @@ So when that's happening the propellor speed will again begin to increase since 
 So we can notice that this gonna continue happening.
 
 **No matter how much we increase the gain, our error won't go away.** 
-The error is only getting smaller and smaller with our pr
+The error is only getting smaller and smaller with our proportional controller system.
+
+# So we  can see that a simple proportional controller will not work in every situation : (
+
+So what's the solution we got for this ? 
