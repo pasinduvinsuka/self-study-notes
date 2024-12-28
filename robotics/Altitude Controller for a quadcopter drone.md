@@ -5,11 +5,13 @@ So let's imagine that our system needs the altitude of 50m and hover over there.
 
 So our plant will be the drone and our actuating signal will be the propellor speed and output will be the altitude.
 
-So can we  just use a proportional controller like before ? 
+- - - 
+**So can we  just use a proportional controller like before ?** 
+
 ![[Pasted image 20241228114309.png]]
 
 So when our drone is in the ground the error rate will be 50 and that will generate a larger propellor speed. So the drone will lift up and the error will get reduced.
+
 ![[Pasted image 20241228114437.png]]
 
-
-So let's 
+So now let;
