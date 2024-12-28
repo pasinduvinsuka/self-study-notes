@@ -9,9 +9,12 @@ So our plant will be the drone and our actuating signal will be the propellor sp
 **So can we  just use a proportional controller like before ?** 
 
 ![[Pasted image 20241228114309.png]]
-
-So when our drone is in the ground the error rate will be 50 and that will generate a larger propellor speed. So the drone will lift up and the error will get reduced.
-
 ![[Pasted image 20241228114437.png]]
+`So when our drone is in the ground the error rate will be 50 and that will generate a larger propellor speed. So the drone will lift up and the error will get reduced.`
 
-So now let;
+
+
+
+
+
+So now let's imagine that our drone has reached the desired height. So what's gonna happen next ? The error w
