@@ -12,5 +12,7 @@ In here the derivative part will amplify the high frequency signals, so those ti
 
 ![[Pasted image 20241228235222.png]]
 `In here the sloap will give the derivative of this signal. What's gonna happne if we increase the frequency of this signal ?`
-
 ![[Pasted image 20241228235319.png]]
+`Now here we can see that the increased frequency has caused to the increase the sloap of our frequency which means it has increased the value of derivative.`
+
+So how can we reduce the s
