@@ -84,7 +84,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -304,7 +304,7 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "a3b82fa62fef40b3",
+  "active": "7cac623a9f7eb184",
   "lastOpenFiles": [
     "Maths/Differentiation.md",
     "robotics/Control Theory/PID controller/Clamping.md",
