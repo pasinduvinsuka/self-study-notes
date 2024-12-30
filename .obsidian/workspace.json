@@ -83,7 +83,8 @@
               "title": "Altitude Controller for a quadcopter drone"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -140,7 +141,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "5f79579e1e02cd82",
@@ -302,7 +304,7 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "c155fe9e1cb2cc43",
+  "active": "7cac623a9f7eb184",
   "lastOpenFiles": [
     "robotics/Control Theory/PID controller/Noise filtering in PID control.md",
     "robotics/Control Theory/PID controller/Integral Part (Past Error ).md",
