@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "robotics/Control Theory/Control Theory.md",
+                "file": "robotics/Control Theory/PID controller/PID Control.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Control Theory"
+              "title": "PID Control"
             }
           },
           {
@@ -313,6 +313,8 @@
   },
   "active": "c155fe9e1cb2cc43",
   "lastOpenFiles": [
+    "robotics/Control Theory/Control Theory.md",
+    "robotics/Open Loop Control Systems.md",
     "robotics/Control Theory/Closed Loop Control Systems.md",
     "robotics/Control Theory/PID controller/Noise filtering in PID control.md",
     "Maths/Differentiation.md",
@@ -345,13 +347,11 @@
     "Untitled 3.canvas",
     "Maths/Fourier Series/The Big Idea Behind Fourier Series.md",
     "Untitled 2.md",
-    "robotics/Open Loop Control Systems.md",
     "robotics/Control Theory/PID controller/attachments",
     "robotics/westminster/assignment1_2024_2025.pdf",
     "robotics/Control Theory/PID controller",
     "robotics/Control Theory",
     "robotics/Untitled",
-    "robotics/Control Theory/Control Theory.md",
     "robotics/modern-robotics-solutions.pdf",
     "robotics/Introduction to Linear Algebra 6th edition and A = CR_05.pdf",
     "robotics/configuration space.md",
