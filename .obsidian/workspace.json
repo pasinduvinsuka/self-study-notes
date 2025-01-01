@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "robotics/Control Theory/PID controller/Altitude Controller for a quadcopter drone.md",
+                "file": "robotics/Control Theory/PID controller/Integral Part (Past Error ).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Altitude Controller for a quadcopter drone"
+              "title": "Integral Part (Past Error )"
             }
           },
           {
@@ -313,6 +313,7 @@
   },
   "active": "c155fe9e1cb2cc43",
   "lastOpenFiles": [
+    "robotics/Control Theory/PID controller/Altitude Controller for a quadcopter drone.md",
     "robotics/Control Theory/PID controller/PID Control.md",
     "robotics/Control Theory/Control Theory.md",
     "robotics/Open Loop Control Systems.md",
@@ -335,7 +336,6 @@
     "robotics/Control Theory/PID controller/attachments/Pasted image 20241228234959.png",
     "robotics/Control Theory/PID controller/attachments/Pasted image 20241228232458.png",
     "robotics/Control Theory/PID controller/attachments/Pasted image 20241228232350.png",
-    "robotics/Control Theory/PID controller/Altitude Controller for a quadcopter drone.md",
     "robotics/Control Theory/PID controller/attachments/Pasted image 20241228211124.png",
     "robotics/Control Theory/PID controller/Anti-windup for PID control.md",
     "robotics/Control Theory/PID controller/attachments/Pasted image 20241228211059.png",
