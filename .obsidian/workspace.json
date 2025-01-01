@@ -11,10 +11,14 @@
             "id": "c155fe9e1cb2cc43",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "robotics/Control Theory/Control Theory.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Control Theory"
             }
           },
           {
@@ -87,8 +91,7 @@
               "title": "Altitude Controller for a quadcopter drone"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -308,11 +311,12 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "7cac623a9f7eb184",
+  "active": "c155fe9e1cb2cc43",
   "lastOpenFiles": [
+    "robotics/Control Theory/Closed Loop Control Systems.md",
+    "robotics/Control Theory/PID controller/Noise filtering in PID control.md",
     "Maths/Differentiation.md",
     "robotics/Control Theory/PID controller/Back-calculation.md",
-    "robotics/Control Theory/PID controller/Noise filtering in PID control.md",
     "robotics/Control Theory/PID controller/Clamping.md",
     "robotics/Control Theory/PID controller/Integral Part (Past Error ).md",
     "Maths/Maths.md",
@@ -344,7 +348,6 @@
     "robotics/Open Loop Control Systems.md",
     "robotics/Control Theory/PID controller/attachments",
     "robotics/westminster/assignment1_2024_2025.pdf",
-    "robotics/Control Theory/Closed Loop Control Systems.md",
     "robotics/Control Theory/PID controller",
     "robotics/Control Theory",
     "robotics/Untitled",
