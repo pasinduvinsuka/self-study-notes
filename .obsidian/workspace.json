@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "robotics/Control Theory/PID controller/Derivative Part (Future Error).md",
+                "file": "PID Controller Finally.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Derivative Part (Future Error)"
+              "title": "PID Controller Finally"
             }
           },
           {
@@ -106,7 +106,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -326,8 +326,10 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "4ffdc0ad9d62d2aa",
+  "active": "d9351bbfcbe3e3fa",
   "lastOpenFiles": [
+    "PID Controller Finally.md",
+    "robotics/Control Theory/PID controller/Derivative Part (Future Error).md",
     "robotics/Control Theory/PID controller/Integral Part (Past Error ).md",
     "robotics/Control Theory/PID controller/Altitude Controller for a quadcopter drone.md",
     "robotics/Control Theory/PID controller/PID Control.md",
@@ -356,9 +358,7 @@
     "robotics/Control Theory/PID controller/attachments/Pasted image 20241228211059.png",
     "robotics/Control Theory/PID controller/attachments/Pasted image 20241228210645.png",
     "robotics/Control Theory/PID controller/Observer approach.md",
-    "PID Controller Finally.md",
     "robotics/Control Theory/PID controller/PID Controller Finally.md",
-    "robotics/Control Theory/PID controller/Derivative Part (Future Error).md",
     "Untitled 3.canvas",
     "Maths/Fourier Series/The Big Idea Behind Fourier Series.md",
     "Untitled 2.md",
