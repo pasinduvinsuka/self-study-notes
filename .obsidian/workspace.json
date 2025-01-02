@@ -102,8 +102,19 @@
               "icon": "lucide-file",
               "title": "Altitude Controller for a quadcopter drone"
             }
+          },
+          {
+            "id": "c6f0f2eab57af57a",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
-        ]
+        ],
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -323,8 +334,9 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "c155fe9e1cb2cc43",
+  "active": "c6f0f2eab57af57a",
   "lastOpenFiles": [
+    "robotics/books/fundamentals_of_control_r1_6.pdf",
     "robotics/Control Theory/Control Theory.md",
     "robotics/Control Theory/PID controller/PID Control.md",
     "robotics/Control Theory/PID controller/Altitude Controller for a quadcopter drone.md",
@@ -371,7 +383,6 @@
     "robotics/Control Theory/Time Domain and Frequency Domain.md",
     "robotics/Control Theory/Transfer Functions.md",
     "robotics/Robotics (Map of Content).md",
-    "().md",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
     "oop/notes/multithreading/Thread Life Cycle.canvas",
