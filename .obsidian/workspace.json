@@ -107,10 +107,17 @@
             "id": "c6f0f2eab57af57a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "canvas",
+              "state": {
+                "file": "Untitled 4.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Untitled 4"
             }
           }
         ],
@@ -336,6 +343,7 @@
   },
   "active": "c6f0f2eab57af57a",
   "lastOpenFiles": [
+    "Untitled 4.canvas",
     "robotics/books/fundamentals_of_control_r1_6.pdf",
     "robotics/Control Theory/Control Theory.md",
     "robotics/Control Theory/PID controller/PID Control.md",
@@ -379,7 +387,6 @@
     "robotics/modern-robotics-solutions.pdf",
     "robotics/Introduction to Linear Algebra 6th edition and A = CR_05.pdf",
     "robotics/configuration space.md",
-    "Maths/Fourier Series",
     "robotics/Control Theory/Time Domain and Frequency Domain.md",
     "robotics/Control Theory/Transfer Functions.md",
     "robotics/Robotics (Map of Content).md",
