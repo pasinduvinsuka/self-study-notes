@@ -1,8 +1,8 @@
 {
 	"nodes":[
 		{"id":"8cebd5891f2ea56d","x":0,"y":-100,"width":80,"height":50,"type":"text","text":""},
-		{"id":"01f66eae1ef772d9","x":-160,"y":-100,"width":80,"height":50,"type":"text","text":""},
-		{"id":"ca1d657e41258658","x":-40,"y":67,"width":132,"height":50,"type":"text","text":"sendor"}
+		{"id":"ca1d657e41258658","x":-40,"y":67,"width":132,"height":50,"type":"text","text":"sensor"},
+		{"id":"01f66eae1ef772d9","x":-220,"y":-100,"width":80,"height":50,"type":"text","text":""}
 	],
 	"edges":[
 		{"id":"61d9a659dc48cb19","fromNode":"01f66eae1ef772d9","fromSide":"right","toNode":"8cebd5891f2ea56d","toSide":"left"}
