@@ -28,4 +28,6 @@ So how can we reduce the slope (value of the derivative) while keeping our frequ
 - lower frequencies will give lower amplitude signals
 
 So based on this the value of our derivative get changed.`
- 
+ ![[Pasted image 20250103102620.png]]
+
+ So in here we can notice that the higher the frequency, the higher the amplitude will be  and vice versa.
