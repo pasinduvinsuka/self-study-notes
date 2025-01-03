@@ -116,7 +116,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -335,8 +335,9 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "c6f0f2eab57af57a",
+  "active": "7cac623a9f7eb184",
   "lastOpenFiles": [
+    "robotics/westminster/week 10/5elen018w_lecture7_2025.pdf",
     "robotics/westminster/week 12/5elen018w_lecture8_2025.pdf",
     "robotics/westminster/assignment1_2024_2025.pdf",
     "Untitled 4.canvas",
@@ -380,7 +381,6 @@
     "robotics/Control Theory",
     "robotics/Untitled",
     "robotics/modern-robotics-solutions.pdf",
-    "robotics/Introduction to Linear Algebra 6th edition and A = CR_05.pdf",
     "robotics/configuration space.md",
     "robotics/Control Theory/Time Domain and Frequency Domain.md",
     "robotics/Control Theory/Transfer Functions.md",
