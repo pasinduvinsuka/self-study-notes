@@ -11,12 +11,14 @@
             "id": "c155fe9e1cb2cc43",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "robotics/books/fundamentals_of_control_r1_6.pdf"
+                "file": "robotics/Robotics (Map of Content).md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "fundamentals_of_control_r1_6"
+              "icon": "lucide-file",
+              "title": "Robotics (Map of Content)"
             }
           },
           {
@@ -115,8 +117,7 @@
               "title": "5elen018w_lecture7_2025"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -335,8 +336,10 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "7cac623a9f7eb184",
+  "active": "c155fe9e1cb2cc43",
   "lastOpenFiles": [
+    "robotics/books/fundamentals_of_control_r1_6.pdf",
+    "robotics/Control Theory/PID controller/Noise filtering in PID control.md",
     "robotics/Control Theory/PID controller/attachments/Pasted image 20250103105155.png",
     "robotics/Control Theory/PID controller/attachments/Pasted image 20250103105046.png",
     "robotics/Control Theory/PID controller/attachments/Pasted image 20250103104520.png",
@@ -348,7 +351,6 @@
     "robotics/westminster/week 12/5elen018w_lecture8_2025.pdf",
     "robotics/westminster/assignment1_2024_2025.pdf",
     "Untitled 4.canvas",
-    "robotics/books/fundamentals_of_control_r1_6.pdf",
     "robotics/Control Theory/Control Theory.md",
     "robotics/Control Theory/PID controller/PID Control.md",
     "robotics/Control Theory/PID controller/Altitude Controller for a quadcopter drone.md",
@@ -358,7 +360,6 @@
     "robotics/Control Theory/PID controller/Derivative Part (Future Error).md",
     "robotics/Open Loop Control Systems.md",
     "robotics/Control Theory/Closed Loop Control Systems.md",
-    "robotics/Control Theory/PID controller/Noise filtering in PID control.md",
     "Maths/Differentiation.md",
     "robotics/Control Theory/PID controller/Back-calculation.md",
     "robotics/Control Theory/PID controller/Clamping.md",
@@ -370,7 +371,6 @@
     "smart-chats",
     "robotics/Control Theory/PID controller/attachments/Pasted image 20241228235222.png",
     "robotics/Control Theory/PID controller/attachments/Pasted image 20241228235611.png",
-    "robotics/Control Theory/PID controller/attachments/Pasted image 20241228235319.png",
     "robotics/Control Theory/PID controller/Anti-windup for PID control.md",
     "robotics/Control Theory/PID controller/Observer approach.md",
     "robotics/Control Theory/PID controller/PID Controller Finally.md",
