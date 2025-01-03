@@ -351,8 +351,10 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "c11cfe58e960d3bd",
+  "active": "2e34a5cf7a214cc3",
   "lastOpenFiles": [
+    "robotics/Control Theory/PID controller/attachments/Pasted image 20250103110151.png",
+    "robotics/Control Theory/PID controller/attachments/Pasted image 20250103110050.png",
     "robotics/Control Theory/PID controller/PID Control.md",
     "robotics/Control Theory/PID controller/Design of a control system.md",
     "robotics/Control Theory/PID controller/Noise filtering in PID control.md",
@@ -388,7 +390,6 @@
     "robotics/Control Theory/PID controller/attachments/Recording 20241229000118.webm",
     "smart-chats",
     "robotics/Control Theory/PID controller/attachments/Pasted image 20241228235222.png",
-    "robotics/Control Theory/PID controller/attachments/Pasted image 20241228235611.png",
     "robotics/Control Theory/PID controller/Anti-windup for PID control.md",
     "robotics/Control Theory/PID controller/Observer approach.md",
     "robotics/Control Theory/PID controller/PID Controller Finally.md",
@@ -400,7 +401,6 @@
     "robotics/Control Theory",
     "robotics/Untitled",
     "robotics/configuration space.md",
-    "robotics/Control Theory/Transfer Functions.md",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
     "oop/notes/multithreading/Thread Life Cycle.canvas",
