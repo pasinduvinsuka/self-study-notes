@@ -36,3 +36,5 @@ So now what we gonna do as the designer is to block the frequencies which are ab
 ![[Pasted image 20250103102858.png]]
 
 
+![[Pasted image 20250103103502.png]]
+So in here we can add our filter into the derivative like this. Ideally we might need our filter to remove all the noised but this is something that cannot be achiever in the real world.
