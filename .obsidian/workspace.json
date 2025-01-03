@@ -107,17 +107,12 @@
             "id": "c6f0f2eab57af57a",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "pdf",
               "state": {
-                "file": "Untitled 4.canvas",
-                "viewState": {
-                  "x": -64,
-                  "y": 8.5,
-                  "zoom": 0
-                }
+                "file": "robotics/westminster/assignment1_2024_2025.pdf"
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Untitled 4"
+              "icon": "lucide-file-text",
+              "title": "assignment1_2024_2025"
             }
           }
         ],
@@ -340,7 +335,7 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "75e8e3b09fb98cf3",
+  "active": "c6f0f2eab57af57a",
   "lastOpenFiles": [
     "Untitled 4.canvas",
     "robotics/books/fundamentals_of_control_r1_6.pdf",
