@@ -40,3 +40,5 @@ So now what we gonna do as the designer is to block the frequencies which are ab
 So in here we can add our filter into the derivative like this. Ideally we might need our filter to remove all the noised but this is something that cannot be achieved in the real world.
 
 But luckily for the many signals we consider, the noise across the spectrum is pretty low power , low amplitude. And the signal we are interested in keeping has a large power and low frequency compared to that noise.
+![[Pasted image 20250103103846.png]]
+
