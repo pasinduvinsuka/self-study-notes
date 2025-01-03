@@ -48,3 +48,6 @@ So the key aspect of this filter is to determine where to put the cutout frequen
 
 ![[Pasted image 20250103104520.png]]
 
+![[Pasted image 20250103105046.png]]
+ ![[Pasted image 20250103105155.png]]
+ 
