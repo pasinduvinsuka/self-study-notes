@@ -109,10 +109,10 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "robotics/westminster/assignment1_2024_2025.pdf"
+                "file": "robotics/westminster/week 10/5elen018w_lecture7_2025.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "assignment1_2024_2025"
+              "title": "5elen018w_lecture7_2025"
             }
           }
         ],
@@ -337,6 +337,8 @@
   },
   "active": "c6f0f2eab57af57a",
   "lastOpenFiles": [
+    "robotics/westminster/week 12/5elen018w_lecture8_2025.pdf",
+    "robotics/westminster/assignment1_2024_2025.pdf",
     "Untitled 4.canvas",
     "robotics/books/fundamentals_of_control_r1_6.pdf",
     "robotics/Control Theory/Control Theory.md",
@@ -374,7 +376,6 @@
     "Maths/Fourier Series/The Big Idea Behind Fourier Series.md",
     "Untitled 2.md",
     "robotics/Control Theory/PID controller/attachments",
-    "robotics/westminster/assignment1_2024_2025.pdf",
     "robotics/Control Theory/PID controller",
     "robotics/Control Theory",
     "robotics/Untitled",
