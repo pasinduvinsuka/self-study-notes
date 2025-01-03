@@ -111,8 +111,8 @@
               "state": {
                 "file": "Untitled 4.canvas",
                 "viewState": {
-                  "x": 0,
-                  "y": 0,
+                  "x": -64,
+                  "y": 8.5,
                   "zoom": 0
                 }
               },
@@ -340,7 +340,7 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "c6f0f2eab57af57a",
+  "active": "75e8e3b09fb98cf3",
   "lastOpenFiles": [
     "Untitled 4.canvas",
     "robotics/books/fundamentals_of_control_r1_6.pdf",
