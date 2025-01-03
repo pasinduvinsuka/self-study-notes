@@ -45,3 +45,6 @@ But luckily for the many signals we consider, the noise across the spectrum is p
 so what we can do here is removing the bothersome noise with high frequency which are affecting our current signal. We can remove this noise simply by a first order low pass filter. So what this filter does is allow the signals which has low frequency below the cut off frequency without doing any change and also lower the amplitude of the signal which are above the cutoff frequency. So by doing this our high frequency signal's will get low amplitude and that will reduce the affect we had on the value of our derivative.
 
 So the key aspect of this filter is to determine where to put the cutout frequency. So by this what we gonna do is removing the as much as possible high frequency signals which are affecting us without removing the signal actually we care about.
+
+![[Pasted image 20250103104520.png]]
+
