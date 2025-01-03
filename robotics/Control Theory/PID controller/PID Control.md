@@ -34,3 +34,4 @@ So in this current example our human gonna stop at the exact right location once
 [[Altitude Controller for a quadcopter drone]]
 [[Anti-windup for PID control]]
 [[Noise filtering in PID control]]
+[[Design of a control system]]
