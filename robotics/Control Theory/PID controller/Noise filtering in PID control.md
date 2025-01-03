@@ -31,3 +31,5 @@ So based on this the value of our derivative get changed.`
  ![[Pasted image 20250103102620.png]]
 
  So in here we can notice that the higher the frequency, the higher the amplitude will be  and vice versa.
+
+So now what we gonna do as the designer is to block the frequencies which are 
