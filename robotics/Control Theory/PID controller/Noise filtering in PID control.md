@@ -42,4 +42,4 @@ So in here we can add our filter into the derivative like this. Ideally we might
 But luckily for the many signals we consider, the noise across the spectrum is pretty low power , low amplitude. And the signal we are interested in keeping has a large power and low frequency compared to that noise.
 ![[Pasted image 20250103103846.png]]
 
-so what we can do here is removing the bothersome noise with high frequency which are affecting our current signal.
+so what we can do here is removing the bothersome noise with high frequency which are affecting our current signal. We can remove this noise simply by a first order low pass filter. So what this filter does is allow the signals 
