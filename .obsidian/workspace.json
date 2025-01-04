@@ -126,7 +126,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -345,13 +345,13 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "4ffdc0ad9d62d2aa",
+  "active": "2e34a5cf7a214cc3",
   "lastOpenFiles": [
+    "robotics/westminster/week 10/5elen018w_lecture7_2025.pdf",
     "robotics/westminster/week 10/5elen018w_lecture6_2025.pdf",
     "PID Controller Finally.md",
     "robotics/westminster/assignment1_2024_2025.pdf",
     "robotics/books/fundamentals_of_control_r1_6.pdf",
-    "robotics/westminster/week 10/5elen018w_lecture7_2025.pdf",
     "robotics/westminster/week 12/5elen018w_lecture8_2025.pdf",
     "robotics/westminster/5elen018w_lecture2_2025.pdf",
     "robotics/Control Theory/PID controller/Design of a control system.md",
