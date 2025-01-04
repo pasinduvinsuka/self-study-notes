@@ -25,10 +25,10 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "robotics/westminster/assignment1_2024_2025.pdf"
+                "file": "robotics/westminster/week 10/5elen018w_lecture7_2025.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "assignment1_2024_2025"
+              "title": "5elen018w_lecture7_2025"
             }
           },
           {
@@ -349,6 +349,10 @@
   },
   "active": "2e34a5cf7a214cc3",
   "lastOpenFiles": [
+    "robotics/westminster/week 10/5elen018w_lecture6_2025.pdf",
+    "robotics/westminster/week 12/5elen018w_lecture8_2025.pdf",
+    "robotics/westminster/5elen018w_lecture2_2025.pdf",
+    "robotics/westminster/assignment1_2024_2025.pdf",
     "robotics/Control Theory/PID controller/Design of a control system.md",
     "robotics/books/fundamentals_of_control_r1_6.pdf",
     "robotics/Control Theory/PID controller/PID Control.md",
@@ -366,8 +370,6 @@
     "robotics/Control Theory/PID controller/attachments/Pasted image 20250103102858.png",
     "robotics/Control Theory/PID controller/attachments/Pasted image 20250103102620.png",
     "robotics/westminster/week 10/5elen018w_lecture7_2025.pdf",
-    "robotics/westminster/week 12/5elen018w_lecture8_2025.pdf",
-    "robotics/westminster/assignment1_2024_2025.pdf",
     "Untitled 4.canvas",
     "robotics/Control Theory/Control Theory.md",
     "robotics/Control Theory/PID controller/Altitude Controller for a quadcopter drone.md",
@@ -394,7 +396,6 @@
     "robotics/Control Theory/PID controller/attachments",
     "robotics/Control Theory/PID controller",
     "robotics/Control Theory",
-    "robotics/Untitled",
     "robotics/configuration space.md",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
