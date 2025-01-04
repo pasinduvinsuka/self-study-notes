@@ -11,14 +11,12 @@
             "id": "c155fe9e1cb2cc43",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "robotics/Control Theory/PID controller/PID Control.md",
-                "mode": "source",
-                "source": false
+                "file": "robotics/books/fundamentals_of_control_r1_6.pdf"
               },
-              "icon": "lucide-file",
-              "title": "PID Control"
+              "icon": "lucide-file-text",
+              "title": "fundamentals_of_control_r1_6"
             }
           },
           {
@@ -352,10 +350,10 @@
   },
   "active": "c155fe9e1cb2cc43",
   "lastOpenFiles": [
+    "robotics/Control Theory/PID controller/PID Control.md",
     "robotics/Control Theory/PID controller/Design of a control system.md",
     "robotics/Control Theory/PID controller/attachments/Pasted image 20250103110151.png",
     "robotics/Control Theory/PID controller/attachments/Pasted image 20250103110050.png",
-    "robotics/Control Theory/PID controller/PID Control.md",
     "robotics/Control Theory/PID controller/Noise filtering in PID control.md",
     "PID Controller Finally.md",
     "robotics/Control Theory/Time Domain and Frequency Domain.md",
