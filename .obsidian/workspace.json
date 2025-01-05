@@ -37,10 +37,10 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "robotics/westminster/week 10/5elen018w_lecture7_2025.pdf"
+                "file": "robotics/westminster/week 12/5elen018w_lecture8_2025.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "5elen018w_lecture7_2025"
+              "title": "5elen018w_lecture8_2025"
             }
           },
           {
@@ -347,9 +347,9 @@
   },
   "active": "4ffdc0ad9d62d2aa",
   "lastOpenFiles": [
+    "robotics/westminster/week 10/5elen018w_lecture7_2025.pdf",
     "robotics/books/fundamentals_of_control_r1_6.pdf",
     "robotics/westminster/assignment1_2024_2025.pdf",
-    "robotics/westminster/week 10/5elen018w_lecture7_2025.pdf",
     "robotics/westminster/week 10/5elen018w_lecture6_2025.pdf",
     "PID Controller Finally.md",
     "robotics/westminster/week 12/5elen018w_lecture8_2025.pdf",
