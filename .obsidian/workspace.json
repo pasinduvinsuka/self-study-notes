@@ -131,12 +131,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Q.md",
+                "file": "oop/lab/Q1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Q"
+              "title": "Q1"
             }
           }
         ],
@@ -362,6 +362,8 @@
   "active": "9ebb6dda24a5a489",
   "lastOpenFiles": [
     "Q.md",
+    "oop/lab/Q1.md",
+    "oop/lab",
     "robotics/westminster/assignment1_2024_2025.pdf",
     "robotics/books/fundamentals_of_control_r1_6.pdf",
     "robotics/westminster/week 10/5elen018w_lecture7_2025.pdf",
@@ -407,8 +409,6 @@
     "Maths/Fourier Series/The Big Idea Behind Fourier Series.md",
     "Untitled 2.md",
     "robotics/Control Theory/PID controller/attachments",
-    "robotics/Control Theory/PID controller",
-    "robotics/configuration space.md",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
     "oop/notes/multithreading/Thread Life Cycle.canvas",
