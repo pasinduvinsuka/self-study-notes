@@ -126,9 +126,21 @@
               "icon": "lucide-file-text",
               "title": "5elen018w_lecture7_2025"
             }
+          },
+          {
+            "id": "1de84ff656849a04",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "robotics/westminster/assignment1_2024_2025.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "assignment1_2024_2025"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -185,7 +197,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 403.5110321044922
   },
   "right": {
     "id": "5f79579e1e02cd82",
@@ -347,20 +359,21 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "2e34a5cf7a214cc3",
+  "active": "1de84ff656849a04",
   "lastOpenFiles": [
+    "robotics/westminster/week 10/5elen018w_lecture7_2025.pdf",
+    "robotics/Control Theory/PID controller/Noise filtering in PID control.md",
+    "robotics/Control Theory/Laplace Transfer.md",
+    "robotics/books/fundamentals_of_control_r1_6.pdf",
     "robotics/Control Theory/attachments/Pasted image 20250111123353.png",
     "robotics/Control Theory/attachments/Pasted image 20250111123345.png",
     "robotics/Control Theory/attachments",
     "robotics/Control Theory/Time Domain and Frequency Domain.md",
-    "robotics/Control Theory/Laplace Transfer.md",
     "robotics/Control Theory/Transfer Functions.md",
     "robotics/Control Theory/Closed Loop Control Systems.md",
     "robotics/Control Theory/Control Theory.md",
     "robotics/westminster/assignment1_2024_2025.pdf",
     "robotics/Control Theory/PID controller/Altitude Controller for a quadcopter drone.md",
-    "robotics/books/fundamentals_of_control_r1_6.pdf",
-    "robotics/westminster/week 10/5elen018w_lecture7_2025.pdf",
     "oop/lab/5.md",
     "oop/lab/4.md",
     "oop/lab/3.md",
@@ -376,7 +389,6 @@
     "robotics/Control Theory/PID controller/PID Control.md",
     "robotics/Control Theory/PID controller/attachments/Pasted image 20250103110151.png",
     "robotics/Control Theory/PID controller/attachments/Pasted image 20250103110050.png",
-    "robotics/Control Theory/PID controller/Noise filtering in PID control.md",
     "robotics/Robotics (Map of Content).md",
     "robotics/Control Theory/PID controller/attachments/Pasted image 20250103105155.png",
     "robotics/Control Theory/PID controller/attachments/Pasted image 20250103105046.png",
@@ -384,7 +396,6 @@
     "robotics/Control Theory/PID controller/attachments/Pasted image 20250103103846.png",
     "robotics/Control Theory/PID controller/attachments/Pasted image 20250103103502.png",
     "robotics/Control Theory/PID controller/attachments/Pasted image 20250103102858.png",
-    "robotics/Control Theory/PID controller/attachments/Pasted image 20250103102620.png",
     "Untitled 4.canvas",
     "robotics/Control Theory/PID controller/Integral Part (Past Error ).md",
     "robotics/Control Theory/PID controller/How does our PID integral handle an actuator that's saturated.md",
