@@ -126,7 +126,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -345,8 +345,9 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "111137a6ac35224a",
+  "active": "2e34a5cf7a214cc3",
   "lastOpenFiles": [
+    "robotics/Control Theory/PID controller/Altitude Controller for a quadcopter drone.md",
     "robotics/westminster/assignment1_2024_2025.pdf",
     "robotics/books/fundamentals_of_control_r1_6.pdf",
     "robotics/westminster/week 10/5elen018w_lecture7_2025.pdf",
@@ -377,7 +378,6 @@
     "robotics/Control Theory/PID controller/attachments/Pasted image 20250103102620.png",
     "Untitled 4.canvas",
     "robotics/Control Theory/Control Theory.md",
-    "robotics/Control Theory/PID controller/Altitude Controller for a quadcopter drone.md",
     "robotics/Control Theory/PID controller/Integral Part (Past Error ).md",
     "robotics/Control Theory/PID controller/How does our PID integral handle an actuator that's saturated.md",
     "robotics/Control Theory/PID controller/Derivative Part (Future Error).md",
