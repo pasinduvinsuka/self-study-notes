@@ -23,12 +23,14 @@
             "id": "2e34a5cf7a214cc3",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "robotics/westminster/assignment1_2024_2025.pdf"
+                "file": "robotics/Control Theory/Laplace Transfer.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "assignment1_2024_2025"
+              "icon": "lucide-file",
+              "title": "Laplace Transfer"
             }
           },
           {
@@ -347,8 +349,13 @@
   },
   "active": "2e34a5cf7a214cc3",
   "lastOpenFiles": [
-    "robotics/Control Theory/PID controller/Altitude Controller for a quadcopter drone.md",
+    "robotics/Control Theory/Time Domain and Frequency Domain.md",
+    "robotics/Control Theory/Laplace Transfer.md",
+    "robotics/Control Theory/Transfer Functions.md",
+    "robotics/Control Theory/Closed Loop Control Systems.md",
+    "robotics/Control Theory/Control Theory.md",
     "robotics/westminster/assignment1_2024_2025.pdf",
+    "robotics/Control Theory/PID controller/Altitude Controller for a quadcopter drone.md",
     "robotics/books/fundamentals_of_control_r1_6.pdf",
     "robotics/westminster/week 10/5elen018w_lecture7_2025.pdf",
     "oop/lab/5.md",
@@ -367,7 +374,6 @@
     "robotics/Control Theory/PID controller/attachments/Pasted image 20250103110151.png",
     "robotics/Control Theory/PID controller/attachments/Pasted image 20250103110050.png",
     "robotics/Control Theory/PID controller/Noise filtering in PID control.md",
-    "robotics/Control Theory/Time Domain and Frequency Domain.md",
     "robotics/Robotics (Map of Content).md",
     "robotics/Control Theory/PID controller/attachments/Pasted image 20250103105155.png",
     "robotics/Control Theory/PID controller/attachments/Pasted image 20250103105046.png",
@@ -377,18 +383,15 @@
     "robotics/Control Theory/PID controller/attachments/Pasted image 20250103102858.png",
     "robotics/Control Theory/PID controller/attachments/Pasted image 20250103102620.png",
     "Untitled 4.canvas",
-    "robotics/Control Theory/Control Theory.md",
     "robotics/Control Theory/PID controller/Integral Part (Past Error ).md",
     "robotics/Control Theory/PID controller/How does our PID integral handle an actuator that's saturated.md",
     "robotics/Control Theory/PID controller/Derivative Part (Future Error).md",
     "robotics/Open Loop Control Systems.md",
-    "robotics/Control Theory/Closed Loop Control Systems.md",
     "Maths/Differentiation.md",
     "robotics/Control Theory/PID controller/Back-calculation.md",
     "robotics/Control Theory/PID controller/Clamping.md",
     "Maths/Maths.md",
     "Maths/Fourier Series/Fourier Series.md",
-    "Maths/Fourier Series/Qualitative Features.md",
     "robotics/Control Theory/PID controller/attachments/Pasted image 20241229000907.png",
     "robotics/Control Theory/PID controller/attachments/Recording 20241229000118.webm",
     "smart-chats",
