@@ -136,7 +136,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -355,7 +355,7 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "4ffdc0ad9d62d2aa",
+  "active": "377f34b47ce00a81",
   "lastOpenFiles": [
     "robotics/westminster/assignment1_2024_2025.pdf",
     "robotics/westminster/week 12/5elen018w_lecture8_2025.pdf",
