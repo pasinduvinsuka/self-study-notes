@@ -4,139 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "6c716ccc1cbffe6c",
+        "id": "19b20540641bf63e",
         "type": "tabs",
         "children": [
           {
-            "id": "c155fe9e1cb2cc43",
+            "id": "e0b6351b3e35c5f6",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "robotics/books/fundamentals_of_control_r1_6.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "fundamentals_of_control_r1_6"
-            }
-          },
-          {
-            "id": "2e34a5cf7a214cc3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "robotics/Control Theory/PID controller/Integral Part (Past Error ).md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Integral Part (Past Error )"
-            }
-          },
-          {
-            "id": "4ffdc0ad9d62d2aa",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "robotics/westminster/week 12/5elen018w_lecture8_2025.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "5elen018w_lecture8_2025"
-            }
-          },
-          {
-            "id": "377f34b47ce00a81",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "robotics/westminster/week 12/5elen018w_lecture8_2025.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "5elen018w_lecture8_2025"
-            }
-          },
-          {
-            "id": "7cac623a9f7eb184",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "robotics/westminster/assignment1_2024_2025.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "assignment1_2024_2025"
-            }
-          },
-          {
-            "id": "a3b82fa62fef40b3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "robotics/Control Theory/PID controller/Clamping.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Clamping"
-            }
-          },
-          {
-            "id": "d9351bbfcbe3e3fa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "robotics/Control Theory/PID controller/How does our PID integral handle an actuator that's saturated.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "How does our PID integral handle an actuator that's saturated"
-            }
-          },
-          {
-            "id": "111137a6ac35224a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "robotics/Control Theory/PID controller/Altitude Controller for a quadcopter drone.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Altitude Controller for a quadcopter drone"
-            }
-          },
-          {
-            "id": "c6f0f2eab57af57a",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "robotics/westminster/assignment1_2024_2025.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "assignment1_2024_2025"
-            }
-          },
-          {
-            "id": "1de84ff656849a04",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "robotics/westminster/week 12/5elen018w_lecture8_2025.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "5elen018w_lecture8_2025"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -355,12 +236,12 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "7cac623a9f7eb184",
+  "active": "e0b6351b3e35c5f6",
   "lastOpenFiles": [
+    "robotics/westminster/assignment1_2024_2025.pdf",
     "robotics/westminster/week 12/5elen018w_lecture8_2025.pdf",
     "robotics/Control Theory/PID controller/Integral Part (Past Error ).md",
     "robotics/books/fundamentals_of_control_r1_6.pdf",
-    "robotics/westminster/assignment1_2024_2025.pdf",
     "Maths/Differentiation.md",
     "robotics/Control Theory/PID controller/Noise filtering in PID control.md",
     "robotics/westminster/week 10/5elen018w_lecture7_2025.pdf",
