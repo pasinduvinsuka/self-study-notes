@@ -11,10 +11,12 @@
             "id": "e0b6351b3e35c5f6",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "pdf",
+              "state": {
+                "file": "machine learning/Machine Learning for Wireless Communication/Mora/[4] EN5730_Shallow_NN.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "[4] EN5730_Shallow_NN"
             }
           }
         ]
@@ -236,8 +238,10 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "c11cfe58e960d3bd",
+  "active": "e0b6351b3e35c5f6",
   "lastOpenFiles": [
+    "machine learning/Machine Learning for Wireless Communication/Mora/[5] EN5730_Deep_NN.pdf",
+    "machine learning/Machine Learning for Wireless Communication/Mora/[4] EN5730_Shallow_NN.pdf",
     "machine learning/Machine Learning for Wireless Communication/Mora/[3] EN5730_Supervised_Learning.pdf",
     "machine learning/Machine Learning for Wireless Communication/Mora/[2] EN5730_Fundamentals_of_ML.pdf",
     "machine learning/Machine Learning for Wireless Communication/Mora/[1] EN5730_Module_Overview.pdf",
@@ -250,12 +254,10 @@
     "robotics/books/fundamentals_of_control_r1_6.pdf",
     "Maths/Differentiation.md",
     "robotics/Control Theory/PID controller/Noise filtering in PID control.md",
-    "robotics/westminster/week 10/5elen018w_lecture7_2025.pdf",
     "robotics/Control Theory/PID controller/Altitude Controller for a quadcopter drone.md",
     "robotics/Control Theory/Laplace Transfer.md",
     "robotics/Control Theory/attachments/Pasted image 20250111123353.png",
     "robotics/Control Theory/attachments/Pasted image 20250111123345.png",
-    "robotics/Control Theory/attachments",
     "robotics/Control Theory/Time Domain and Frequency Domain.md",
     "robotics/Control Theory/Transfer Functions.md",
     "robotics/Control Theory/Closed Loop Control Systems.md",
