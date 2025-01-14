@@ -76,4 +76,4 @@ use keyword  'extend'.
 
 - interfaces will define the method but cannot have the method body.
 - by default all the methods which are inside in the interface are abstract and public.
-- 
+- by default all the variable inside of an interface are public static final. So we have to initili
