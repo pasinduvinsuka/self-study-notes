@@ -118,3 +118,7 @@ In an interface we use an dotted arrow in class diagram and normal arrow for cla
 - InputStream, OutputStream, Reader, Writer all these are abstract classes.
 
 ![[Pasted image 20250114195505.png]]
+
+### File Class
+
+- This is used to retrieve the informat
