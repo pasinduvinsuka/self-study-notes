@@ -84,7 +84,22 @@ use keyword  'extend'.
 - And also we can extend interface from another interface.
 ![[Pasted image 20250114172852.png]]
 
-	And also interface support
+ - And also unlike the classes, an interface will support to extend from multiple other interfaces.
+ 
+```java
+interface A {
+    void methodA();
+}
+
+interface B {
+    void methodB();
+}
+
+interface C extends A, B {
+    void methodC();
+}
+
+```
 
 | Interface                                                | Abstract Class                                                                                                                                                             |
 | -------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
