@@ -330,8 +330,9 @@
       }
     ]
   },
-  "active": "0bb0df5ab6dd9219",
+  "active": "20130c4e32f5a235",
   "lastOpenFiles": [
+    "oop/notes/multithreading/Thread Life Cycle.canvas",
     "oop/notes/multithreading/Thread Signaling Process.canvas",
     "oop/notes/multithreading/05.Synchronization in multithreading.md",
     "oop/notes/multithreading/04.Thread Life Cycle.md",
@@ -362,7 +363,6 @@
     "oop/westminster/week 12",
     "oop/notes/multithreading/deep-dive multirhreading/Deadlock.md",
     "oop/notes/multithreading/deep-dive multirhreading/Blocking Queues.md",
-    "oop/notes/multithreading/Thread Life Cycle.canvas",
     "oop/westminster/week 04/Week04_lecture.pdf",
     "robotics/Control Theory/PID controller/Integral Part (Past Error ).md",
     "Maths/Differentiation.md",
