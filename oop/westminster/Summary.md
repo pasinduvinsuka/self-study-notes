@@ -21,4 +21,7 @@ use keyword  'extend'.
  - less redundancy
  - increased maintainability are the advantages of inheritance.
 
-**Importance of(super keyword)
+**Importance of super keyword
+
+- Subclass won't inherit the constructor from the superclass.
+- So in the subclass we need to initialize both of the instance var
