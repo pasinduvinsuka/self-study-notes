@@ -144,3 +144,5 @@ In an interface we use an dotted arrow in class diagram and normal arrow for cla
 ### Exception handling
 
 ## Throwable Class
+
+![[Pasted image 20250114202929.png]]
