@@ -61,5 +61,6 @@ use keyword  'extend'.
 
 ### Abstract classes
 
-- if there is an any abstract method inside a class, then that class also should be abstract.
-- Abstract classes cannot be instant
+- if there is an any abstract method inside a class, then that class also should be abstract. (there can be methods without marked as abstract too inside of an abstract class.)
+- Abstract classes cannot be instantiated.
+- 
