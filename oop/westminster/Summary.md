@@ -43,4 +43,4 @@ use keyword  'extend'.
 
 **Dynamic vs Static Binding**
 
-- Dynamic binding - what method to call is resolved at teh
+	-
