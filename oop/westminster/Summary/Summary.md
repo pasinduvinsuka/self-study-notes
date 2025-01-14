@@ -158,6 +158,10 @@ public class CustomRuntimeException extends RuntimeException {
 
 ![[Pasted image 20250114203634.png]]
 
+
+# **Multithreading**
+
+
 # **Thread Life cycle**
 ![[Pasted image 20250114215502.png]]
 
