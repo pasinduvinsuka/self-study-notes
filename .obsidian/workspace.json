@@ -25,12 +25,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "oop/notes/multithreading/01.Introduction to multi threading.md",
+                "file": "oop/notes/multithreading/04.Thread Life Cycle.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01.Introduction to multi threading"
+              "title": "04.Thread Life Cycle"
             }
           }
         ],
@@ -329,6 +329,9 @@
   },
   "active": "0bb0df5ab6dd9219",
   "lastOpenFiles": [
+    "oop/notes/multithreading/03.Runnable Interface.md",
+    "oop/notes/multithreading/02.Extending a Thread Class.md",
+    "oop/notes/multithreading/01.Introduction to multi threading.md",
     "oop/notes/multithreading/deep-dive multirhreading/Thread Signaling.md",
     "oop/westminster/week 10/Week10 - Tagged.pdf",
     "oop/westminster/week 12/Week12 - Tagged.pdf",
@@ -357,9 +360,6 @@
     "oop/notes/multithreading/Thread Life Cycle.canvas",
     "oop/notes/multithreading/05.Synchronization in multithreading.md",
     "oop/notes/multithreading/04.Thread Life Cycle.md",
-    "oop/notes/multithreading/03.Runnable Interface.md",
-    "oop/notes/multithreading/02.Extending a Thread Class.md",
-    "oop/notes/multithreading/01.Introduction to multi threading.md",
     "oop/westminster/week 04/Week04_lecture.pdf",
     "robotics/Control Theory/PID controller/Integral Part (Past Error ).md",
     "Maths/Differentiation.md",
