@@ -131,3 +131,7 @@ In an interface we use an dotted arrow in class diagram and normal arrow for cla
 
 ![[Pasted image 20250114200013.png]]
 ![[Pasted image 20250114200054.png]]
+![[Pasted image 20250114200543.png]]
+
+## Reading and writing files using byte streams
+
