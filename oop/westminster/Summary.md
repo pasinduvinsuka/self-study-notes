@@ -43,5 +43,7 @@ use keyword  'extend'.
 
 **Dynamic vs Static Binding**
 
-- Dynamic binding (method overriding) : which method to call is resolved at the runtime
+- Dynamic binding (mostly method overriding) : which method to call is resolved at the runtime
 - Static binding (method overloading) : which method to call is resolved at the compile time
+![[Pasted image 20250114153730.png]]
+
