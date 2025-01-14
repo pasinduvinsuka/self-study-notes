@@ -29,4 +29,5 @@ use keyword  'extend'.
 ![[Pasted image 20250114151605.png]]
 
 - super must come first before the other statement in the body of the subclass constructor.
-- 
+- If subclass don't have any constructor, then java will create a non-argument constructor that contains only super();
+
