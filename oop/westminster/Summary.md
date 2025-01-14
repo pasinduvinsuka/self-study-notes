@@ -81,4 +81,10 @@ use keyword  'extend'.
 		- if we define all the methods inside the class which we implemented from the     interface then its complete.
 		- if we don't define all the methods which were in the interface, then our class should also defined as abstract.
 
+- And also we can extend interface from another interface.
+![[Pasted image 20250114172852.png]]
 
+
+| Interface | Abstract Class |
+| --------- | -------------- |
+|           |                |
