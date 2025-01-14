@@ -72,4 +72,8 @@ use keyword  'extend'.
 
 - Abstract class cannot have a method body and a concrete method should have a method body.
 
-**Interface**
+## **Interfaces**
+
+- interfaces will define the method but cannot have the method body.
+- by default all the methods which are inside in the interface are abstract and public.
+- 
