@@ -109,7 +109,6 @@ interface C extends A, B {
 ![[Pasted image 20250114173820.png]]
 In an interface we use an dotted arrow in class diagram and normal arrow for classes.
 
-
 ### File handling
 
 - All input and output in Java is accomplished by a classes called streams.
@@ -118,3 +117,4 @@ In an interface we use an dotted arrow in class diagram and normal arrow for cla
 
 - InputStream, OutputStream, Reader, Writer all these are abstract classes.
 
+![[Pasted image 20250114195505.png]]
