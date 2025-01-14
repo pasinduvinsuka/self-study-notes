@@ -70,4 +70,4 @@ use keyword  'extend'.
 
 **Abstract method vs Concrete method**
 
-- Abstract class cannot have a method body and a concr
+- Abstract class cannot have a method body and a concrete method should have a method body.
