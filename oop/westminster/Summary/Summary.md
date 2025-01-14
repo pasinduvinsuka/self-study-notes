@@ -157,3 +157,14 @@ public class CustomRuntimeException extends RuntimeException {
 ```
 
 ![[Pasted image 20250114203634.png]]
+
+# **Thread Life cycle**
+
+Once we instantiate the thread object , it's in the "New" or "Born" State.
+![[Pasted image 20241119100150.png]]
+Once we call the start( ) method on the created thread, then it will be in the "Ready" state.
+![[Pasted image 20241119100255.png]]
+
+And then once a processor is allocated to the thread which was in "Ready" state, then the thread will be go to the "Running" state. So the job we have written under the run( ) method will be completed in this state.
+
+Once the job which was under the run( ) method is completed, then our thread will goes to the "Dead" state. Dead state is the last state that a thread will have.
