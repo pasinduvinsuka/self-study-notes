@@ -186,5 +186,6 @@ If we called the ==*wait ( )*== on a  * **Thread Object**  which is under the "R
 ![[Pasted image 20250114220033.png]]
 
 # Thread priorities
-- Thread.MIN_PRIORITY  - default priority
-- Thread.
+- Thread.MIN_PRIORITY  - minimum priority
+- Thread.NORM_PRIORITY - default priority
+- Thread.MAX_PRIORITY - maximum priority
