@@ -19,3 +19,4 @@ use keyword  'extend'.
 
  - reuse
  - less redundancy
+ - increased maintainability are the advantages of inheritance.
