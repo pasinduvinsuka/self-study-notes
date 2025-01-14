@@ -26,4 +26,7 @@ use keyword  'extend'.
 - Subclass won't inherit the constructor from the superclass.
 - So in the subclass we need to initialize both of the instance variables that belongs to the subclass and superclass. 
 - In order to initialize the instance variable belongs to the superclass we will use the  "super" keyword inside in the subclass
+![[Pasted image 20250114151605.png]]
+
+- super must come first before the other statement in the body of the subclass constructor.
 - 
