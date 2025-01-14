@@ -190,3 +190,4 @@ If we called the ==*wait ( )*== on a  * **Thread Object**  which is under the "R
 - Thread.NORM_PRIORITY - default priority
 - Thread.MAX_PRIORITY - maximum priority
 
+![[Pasted image 20250114220704.png]]
