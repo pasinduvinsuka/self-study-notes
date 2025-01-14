@@ -61,3 +61,5 @@ use keyword  'extend'.
 
 ### Abstract classes
 
+- if there is an any abstract method inside a class, then that class also should be abstract.
+- Abstract classes cannot be instant
