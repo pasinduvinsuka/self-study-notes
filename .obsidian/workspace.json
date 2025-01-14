@@ -36,7 +36,8 @@
               "title": "Week10 - Tagged"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,8 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 292.5110321044922,
-    "collapsed": true
+    "width": 292.5110321044922
   },
   "right": {
     "id": "5f79579e1e02cd82",
@@ -332,11 +332,11 @@
   },
   "active": "20130c4e32f5a235",
   "lastOpenFiles": [
-    "oop/westminster/Summary/attachments/Pasted image 20250114220033.png",
-    "oop/notes/multithreading/Thread Life Cycle.canvas",
-    "oop/notes/multithreading/04.Thread Life Cycle.md",
     "oop/westminster/week 10/Week10 - Tagged.pdf",
+    "oop/notes/multithreading/Thread Life Cycle.canvas",
     "oop/westminster/Summary/Summary.md",
+    "oop/westminster/Summary/attachments/Pasted image 20250114220033.png",
+    "oop/notes/multithreading/04.Thread Life Cycle.md",
     "oop/westminster/Summary/attachments/Pasted image 20250114215502.png",
     "oop/westminster/week 12/Week12 - Tagged.pdf",
     "oop/notes/multithreading/03.Runnable Interface.md",
@@ -357,7 +357,6 @@
     "oop/westminster/attachments/Pasted image 20250114200942.png",
     "oop/westminster/attachments/Pasted image 20250114200924.png",
     "oop/westminster/attachments/Pasted image 20250114200806.png",
-    "oop/westminster/attachments/Pasted image 20250114200757.png",
     "oop/westminster/week 08/Week08 - Tagged.pdf",
     "oop/westminster/week 05/Week05(1) - Tagged.pdf",
     "oop/westminster/week 07/Week07 - Tagged.pdf",
