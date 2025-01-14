@@ -268,14 +268,17 @@
                 "id": "19686ce419281993",
                 "type": "leaf",
                 "state": {
-                  "type": "markdown",
+                  "type": "canvas",
                   "state": {
-                    "file": "oop/westminster/Summary.md",
-                    "mode": "source",
-                    "source": false
+                    "file": "Untitled 5.canvas",
+                    "viewState": {
+                      "x": 0,
+                      "y": 0,
+                      "zoom": 0
+                    }
                   },
-                  "icon": "lucide-file",
-                  "title": "Summary"
+                  "icon": "lucide-layout-dashboard",
+                  "title": "Untitled 5"
                 }
               }
             ]
@@ -294,6 +297,7 @@
   "active": "19686ce419281993",
   "lastOpenFiles": [
     "oop/westminster/week 09/Week09 - Tagged.pdf",
+    "Untitled 5.canvas",
     "oop/westminster/Summary.md",
     "oop/westminster/attachments/Pasted image 20250114200942.png",
     "oop/westminster/attachments/Pasted image 20250114200924.png",
