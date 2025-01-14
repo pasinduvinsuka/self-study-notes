@@ -66,4 +66,8 @@ use keyword  'extend'.
 
 - we can extend our subclasses from an abstract class.
 		- if we define all the inherited methods from the abstract class inside of our subclass then it is complete.
-		- if we are not defining all the methods that are inherited from t
+		- if we are not defining all the methods that are inherited from the abstract class, then we have to mark our subclass also as an abstract class.
+
+**Abstract method vs Concrete method**
+
+- Abstract class cannot have a method body and a concr
