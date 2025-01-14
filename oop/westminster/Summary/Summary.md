@@ -182,3 +182,5 @@ And also by calling ==*sleep( )*== method, we can move the thread which is in ru
 Once we called ==*suspend( )*== method in a thread which is in the "Running" state, then the thread will be moved to the "Blocked" state. Once we call the ==*resume( )*== method on a thread, which is under the "Blocked" state, then it will be moved into the "Ready" state.
 
 If we called the ==*wait ( )*== on a  * **Thread Object**  which is under the "Running" state, then it will be moved into the "Waiting" state. Once we called the ==*notify( )*== on the * **Thread Object**, then it will be moved into the "Ready" state.
+
+![[Pasted image 20250114220033.png]]
