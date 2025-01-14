@@ -117,4 +117,4 @@ In an interface we use an dotted arrow in class diagram and normal arrow for cla
 	- character streams : stores data as a sequence of characters (Reader, Writer to deal with those)
 
 - InputStream, OutputStream, Reader, Writer all these are abstract classes.
-- 
+
