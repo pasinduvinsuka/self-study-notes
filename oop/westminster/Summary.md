@@ -49,6 +49,5 @@ use keyword  'extend'.
 
 ### Final keyword
 
--- Final Classes
-
-	If we declare a class as final then we cant use that class to extend an anotehr class. So 
+## Final Classes
+- If we declare a class as final then we cant use that class to extend an anotehr class. So we can prevent inheritance by making a class as 'final'.
