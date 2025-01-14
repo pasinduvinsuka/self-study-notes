@@ -74,8 +74,8 @@ use keyword  'extend'.
 ## **Interfaces**
 
 - interfaces will define the method but cannot have the method body.
-- by default all the methods which are inside in the interface are public and abstract.
-- by default all the variable inside of an interface are public static final. So we have to initialize an value too when we define an variable inside of an instance.
+- by default all the **methods which are inside in the interface are public and abstract**.
+- by default all the **variable inside of an interface are public static final**. So we have to initialize an value too when we define an variable inside of an instance.
 
  - We can implement a class from an interface
 		- if we define all the methods inside the class which we implemented from the     interface then its complete.
@@ -191,3 +191,5 @@ If we called the ==*wait ( )*== on a  * **Thread Object**  which is under the "R
 - Thread.MAX_PRIORITY - maximum priority
 
 ![[Pasted image 20250114220704.png]]
+![[Pasted image 20250114221153.png]]
+![[Pasted image 20250114221200.png]]
