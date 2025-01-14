@@ -112,3 +112,6 @@ In an interface we use an dotted arrow in class diagram and normal arrow for cla
 
 ### File handling
 
+- All input and output in Java is accomplished by a classes called streams.
+	- byte streams : stores data in binary format
+	- character streams : stores data 
