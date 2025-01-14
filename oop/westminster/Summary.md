@@ -35,3 +35,6 @@ use keyword  'extend'.
 
 - we can override the methods that existed in the superclass inside of the subclass. 
 
+### 02. Polymorphism (Introduce substitution principle)
+
+
