@@ -107,4 +107,4 @@ interface C extends A, B {
 | A class can have many interfaces                         | A class can only have one superclass regardless of its abstract or not                                                                                                     |
 |                                                          |                                                                                                                                                                            |
 ![[Pasted image 20250114173820.png]]
-In an interface we use an dotted arriw
+In an interface we use an dotted arrow
