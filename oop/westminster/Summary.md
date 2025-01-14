@@ -109,3 +109,4 @@ interface C extends A, B {
 ![[Pasted image 20250114173820.png]]
 In an interface we use an dotted arrow in class diagram and normal arrow for classes.
 
+
