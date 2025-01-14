@@ -74,7 +74,7 @@ use keyword  'extend'.
 ## **Interfaces**
 
 - interfaces will define the method but cannot have the method body.
-- by default all the methods which are inside in the interface are public  and abstract.
+- by default all the methods which are inside in the interface are public and abstract.
 - by default all the variable inside of an interface are public static final. So we have to initialize an value too when we define an variable inside of an instance.
 
  - We can implement a class from an interface
