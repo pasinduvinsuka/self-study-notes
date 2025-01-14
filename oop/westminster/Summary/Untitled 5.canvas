@@ -4,12 +4,13 @@
 		{"id":"9d240f9ede019650","type":"text","text":"Exception","x":-120,"y":-160,"width":250,"height":60},
 		{"id":"62d86e21cb90fb5c","type":"text","text":"RuntimeException","x":220,"y":-220,"width":250,"height":60},
 		{"id":"60be1afdc82f4d3b","type":"text","text":"Error","x":-400,"y":-220,"width":210,"height":60},
-		{"id":"ce6eb1e96075bd36","x":220,"y":-80,"width":280,"height":260,"type":"text","text":"- All the unchecked exceptions are subclass of the RuntimeException class.\n- Those are occured at the run time."},
-		{"id":"ba748a32a4213f13","x":-130,"y":-60,"width":290,"height":300,"type":"text","text":"- All the checked exceptions are subclass of Exception.\n- Those are checked at the compile time."}
+		{"id":"ba748a32a4213f13","x":-130,"y":-60,"width":290,"height":260,"type":"text","text":"- All the checked exceptions are subclass of Exception.\n- Those are checked at the compile time."},
+		{"id":"ce6eb1e96075bd36","x":205,"y":-80,"width":280,"height":260,"type":"text","text":"- All the unchecked exceptions are subclass of the RuntimeException class.\n- Those are occured at the run time."}
 	],
 	"edges":[
 		{"id":"c1e556ec328fed47","fromNode":"60be1afdc82f4d3b","fromSide":"top","toNode":"9d76703f010eb9e8","toSide":"bottom","label":"extends"},
 		{"id":"52a337ea6798c910","fromNode":"9d240f9ede019650","fromSide":"top","toNode":"9d76703f010eb9e8","toSide":"bottom","label":"extends"},
-		{"id":"7de397e6a387fc40","fromNode":"62d86e21cb90fb5c","fromSide":"top","toNode":"9d76703f010eb9e8","toSide":"bottom","label":"extends"}
+		{"id":"7de397e6a387fc40","fromNode":"62d86e21cb90fb5c","fromSide":"top","toNode":"9d76703f010eb9e8","toSide":"bottom","label":"extends"},
+		{"id":"e3bed3926ec086fe","fromNode":"62d86e21cb90fb5c","fromSide":"bottom","toNode":"ce6eb1e96075bd36","toSide":"top"}
 	]
 }
