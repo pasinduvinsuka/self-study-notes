@@ -326,8 +326,9 @@
       }
     ]
   },
-  "active": "20130c4e32f5a235",
+  "active": "0bb937f8ba514fa7",
   "lastOpenFiles": [
+    "oop/westminster/Summary/Summary.md",
     "oop/notes/multithreading/04.Thread Life Cycle.md",
     "oop/notes/multithreading/03.Runnable Interface.md",
     "oop/notes/multithreading/02.Extending a Thread Class.md",
@@ -335,7 +336,6 @@
     "oop/westminster/week 10/Week10 - Tagged.pdf",
     "oop/westminster/week 12/Week12 - Tagged.pdf",
     "oop/notes/multithreading/Thread Life Cycle.canvas",
-    "oop/westminster/Summary/Summary.md",
     "oop/notes/multithreading/Thread Signaling Process.canvas",
     "oop/notes/multithreading/01.Introduction to multi threading.md",
     "oop/notes/multithreading/deep-dive multirhreading/Thread Signaling.md",
