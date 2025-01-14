@@ -49,4 +49,6 @@ use keyword  'extend'.
 
 ### Final keyword
 
-# Final Classes
+-- Final Classes
+
+	If we declare a class as final then we cant use that class to extend an anotehr class. So 
