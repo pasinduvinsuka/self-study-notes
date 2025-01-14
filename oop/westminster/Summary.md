@@ -37,7 +37,7 @@ use keyword  'extend'.
 
 ### 02. Polymorphism (Introduce the substitution principle)
 
-`An instance of a subclass can take place of an instance of its any of superclasses.`
+`An instance of a subclass can take place of an instance of its any of Asuperclasses.`
 ![[Pasted image 20250114152331.png]]
 ![[Pasted image 20250114152348.png]]
 
@@ -57,3 +57,7 @@ use keyword  'extend'.
 
 - The methods marked as final cannot be overridden.
 - A constructor cannot be final.
+
+
+### Abstract classes
+
