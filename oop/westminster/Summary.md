@@ -50,4 +50,10 @@ use keyword  'extend'.
 ### Final keyword
 
 ## Final Classes
-- If we declare a class as final then we cant use that class to extend an anotehr class. So we can prevent inheritance by making a class as 'final'.
+
+- If we declare a class as final then we cant use that class to extend an another class. So we can prevent inheritance by making a class as 'final'.
+
+**Final Methods**
+
+- The methods marked as final cannot be overridden.
+- A constructor cannot be final.
