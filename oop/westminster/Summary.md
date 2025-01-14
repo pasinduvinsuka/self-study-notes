@@ -6,3 +6,5 @@
 ### **Static** 
 
 - static means pertaining to the class in general and not only to an object.
+- we can access static variables without creating an instance of the class since they are available at the class loading time.
+- but w
