@@ -23,17 +23,12 @@
             "id": "0bb0df5ab6dd9219",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "pdf",
               "state": {
-                "file": "oop/notes/multithreading/Thread Life Cycle.canvas",
-                "viewState": {
-                  "x": -130,
-                  "y": 630,
-                  "zoom": -1.115685413544244
-                }
+                "file": "oop/westminster/week 12/Week12 - Tagged.pdf"
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Thread Life Cycle"
+              "icon": "lucide-file-text",
+              "title": "Week12 - Tagged"
             }
           }
         ],
@@ -330,9 +325,10 @@
       }
     ]
   },
-  "active": "20130c4e32f5a235",
+  "active": "0bb0df5ab6dd9219",
   "lastOpenFiles": [
     "oop/notes/multithreading/Thread Life Cycle.canvas",
+    "oop/westminster/Summary/Summary.md",
     "oop/notes/multithreading/Thread Signaling Process.canvas",
     "oop/notes/multithreading/05.Synchronization in multithreading.md",
     "oop/notes/multithreading/04.Thread Life Cycle.md",
@@ -342,7 +338,6 @@
     "oop/notes/multithreading/deep-dive multirhreading/Thread Signaling.md",
     "oop/westminster/week 10/Week10 - Tagged.pdf",
     "oop/westminster/week 12/Week12 - Tagged.pdf",
-    "oop/westminster/Summary/Summary.md",
     "oop/westminster/week 09/Week09 - Tagged.pdf",
     "oop/westminster/Summary/attachments/Pasted image 20250114203634.png",
     "oop/westminster/Summary/attachments/Pasted image 20250114203620.png",
