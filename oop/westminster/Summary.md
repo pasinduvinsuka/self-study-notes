@@ -37,4 +37,6 @@ use keyword  'extend'.
 
 ### 02. Polymorphism (Introduce the substitution principle)
 
-`An instance of a subclass can take place of an `
+`An instance of a subclass can take place of an instance of its any of superclasses.`
+![[Pasted image 20250114152331.png]]
+![[Pasted image 20250114152348.png]]
