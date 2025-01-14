@@ -12,7 +12,7 @@
 # **Java Packages**
 ![[Pasted image 20250114150644.png]]
 
-### 01. Inheritance
+# 01. Inheritance
 
 use keyword  'extend'.
 ![[Pasted image 20250114151032.png]]![[Pasted image 20250114151107.png]]
@@ -35,7 +35,7 @@ use keyword  'extend'.
 
 - we can override the methods that existed in the superclass inside of the subclass. 
 
-### 02. Polymorphism (Introduce the substitution principle)
+# 02. Polymorphism (Introduce the substitution principle)
 
 `An instance of a subclass can take place of an instance of its any of Asuperclasses.`
 ![[Pasted image 20250114152331.png]]
