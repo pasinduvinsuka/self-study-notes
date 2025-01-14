@@ -1,16 +1,17 @@
 {
 	"nodes":[
-		{"id":"9d76703f010eb9e8","type":"text","text":"Throwable","x":-120,"y":-420,"width":240,"height":60},
-		{"id":"9d240f9ede019650","type":"text","text":"Exception","x":-120,"y":-160,"width":250,"height":60},
-		{"id":"62d86e21cb90fb5c","type":"text","text":"RuntimeException","x":220,"y":-220,"width":250,"height":60},
-		{"id":"60be1afdc82f4d3b","type":"text","text":"Error","x":-400,"y":-220,"width":210,"height":60},
-		{"id":"ba748a32a4213f13","x":-130,"y":-60,"width":290,"height":260,"type":"text","text":"- All the checked exceptions are subclass of Exception.\n- Those are checked at the compile time."},
-		{"id":"ce6eb1e96075bd36","x":205,"y":-80,"width":355,"height":320,"type":"text","text":"- All the unchecked exceptions are subclass of the RuntimeException class.\n- Those are occurred at the run time.\n\t\t- `NullPointerException`\n\t\t-`IndexOutOfBoundsException`\n\t\t- `IllegalArgumentException`\n\t\t- `ArithmeticException`\n\t\t- `ClassCastException`"}
+		{"id":"9d76703f010eb9e8","type":"text","text":"Throwable","x":-120,"y":-420,"width":240,"height":60,"color":"5"},
+		{"id":"9d240f9ede019650","type":"text","text":"Exception","x":-120,"y":-160,"width":250,"height":60,"color":"5"},
+		{"id":"60be1afdc82f4d3b","type":"text","text":"Error","x":-400,"y":-220,"width":210,"height":60,"color":"5"},
+		{"id":"ba748a32a4213f13","x":-140,"y":-50,"width":290,"height":260,"color":"5","type":"text","text":"- All the checked exceptions are subclass of Exception.\n- Those are checked at the compile time."},
+		{"id":"62d86e21cb90fb5c","type":"text","text":"RuntimeException","x":260,"y":-220,"width":250,"height":60,"color":"5"},
+		{"id":"ce6eb1e96075bd36","x":208,"y":-80,"width":355,"height":320,"color":"5","type":"text","text":"- All the unchecked exceptions are subclass of the RuntimeException class.\n- Those are occurred at the run time.\n\t\t- `NullPointerException`\n\t\t-`IndexOutOfBoundsException`\n\t\t- `IllegalArgumentException`\n\t\t- `ArithmeticException`\n\t\t- `ClassCastException`"}
 	],
 	"edges":[
 		{"id":"c1e556ec328fed47","fromNode":"60be1afdc82f4d3b","fromSide":"top","toNode":"9d76703f010eb9e8","toSide":"bottom","label":"extends"},
 		{"id":"52a337ea6798c910","fromNode":"9d240f9ede019650","fromSide":"top","toNode":"9d76703f010eb9e8","toSide":"bottom","label":"extends"},
 		{"id":"7de397e6a387fc40","fromNode":"62d86e21cb90fb5c","fromSide":"top","toNode":"9d76703f010eb9e8","toSide":"bottom","label":"extends"},
-		{"id":"e3bed3926ec086fe","fromNode":"62d86e21cb90fb5c","fromSide":"bottom","toNode":"ce6eb1e96075bd36","toSide":"top"}
+		{"id":"e3bed3926ec086fe","fromNode":"62d86e21cb90fb5c","fromSide":"bottom","toNode":"ce6eb1e96075bd36","toSide":"top"},
+		{"id":"35d6b211437a64d9","fromNode":"9d240f9ede019650","fromSide":"bottom","toNode":"ba748a32a4213f13","toSide":"top"}
 	]
 }
