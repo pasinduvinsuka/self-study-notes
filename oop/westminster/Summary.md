@@ -48,3 +48,5 @@ use keyword  'extend'.
 ![[Pasted image 20250114153730.png]]
 
 ### Final keyword
+
+# Final Classes
