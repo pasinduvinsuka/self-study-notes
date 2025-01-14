@@ -40,3 +40,7 @@ use keyword  'extend'.
 `An instance of a subclass can take place of an instance of its any of superclasses.`
 ![[Pasted image 20250114152331.png]]
 ![[Pasted image 20250114152348.png]]
+
+**Dynamic vs Static Binding**
+
+- Dynamic binding - what method to call is resolved at teh
