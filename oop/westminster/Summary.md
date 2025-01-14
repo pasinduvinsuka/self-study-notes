@@ -85,7 +85,8 @@ use keyword  'extend'.
 ![[Pasted image 20250114172852.png]]
 
 
-| Interface                                                  | Abstract Class                                                                                                                                    |
-| ---------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------- |
-| - methods inside of an interface cannot have a method body | -methods inside of an abstract class can have concrete methods too. But if any method inside of an abstract class is marked as abstract, then it  |
-|                                                            |                                                                                                                                                   |
+| Interface                                                | Abstract Class                                                                                                                                                             |
+| -------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| methods inside of an interface cannot have a method body | methods inside of an abstract class can have concrete methods too. But if any method inside of an abstract class is marked as abstract, then it cannot have a method body. |
+|                                                          |                                                                                                                                                                            |
+|                                                          |                                                                                                                                                                            |
