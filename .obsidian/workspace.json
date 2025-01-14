@@ -11,12 +11,14 @@
             "id": "0bb937f8ba514fa7",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "oop/westminster/week 10/Week10 - Tagged.pdf"
+                "file": "oop/notes/multithreading/04.Thread Life Cycle.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Week10 - Tagged"
+              "icon": "lucide-file",
+              "title": "04.Thread Life Cycle"
             }
           },
           {
@@ -31,8 +33,7 @@
               "title": "Week12 - Tagged"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -325,19 +326,19 @@
       }
     ]
   },
-  "active": "0bb0df5ab6dd9219",
+  "active": "0bb937f8ba514fa7",
   "lastOpenFiles": [
+    "oop/notes/multithreading/03.Runnable Interface.md",
+    "oop/notes/multithreading/02.Extending a Thread Class.md",
+    "oop/notes/multithreading/04.Thread Life Cycle.md",
+    "oop/notes/multithreading/05.Synchronization in multithreading.md",
+    "oop/westminster/week 10/Week10 - Tagged.pdf",
+    "oop/westminster/week 12/Week12 - Tagged.pdf",
     "oop/notes/multithreading/Thread Life Cycle.canvas",
     "oop/westminster/Summary/Summary.md",
     "oop/notes/multithreading/Thread Signaling Process.canvas",
-    "oop/notes/multithreading/05.Synchronization in multithreading.md",
-    "oop/notes/multithreading/04.Thread Life Cycle.md",
-    "oop/notes/multithreading/03.Runnable Interface.md",
-    "oop/notes/multithreading/02.Extending a Thread Class.md",
     "oop/notes/multithreading/01.Introduction to multi threading.md",
     "oop/notes/multithreading/deep-dive multirhreading/Thread Signaling.md",
-    "oop/westminster/week 10/Week10 - Tagged.pdf",
-    "oop/westminster/week 12/Week12 - Tagged.pdf",
     "oop/westminster/week 09/Week09 - Tagged.pdf",
     "oop/westminster/Summary/attachments/Pasted image 20250114203634.png",
     "oop/westminster/Summary/attachments/Pasted image 20250114203620.png",
