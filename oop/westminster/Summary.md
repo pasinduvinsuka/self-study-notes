@@ -58,7 +58,6 @@ use keyword  'extend'.
 - The methods marked as final cannot be overridden.
 - A constructor cannot be final.
 
-
 ### Abstract classes
 
 - if there is an any abstract method inside a class, then that class also should be abstract. (there can be methods without marked as abstract too inside of an abstract class.)
