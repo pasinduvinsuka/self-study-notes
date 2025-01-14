@@ -12,3 +12,6 @@
 ### Java Packages
 ![[Pasted image 20250114150644.png]]
 
+### Inheritance
+
+use 'extend'.
