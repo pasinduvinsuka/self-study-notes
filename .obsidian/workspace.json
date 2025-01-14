@@ -76,7 +76,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 313.5110321044922
+    "width": 313.5110321044922,
+    "collapsed": true
   },
   "right": {
     "id": "5f79579e1e02cd82",
@@ -279,8 +280,8 @@
   },
   "active": "0bb937f8ba514fa7",
   "lastOpenFiles": [
-    "oop/westminster/Summary.md",
     "oop/westminster/week 09/Week09 - Tagged.pdf",
+    "oop/westminster/Summary.md",
     "oop/westminster/week 08/Week08 - Tagged.pdf",
     "oop/westminster/week 07/Week07 - Tagged.pdf",
     "oop/westminster/week 05/Week05(1) - Tagged.pdf",
