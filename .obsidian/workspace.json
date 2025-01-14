@@ -13,10 +13,10 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "oop/westminster/week 02/Week02.pdf"
+                "file": "oop/westminster/week 03/Week03.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "Week02"
+              "title": "Week03"
             }
           }
         ]
@@ -76,8 +76,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 403.5110321044922,
-    "collapsed": true
+    "width": 313.5110321044922
   },
   "right": {
     "id": "5f79579e1e02cd82",
@@ -278,12 +277,12 @@
       }
     ]
   },
-  "active": "19686ce419281993",
+  "active": "0bb937f8ba514fa7",
   "lastOpenFiles": [
-    "oop/westminster/attachments/Pasted image 20250114150644.png",
     "oop/westminster/week 02/Week02.pdf",
-    "oop/westminster/week 01/Week01.pdf",
     "oop/westminster/Summary.md",
+    "oop/westminster/attachments/Pasted image 20250114150644.png",
+    "oop/westminster/week 01/Week01.pdf",
     "oop/westminster/attachments/Pasted image 20250114145716.png",
     "oop/westminster/attachments",
     "oop/westminster/week 10/Week10 - Tagged.pdf",
@@ -320,7 +319,6 @@
     "robotics/Control Theory/PID controller/attachments/Pasted image 20250103105046.png",
     "robotics/Control Theory/PID controller/attachments/Pasted image 20250103104520.png",
     "robotics/Control Theory/PID controller/attachments/Pasted image 20250103103846.png",
-    "robotics/Control Theory/PID controller/attachments/Pasted image 20250103103502.png",
     "Untitled 4.canvas",
     "robotics/Control Theory/PID controller/How does our PID integral handle an actuator that's saturated.md",
     "robotics/Control Theory/PID controller/Derivative Part (Future Error).md",
