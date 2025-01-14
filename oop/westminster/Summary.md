@@ -79,4 +79,4 @@ use keyword  'extend'.
 - by default all the variable inside of an interface are public static final. So we have to initialize an value too when we define an variable inside of an instance.
 
  - We can implement a class from an interface
-		-if we define all the methods 
+		-if we define all the methods =
