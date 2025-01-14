@@ -90,7 +90,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 313.5110321044922
+    "width": 292.5110321044922
   },
   "right": {
     "id": "5f79579e1e02cd82",
@@ -291,12 +291,12 @@
       }
     ]
   },
-  "active": "c11cfe58e960d3bd",
+  "active": "0bb937f8ba514fa7",
   "lastOpenFiles": [
-    "oop/westminster/week 12/Week12 - Tagged.pdf",
-    "oop/westminster/week 12",
     "oop/westminster/Summary.md",
     "oop/westminster/week 09/Week09 - Tagged.pdf",
+    "oop/westminster/week 12/Week12 - Tagged.pdf",
+    "oop/westminster/week 12",
     "oop/notes/multithreading/deep-dive multirhreading/Thread Signaling.md",
     "oop/notes/multithreading/deep-dive multirhreading/Deadlock.md",
     "oop/notes/multithreading/deep-dive multirhreading/Blocking Queues.md",
@@ -324,7 +324,6 @@
     "oop/westminster/attachments/Pasted image 20250114150644.png",
     "oop/westminster/week 01/Week01.pdf",
     "oop/westminster/attachments/Pasted image 20250114145716.png",
-    "oop/westminster/attachments",
     "robotics/Control Theory/PID controller/Integral Part (Past Error ).md",
     "Maths/Differentiation.md",
     "robotics/Control Theory/PID controller/Noise filtering in PID control.md",
