@@ -106,3 +106,5 @@ interface C extends A, B {
 | methods inside of an interface cannot have a method body | methods inside of an abstract class can have concrete methods too. But if any method inside of an abstract class is marked as abstract, then it cannot have a method body. |
 | A class can have many interfaces                         | A class can only have one superclass regardless of its abstract or not                                                                                                     |
 |                                                          |                                                                                                                                                                            |
+![[Pasted image 20250114173820.png]]
+In an interface we use an dotted arriw
