@@ -184,3 +184,7 @@ Once we called ==*suspend( )*== method in a thread which is in the "Running" sta
 If we called the ==*wait ( )*== on a  * **Thread Object**  which is under the "Running" state, then it will be moved into the "Waiting" state. Once we called the ==*notify( )*== on the * **Thread Object**, then it will be moved into the "Ready" state.
 
 ![[Pasted image 20250114220033.png]]
+
+# Thread priorities
+- Thread.MIN_PRIORITY  - default priority
+- Thread.
