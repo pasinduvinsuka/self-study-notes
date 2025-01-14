@@ -122,4 +122,7 @@ In an interface we use an dotted arrow in class diagram and normal arrow for cla
 ### File Class
 
 - This is used to retrieve the information about the files and directories from disk.
-- Object of File class **doesn't open the actual files/ directories.** It only provide methods to operate on the given file/director
+- Object of File class **doesn't open the actual files/ directories.** It only provide methods to operate on the given file/directories named.
+
+![[Pasted image 20250114195845.png]]
+![[Pasted image 20250114195859.png]]
