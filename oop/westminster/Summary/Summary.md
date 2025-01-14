@@ -168,3 +168,11 @@ Once we call the start( ) method on the created thread, then it will be in the "
 And then once a processor is allocated to the thread which was in "Ready" state, then the thread will be go to the "Running" state. So the job we have written under the run( ) method will be completed in this state.
 
 Once the job which was under the run( ) method is completed, then our thread will goes to the "Dead" state. Dead state is the last state that a thread will have.
+
+If the "Running" state in a busy wait , we can swap it to the "Ready" state with the help of the scheduler. (We can do this by calling the ==*yield( )*== method . )
+
+And also by calling ==*sleep( )*== method, we can move the thread which is in running state into the "Sleep" state. Once the time we have given under the ==*sleep (seconds t)*== method has exceeded by the thread, then the thread will be moved to the "Ready" state.
+
+Once we called ==*suspend( )*== method in a thread which is in the "Running" state, then the thread will be moved to the "Blocked" state. Once we call the ==*resume( )*== method on a thread, which is under the "Blocked" state, then it will be moved into the "Ready" state.
+
+If we called the ==*wait ( )*== on a  * **Thread Object**  which is under the "Running" state, then it will be moved into the "Waiting" state. Once we called the ==*notify( )*== on the * **Thread Object**, then it will be moved into the "Ready" state.
