@@ -12,7 +12,7 @@
 ### Java Packages
 ![[Pasted image 20250114150644.png]]
 
-### Inheritance
+### 01. Inheritance
 
 use keyword  'extend'.
 ![[Pasted image 20250114151032.png]]![[Pasted image 20250114151107.png]]
@@ -31,4 +31,7 @@ use keyword  'extend'.
 - super must come first before the other statement in the body of the subclass constructor.
 - If subclass don't have any constructor, then java will create a non-argument constructor that contains only super();
 
-`Declaring variables as protected inside the superclass will expose them to the subclass. But it's a good practise to declare them as private and use getters and setters to access them.`
+`Note: Declaring variables as protected inside the superclass will expose them to the subclass. But it's a good practise to declare them as private and use getters and setters to access them.`
+
+- we can override the methods that existed in the superclass inside of the subclass. 
+
