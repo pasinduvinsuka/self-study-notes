@@ -159,6 +159,8 @@ public class CustomRuntimeException extends RuntimeException {
 ![[Pasted image 20250114203634.png]]
 
 # **Thread Life cycle**
+![[Pasted image 20250114215502.png]]
+
 
 Once we instantiate the thread object , it's in the "New" or "Born" State.
 ![[Pasted image 20241119100150.png]]
