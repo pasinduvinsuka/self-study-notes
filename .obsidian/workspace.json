@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "cbdd310891187d81",
+        "id": "522aa46e8d8eb3cf",
         "type": "tabs",
         "children": [
           {
-            "id": "19686ce419281993",
+            "id": "0bb937f8ba514fa7",
             "type": "leaf",
             "state": {
               "type": "pdf",
@@ -76,7 +76,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 403.5110321044922
+    "width": 403.5110321044922,
+    "collapsed": true
   },
   "right": {
     "id": "5f79579e1e02cd82",
@@ -238,8 +239,49 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "19686ce419281993",
+  "floating": {
+    "id": "d76786b7027da654",
+    "type": "floating",
+    "children": [
+      {
+        "id": "03584aea2642fef2",
+        "type": "window",
+        "children": [
+          {
+            "id": "292f94fa038fe817",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "19686ce419281993",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "oop/westminster/Summary.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Summary"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 1280,
+        "y": 0,
+        "width": 1280,
+        "height": 1392,
+        "maximize": false,
+        "zoom": -0.5
+      }
+    ]
+  },
+  "active": "0bb937f8ba514fa7",
   "lastOpenFiles": [
+    "oop/westminster/Summary.md",
+    "oop/westminster/week 01/Week01.pdf",
     "oop/westminster/week 10/Week10 - Tagged.pdf",
     "oop/westminster/week 09/Week09 - Tagged.pdf",
     "oop/westminster/week 08/Week08 - Tagged.pdf",
@@ -249,8 +291,6 @@
     "oop/westminster/week 03/Week03.pdf",
     "oop/westminster/week 02/Week02.pdf",
     "robotics/westminster/assignment1_2024_2025.pdf",
-    "oop/westminster/week 01/Week01.pdf",
-    "machine learning/Machine Learning for Wireless Communication/Mora/[2] EN5730_Fundamentals_of_ML.pdf",
     "robotics/Control Theory/PID controller/Integral Part (Past Error ).md",
     "Maths/Differentiation.md",
     "robotics/Control Theory/PID controller/Noise filtering in PID control.md",
@@ -286,7 +326,6 @@
     "robotics/Open Loop Control Systems.md",
     "robotics/Control Theory/PID controller/Back-calculation.md",
     "robotics/Control Theory/PID controller/Clamping.md",
-    "Maths/Maths.md",
     "Untitled 3.canvas",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
