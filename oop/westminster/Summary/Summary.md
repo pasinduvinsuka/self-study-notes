@@ -189,3 +189,4 @@ If we called the ==*wait ( )*== on a  * **Thread Object**  which is under the "R
 - Thread.MIN_PRIORITY  - minimum priority
 - Thread.NORM_PRIORITY - default priority
 - Thread.MAX_PRIORITY - maximum priority
+
