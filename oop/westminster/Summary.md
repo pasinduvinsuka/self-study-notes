@@ -139,4 +139,6 @@ In an interface we use an dotted arrow in class diagram and normal arrow for cla
 
 ## BufferedReader and BufferedWriter Class
 ![[Pasted image 20250114200806.png]]
+![[Pasted image 20250114200942.png]]
+
 
