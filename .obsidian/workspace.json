@@ -13,10 +13,10 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "oop/westminster/week 02/Week02.pdf"
+                "file": "oop/westminster/week 03/Week03.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "Week02"
+              "title": "Week03"
             }
           }
         ]
@@ -240,8 +240,8 @@
   },
   "active": "19686ce419281993",
   "lastOpenFiles": [
-    "robotics/westminster/assignment1_2024_2025.pdf",
     "oop/westminster/week 02/Week02.pdf",
+    "robotics/westminster/assignment1_2024_2025.pdf",
     "oop/westminster/week 10/Week10 - Tagged.pdf",
     "oop/westminster/week 09/Week09 - Tagged.pdf",
     "oop/westminster/week 08/Week08 - Tagged.pdf",
