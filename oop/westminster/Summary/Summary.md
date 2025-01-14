@@ -146,3 +146,12 @@ In an interface we use an dotted arrow in class diagram and normal arrow for cla
 ## Throwable Class
 
 ![[Pasted image 20250114202929.png]]
+
+
+```java
+public class CustomRuntimeException extends RuntimeException { 
+	public CustomRuntimeException(String message) {
+		super(message); 
+	} 
+}
+```
