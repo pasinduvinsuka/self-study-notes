@@ -84,6 +84,7 @@ use keyword  'extend'.
 - And also we can extend interface from another interface.
 ![[Pasted image 20250114172852.png]]
 
+	And also interface support
 
 | Interface                                                | Abstract Class                                                                                                                                                             |
 | -------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
