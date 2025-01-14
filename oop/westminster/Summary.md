@@ -126,3 +126,4 @@ In an interface we use an dotted arrow in class diagram and normal arrow for cla
 
 ![[Pasted image 20250114195845.png]]
 ![[Pasted image 20250114195859.png]]
+![[Pasted image 20250114200013.png]]
