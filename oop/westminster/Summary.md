@@ -47,3 +47,4 @@ use keyword  'extend'.
 - Static binding (method overloading) : which method to call is resolved at the compile time
 ![[Pasted image 20250114153730.png]]
 
+### Final keyword
