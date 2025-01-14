@@ -13,10 +13,10 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "oop/westminster/week 01/Week01.pdf"
+                "file": "oop/westminster/week 02/Week02.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "Week01"
+              "title": "Week02"
             }
           }
         ]
@@ -280,10 +280,11 @@
   },
   "active": "19686ce419281993",
   "lastOpenFiles": [
-    "oop/westminster/attachments/Pasted image 20250114145716.png",
-    "oop/westminster/attachments",
+    "oop/westminster/week 02/Week02.pdf",
     "oop/westminster/week 01/Week01.pdf",
     "oop/westminster/Summary.md",
+    "oop/westminster/attachments/Pasted image 20250114145716.png",
+    "oop/westminster/attachments",
     "oop/westminster/week 10/Week10 - Tagged.pdf",
     "oop/westminster/week 09/Week09 - Tagged.pdf",
     "oop/westminster/week 08/Week08 - Tagged.pdf",
@@ -291,7 +292,6 @@
     "oop/westminster/week 05/Week05(1) - Tagged.pdf",
     "oop/westminster/week 04/Week04_lecture.pdf",
     "oop/westminster/week 03/Week03.pdf",
-    "oop/westminster/week 02/Week02.pdf",
     "robotics/Control Theory/PID controller/Integral Part (Past Error ).md",
     "Maths/Differentiation.md",
     "robotics/Control Theory/PID controller/Noise filtering in PID control.md",
@@ -320,7 +320,6 @@
     "robotics/Control Theory/PID controller/attachments/Pasted image 20250103104520.png",
     "robotics/Control Theory/PID controller/attachments/Pasted image 20250103103846.png",
     "robotics/Control Theory/PID controller/attachments/Pasted image 20250103103502.png",
-    "robotics/Control Theory/PID controller/attachments/Pasted image 20250103102858.png",
     "Untitled 4.canvas",
     "robotics/Control Theory/PID controller/How does our PID integral handle an actuator that's saturated.md",
     "robotics/Control Theory/PID controller/Derivative Part (Future Error).md",
