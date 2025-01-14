@@ -18,6 +18,20 @@
               "icon": "lucide-file-text",
               "title": "Week09 - Tagged"
             }
+          },
+          {
+            "id": "0bb0df5ab6dd9219",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "oop/notes/multithreading/deep-dive multirhreading/Thread Signaling.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Thread Signaling"
+            }
           }
         ]
       }
@@ -76,8 +90,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 313.5110321044922,
-    "collapsed": true
+    "width": 313.5110321044922
   },
   "right": {
     "id": "5f79579e1e02cd82",
@@ -280,8 +293,18 @@
   },
   "active": "0bb937f8ba514fa7",
   "lastOpenFiles": [
-    "oop/westminster/week 09/Week09 - Tagged.pdf",
+    "oop/notes/multithreading/deep-dive multirhreading/Thread Signaling.md",
     "oop/westminster/Summary.md",
+    "oop/notes/multithreading/deep-dive multirhreading/Deadlock.md",
+    "oop/notes/multithreading/deep-dive multirhreading/Blocking Queues.md",
+    "oop/notes/multithreading/Thread Signaling Process.canvas",
+    "oop/notes/multithreading/Thread Life Cycle.canvas",
+    "oop/notes/multithreading/05.Synchronization in multithreading.md",
+    "oop/notes/multithreading/04.Thread Life Cycle.md",
+    "oop/notes/multithreading/03.Runnable Interface.md",
+    "oop/notes/multithreading/02.Extending a Thread Class.md",
+    "oop/notes/multithreading/01.Introduction to multi threading.md",
+    "oop/westminster/week 09/Week09 - Tagged.pdf",
     "oop/westminster/week 08/Week08 - Tagged.pdf",
     "oop/westminster/week 07/Week07 - Tagged.pdf",
     "oop/westminster/week 05/Week05(1) - Tagged.pdf",
@@ -318,19 +341,10 @@
     "Q.md",
     "PID Controller Finally.md",
     "robotics/Control Theory/PID controller/Design of a control system.md",
-    "robotics/Control Theory/PID controller/PID Control.md",
-    "robotics/Robotics (Map of Content).md",
     "Untitled 4.canvas",
-    "robotics/Control Theory/PID controller/How does our PID integral handle an actuator that's saturated.md",
-    "robotics/Control Theory/PID controller/Derivative Part (Future Error).md",
-    "robotics/Open Loop Control Systems.md",
-    "robotics/Control Theory/PID controller/Back-calculation.md",
-    "robotics/Control Theory/PID controller/Clamping.md",
     "Untitled 3.canvas",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
-    "oop/notes/multithreading/Thread Life Cycle.canvas",
-    "oop/notes/multithreading/Thread Signaling Process.canvas",
     "Thred Life Cycle.canvas",
     "oop/notes/multithreading/Thred Life Cycle 1.canvas",
     "Untitled.canvas"

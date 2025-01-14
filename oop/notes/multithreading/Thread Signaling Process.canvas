@@ -19,12 +19,12 @@
 		{"id":"898d0b8587317e68","type":"text","text":"exit wait( ) on signal object","x":-737,"y":513,"width":327,"height":96},
 		{"id":"165f5ea2c31bcd99","type":"text","text":"Release Lock","x":-360,"y":515,"width":160,"height":94,"color":"4"},
 		{"id":"75fcde63c6c8dbfb","type":"text","text":"leave synchronized block","x":-737,"y":774,"width":327,"height":80},
+		{"id":"bc4470fe50f8a6ad","type":"file","file":"oop/notes/multithreading/attachments/Pasted image 20241125155407.png","x":400,"y":-1129,"width":1626,"height":1159},
 		{"id":"146df554004caaf4","type":"text","text":"Step 03","x":-550,"y":-80,"width":143,"height":59},
 		{"id":"a4db30358eef86cb","type":"text","text":"Acquire Lock","x":90,"y":-1127,"width":160,"height":70,"color":"1"},
 		{"id":"9a65555c812ff4e6","type":"text","text":"Step 02","x":-133,"y":-1340,"width":143,"height":59},
 		{"id":"9d10d7027da5eef7","type":"text","text":"Release Lock","x":90,"y":-744,"width":160,"height":94,"color":"4"},
-		{"id":"b9356f8022224fbd","type":"text","text":"L\n\nO\n\nC\n\nK\n\nE\n\nD","x":55,"y":-1056,"width":70,"height":308,"color":"6"},
-		{"id":"bc4470fe50f8a6ad","type":"file","file":"oop/notes/multithreading/attachments/Pasted image 20241125155407.png","x":400,"y":-1129,"width":1626,"height":1159}
+		{"id":"b9356f8022224fbd","type":"text","text":"L\n\nO\n\nC\n\nK\n\nE\n\nD","x":55,"y":-1056,"width":70,"height":308,"color":"6"}
 	],
 	"edges":[
 		{"id":"71f32b49db579fbe","fromNode":"757e63490d5a9f10","fromSide":"bottom","toNode":"2dc5970b915c4571","toSide":"top"},
