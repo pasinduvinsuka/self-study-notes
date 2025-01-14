@@ -14,4 +14,8 @@
 
 ### Inheritance
 
-use 'extend'.
+use keyword  'extend'.
+![[Pasted image 20250114151032.png]]![[Pasted image 20250114151107.png]]
+
+ - reuse
+ - less redundancy
