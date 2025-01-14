@@ -4,19 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "19b20540641bf63e",
+        "id": "cbdd310891187d81",
         "type": "tabs",
         "children": [
           {
-            "id": "e0b6351b3e35c5f6",
+            "id": "19686ce419281993",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "robotics/westminster/assignment1_2024_2025.pdf"
+                "file": "oop/westminster/week 02/Week02.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "assignment1_2024_2025"
+              "title": "Week02"
             }
           }
         ]
@@ -238,8 +238,9 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "e0b6351b3e35c5f6",
+  "active": "19686ce419281993",
   "lastOpenFiles": [
+    "robotics/westminster/assignment1_2024_2025.pdf",
     "oop/westminster/week 02/Week02.pdf",
     "oop/westminster/week 10/Week10 - Tagged.pdf",
     "oop/westminster/week 09/Week09 - Tagged.pdf",
@@ -250,7 +251,6 @@
     "oop/westminster/week 03/Week03.pdf",
     "oop/westminster/week 01/Week01.pdf",
     "machine learning/Machine Learning for Wireless Communication/Mora/[2] EN5730_Fundamentals_of_ML.pdf",
-    "machine learning/Machine Learning for Wireless Communication/Mora/[1] EN5730_Module_Overview.pdf",
     "robotics/Control Theory/PID controller/Integral Part (Past Error ).md",
     "Maths/Differentiation.md",
     "robotics/Control Theory/PID controller/Noise filtering in PID control.md",
