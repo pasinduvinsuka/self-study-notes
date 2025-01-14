@@ -24,4 +24,6 @@ use keyword  'extend'.
 **Importance of super keyword
 
 - Subclass won't inherit the constructor from the superclass.
-- So in the subclass we need to initialize both of the instance var
+- So in the subclass we need to initialize both of the instance variables that belongs to the subclass and superclass. 
+- In order to initialize the instance variable belongs to the superclass we will use the  "super" keyword inside in the subclass
+- 
