@@ -47,7 +47,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -265,8 +265,9 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "028a3370ac66deec",
+  "active": "54cf58d0206cf72c",
   "lastOpenFiles": [
+    "oop/westminster/week 07/Week07 - Tagged.pdf",
     "oop/westminster/week 08/Week08 - Tagged.pdf",
     "oop/westminster/week 10/Week10 - Tagged.pdf",
     "oop/westminster/week 12/Week12 - Tagged.pdf",
@@ -294,7 +295,6 @@
     "oop/westminster/Summary/attachments",
     "oop/westminster/Summary",
     "oop/westminster/week 05/Week05(1) - Tagged.pdf",
-    "oop/westminster/week 07/Week07 - Tagged.pdf",
     "oop/westminster/week 12",
     "oop/notes/multithreading/deep-dive multirhreading/Deadlock.md",
     "oop/notes/multithreading/deep-dive multirhreading/Blocking Queues.md",
