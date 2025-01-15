@@ -30,10 +30,10 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "oop/westminster/week 12/Week12 - Tagged.pdf"
+                "file": "oop/westminster/week 07/Week07 - Tagged.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "Week12 - Tagged"
+              "title": "Week07 - Tagged"
             }
           },
           {
@@ -47,7 +47,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -66,7 +66,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "age",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -99,8 +99,7 @@
               "title": "Files"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -266,86 +265,13 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "floating": {
-    "id": "d76786b7027da654",
-    "type": "floating",
-    "children": [
-      {
-        "id": "03584aea2642fef2",
-        "type": "window",
-        "children": [
-          {
-            "id": "292f94fa038fe817",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "19686ce419281993",
-                "type": "leaf",
-                "state": {
-                  "type": "canvas",
-                  "state": {
-                    "file": "oop/westminster/Summary/Untitled 5.canvas",
-                    "viewState": {
-                      "x": 0,
-                      "y": 0,
-                      "zoom": 0
-                    }
-                  },
-                  "icon": "lucide-layout-dashboard",
-                  "title": "Untitled 5"
-                }
-              },
-              {
-                "id": "20130c4e32f5a235",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "oop/westminster/Summary/Summary.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Summary"
-                }
-              },
-              {
-                "id": "c1f51465983312e5",
-                "type": "leaf",
-                "state": {
-                  "type": "canvas",
-                  "state": {
-                    "file": "oop/westminster/Summary/Untitled 5.canvas",
-                    "viewState": {
-                      "x": 101.87639409215528,
-                      "y": -101.87639409215528,
-                      "zoom": 0
-                    }
-                  },
-                  "icon": "lucide-layout-dashboard",
-                  "title": "Untitled 5"
-                }
-              }
-            ],
-            "currentTab": 1
-          }
-        ],
-        "direction": "vertical",
-        "x": 2892,
-        "y": 147,
-        "width": 948,
-        "height": 1032,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "54cf58d0206cf72c",
+  "active": "028a3370ac66deec",
   "lastOpenFiles": [
+    "oop/westminster/week 08/Week08 - Tagged.pdf",
+    "oop/westminster/week 10/Week10 - Tagged.pdf",
+    "oop/westminster/week 12/Week12 - Tagged.pdf",
     "oop/westminster/Summary/Summary.md",
     "oop/notes/multithreading/Thread Life Cycle.canvas",
-    "oop/westminster/week 12/Week12 - Tagged.pdf",
-    "oop/westminster/week 10/Week10 - Tagged.pdf",
     "oop/westminster/Summary/attachments/Pasted image 20250114221200.png",
     "oop/westminster/Summary/attachments/Pasted image 20250114221153.png",
     "oop/westminster/Summary/attachments/Pasted image 20250114220704.png",
@@ -367,7 +293,6 @@
     "oop/westminster/Summary/attachments/Pasted image 20250114202929.png",
     "oop/westminster/Summary/attachments",
     "oop/westminster/Summary",
-    "oop/westminster/week 08/Week08 - Tagged.pdf",
     "oop/westminster/week 05/Week05(1) - Tagged.pdf",
     "oop/westminster/week 07/Week07 - Tagged.pdf",
     "oop/westminster/week 12",
