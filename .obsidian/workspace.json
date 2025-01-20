@@ -11,10 +11,14 @@
             "id": "f1e0b10112e3b9ca",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "machine learning/Mathematics for machine learning/Notations.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Notations"
             }
           }
         ]
@@ -236,8 +240,12 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "c11cfe58e960d3bd",
+  "active": "f1e0b10112e3b9ca",
   "lastOpenFiles": [
+    "machine learning/Mathematics for machine learning/attachments/Pasted image 20250120225451.png",
+    "machine learning/Mathematics for machine learning/attachments",
+    "machine learning/Mathematics for machine learning/Notations.md",
+    "machine learning/Mathematics for machine learning/Untitled",
     "machine learning/Mathematics for machine learning",
     "Untitled",
     "chunks/Reasoning and assumptions I made behind the planning of my coursework.md",
@@ -280,9 +288,6 @@
     "oop/westminster/Summary/Untitled 5.canvas",
     "oop/westminster/Summary/attachments/Pasted image 20250114203254.png",
     "oop/westminster/Summary/attachments/Pasted image 20250114202929.png",
-    "oop/westminster/Summary/attachments",
-    "oop/westminster/Summary",
-    "oop/westminster/week 05/Week05(1) - Tagged.pdf",
     "oop/notes/multithreading/deep-dive multirhreading/Deadlock.md",
     "oop/notes/multithreading/deep-dive multirhreading/Blocking Queues.md",
     "robotics/Control Theory/PID controller/Integral Part (Past Error ).md",
@@ -292,7 +297,6 @@
     "robotics/Control Theory/Laplace Transfer.md",
     "robotics/Control Theory/Time Domain and Frequency Domain.md",
     "robotics/Control Theory/Transfer Functions.md",
-    "robotics/Control Theory/Closed Loop Control Systems.md",
     "oop/notes/multithreading/Thred Life Cycle 1.canvas"
   ]
 }
