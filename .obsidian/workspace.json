@@ -236,8 +236,10 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "f1e0b10112e3b9ca",
+  "active": "c11cfe58e960d3bd",
   "lastOpenFiles": [
+    "machine learning/Mathematics for machine learning",
+    "Untitled",
     "chunks/Reasoning and assumptions I made behind the planning of my coursework.md",
     "Fundementals of digital image and video processing",
     "chunks/Thred Life Cycle.canvas",
@@ -281,7 +283,6 @@
     "oop/westminster/Summary/attachments",
     "oop/westminster/Summary",
     "oop/westminster/week 05/Week05(1) - Tagged.pdf",
-    "oop/westminster/week 12",
     "oop/notes/multithreading/deep-dive multirhreading/Deadlock.md",
     "oop/notes/multithreading/deep-dive multirhreading/Blocking Queues.md",
     "robotics/Control Theory/PID controller/Integral Part (Past Error ).md",
@@ -292,7 +293,6 @@
     "robotics/Control Theory/Time Domain and Frequency Domain.md",
     "robotics/Control Theory/Transfer Functions.md",
     "robotics/Control Theory/Closed Loop Control Systems.md",
-    "robotics/Control Theory/Control Theory.md",
     "oop/notes/multithreading/Thred Life Cycle 1.canvas"
   ]
 }
