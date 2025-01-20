@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "chunks/2024-12-25.md",
+                "file": "chunks/Reasoning and assumptions I made behind the planning of my coursework.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2024-12-25"
+              "title": "Reasoning and assumptions I made behind the planning of my coursework"
             }
           }
         ],
@@ -271,6 +271,18 @@
   },
   "active": "c11cfe58e960d3bd",
   "lastOpenFiles": [
+    "Fundementals of digital image and video processing",
+    "chunks/Thred Life Cycle.canvas",
+    "chunks/Traffic Light Scenario.md",
+    "chunks/Untitled.canvas",
+    "chunks/Untitled.md",
+    "chunks/Untitled 1.md",
+    "chunks/Untitled 1.canvas",
+    "chunks/Untitled 2.canvas",
+    "chunks/Untitled 2.md",
+    "chunks/Untitled 3.canvas",
+    "chunks/Untitled 4.canvas",
+    "chunks/2024-12-25.md",
     "chunks/2024-11-19.md",
     "chunks/().md",
     "oop/westminster/Summary/Summary.md",
@@ -314,18 +326,6 @@
     "robotics/Control Theory/Transfer Functions.md",
     "robotics/Control Theory/Closed Loop Control Systems.md",
     "robotics/Control Theory/Control Theory.md",
-    "oop/lab/5.md",
-    "oop/lab/4.md",
-    "oop/lab/3.md",
-    "oop/lab/2.md",
-    "oop/lab/1.md",
-    "Q.md",
-    "Untitled 4.canvas",
-    "Untitled 3.canvas",
-    "Untitled 2.canvas",
-    "Untitled 1.canvas",
-    "Thred Life Cycle.canvas",
-    "oop/notes/multithreading/Thred Life Cycle 1.canvas",
-    "Untitled.canvas"
+    "oop/notes/multithreading/Thred Life Cycle 1.canvas"
   ]
 }
