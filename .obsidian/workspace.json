@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "machine learning/Mathematics for machine learning/Linear Algebra/week 01/02.Systems of equations as lines and planes.md",
+                "file": "machine learning/Mathematics for machine learning/Linear Algebra/week 01/01.Systems of linear equations.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "02.Systems of equations as lines and planes"
+              "title": "01.Systems of linear equations"
             }
           },
           {
@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "machine learning/Mathematics for machine learning/Mathematics for machine learning.md",
+                "file": "machine learning/Mathematics for machine learning/Linear Algebra/Linear Algebra for mathematics.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Mathematics for machine learning"
+              "title": "Linear Algebra for mathematics"
             }
           },
           {
@@ -288,10 +288,12 @@
   "active": "720307e77d8684b2",
   "lastOpenFiles": [
     "machine learning/Mathematics for machine learning/Mathematics for machine learning.md",
+    "machine learning/Mathematics for machine learning/Linear Algebra/Linear Algebra for mathematics.md",
+    "machine learning/Mathematics for machine learning/Linear Algebra/week 01/01.Systems of linear equations.md",
+    "machine learning/Mathematics for machine learning/Linear Algebra/week 01/02.Systems of equations as lines and planes.md",
     "machine learning/Mathematics for machine learning/Linear Algebra",
     "machine learning/Mathematics for machine learning/attachments/Pasted image 20250121075440.png",
     "machine learning/Mathematics for machine learning/attachments/Pasted image 20250121075400.png",
-    "machine learning/Mathematics for machine learning/Linear Algebra/week 01/02.Systems of equations as lines and planes.md",
     "machine learning/Mathematics for machine learning/Linear Algebra/week 01/attachments/Pasted image 20250121075049.png",
     "machine learning/Mathematics for machine learning/Linear Algebra/week 01/attachments/Pasted image 20250121074920.png",
     "machine learning/Mathematics for machine learning/Linear Algebra/week 01/attachments/Pasted image 20250121074743.png",
@@ -300,7 +302,6 @@
     "machine learning/Mathematics for machine learning/Linear Algebra/week 01/attachments/Pasted image 20250121072619.png",
     "machine learning/Mathematics for machine learning/Linear Algebra/week 01/attachments/Pasted image 20250121072436.png",
     "machine learning/Mathematics for machine learning/Linear Algebra/week 01/attachments/Pasted image 20250121072423.png",
-    "machine learning/Mathematics for machine learning/Linear Algebra/week 01/01.Systems of linear equations.md",
     "machine learning/Mathematics for machine learning/Linear Algebra/week 01/attachments",
     "machine learning/Mathematics for machine learning/Notations.md",
     "machine learning/Mathematics for machine learning/Linear Algebra/week 01",
