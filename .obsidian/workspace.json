@@ -20,8 +20,19 @@
               "icon": "lucide-file",
               "title": "02.Systems of equations as lines and planes"
             }
+          },
+          {
+            "id": "720307e77d8684b2",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -260,8 +271,9 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "f1e0b10112e3b9ca",
+  "active": "720307e77d8684b2",
   "lastOpenFiles": [
+    "machine learning/Mathematics for machine learning/week 01/02.Systems of equations as lines and planes.md",
     "machine learning/Mathematics for machine learning/week 01/attachments/Pasted image 20250121075049.png",
     "machine learning/Mathematics for machine learning/week 01/attachments/Pasted image 20250121074920.png",
     "machine learning/Mathematics for machine learning/week 01/attachments/Pasted image 20250121074743.png",
@@ -272,9 +284,7 @@
     "machine learning/Mathematics for machine learning/week 01/attachments/Pasted image 20250121072423.png",
     "machine learning/Mathematics for machine learning/week 01/attachments/Pasted image 20250121072302.png",
     "machine learning/Mathematics for machine learning/week 01/01.Systems of linear equations.md",
-    "machine learning/Mathematics for machine learning/week 01/02.Systems of equations as lines and planes.md",
     "machine learning/Mathematics for machine learning/week 01/attachments/Pasted image 20250121072212.png",
-    "machine learning/Mathematics for machine learning/week 01/attachments/Pasted image 20250121071943.png",
     "machine learning/Mathematics for machine learning/week 01/attachments",
     "machine learning/Mathematics for machine learning/Notations.md",
     "machine learning/Mathematics for machine learning/week 01",
