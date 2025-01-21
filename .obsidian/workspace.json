@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "machine learning/Mathematics for machine learning/week 01/Systems of equations as lines and planes.md",
+                "file": "machine learning/Mathematics for machine learning/week 01/02.Systems of equations as lines and planes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Systems of equations as lines and planes"
+              "title": "02.Systems of equations as lines and planes"
             }
           }
         ]
@@ -242,10 +242,11 @@
   },
   "active": "f1e0b10112e3b9ca",
   "lastOpenFiles": [
+    "machine learning/Mathematics for machine learning/week 01/01.Systems of linear equations.md",
+    "machine learning/Mathematics for machine learning/week 01/02.Systems of equations as lines and planes.md",
+    "machine learning/Mathematics for machine learning/week 01/attachments/Pasted image 20250121072212.png",
     "machine learning/Mathematics for machine learning/week 01/attachments/Pasted image 20250121071943.png",
     "machine learning/Mathematics for machine learning/week 01/attachments/Pasted image 20250121071827.png",
-    "machine learning/Mathematics for machine learning/week 01/Systems of linear equations.md",
-    "machine learning/Mathematics for machine learning/week 01/Systems of equations as lines and planes.md",
     "machine learning/Mathematics for machine learning/week 01/attachments/Pasted image 20250121071508.png",
     "machine learning/Mathematics for machine learning/week 01/attachments/Pasted image 20250121070953.png",
     "machine learning/Mathematics for machine learning/week 01/attachments/Pasted image 20250121065827.png",
@@ -280,9 +281,7 @@
     "oop/westminster/Summary/attachments/Pasted image 20250114221200.png",
     "oop/westminster/Summary/attachments/Pasted image 20250114221153.png",
     "oop/westminster/Summary/attachments/Pasted image 20250114220704.png",
-    "oop/westminster/Summary/attachments/Pasted image 20250114220033.png",
     "oop/notes/multithreading/04.Thread Life Cycle.md",
-    "oop/westminster/Summary/attachments/Pasted image 20250114215502.png",
     "oop/notes/multithreading/03.Runnable Interface.md",
     "oop/notes/multithreading/02.Extending a Thread Class.md",
     "oop/notes/multithreading/05.Synchronization in multithreading.md",
