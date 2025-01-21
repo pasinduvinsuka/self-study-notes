@@ -53,14 +53,18 @@
             "id": "9ea5738efc7fe7c0",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "machine learning/Machine Learning.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Machine Learning"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -299,11 +303,14 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "d1655c31e88e92a0",
+  "active": "9ea5738efc7fe7c0",
   "lastOpenFiles": [
+    "machine learning/attachments/Pasted image 20250121075837.png",
+    "machine learning/attachments",
+    "machine learning/Machine Learning.md",
+    "machine learning/Mathematics for machine learning/Linear Algebra/Linear Algebra for  machine learning.md",
     "machine learning/Mathematics for machine learning/Mathematics for machine learning.md",
     "Maths/Maths.md",
-    "machine learning/Mathematics for machine learning/Linear Algebra/Linear Algebra for  machine learning.md",
     "machine learning/Mathematics for machine learning/Linear Algebra/attachments/Pasted image 20250121075639.png",
     "machine learning/Mathematics for machine learning/Linear Algebra/attachments",
     "machine learning/Mathematics for machine learning/Linear Algebra/week 01/01.Systems of linear equations.md",
@@ -341,7 +348,6 @@
     "chunks/().md",
     "oop/westminster/Summary/Summary.md",
     "oop/westminster/week 07/Week07 - Tagged.pdf",
-    "oop/westminster/week 08/Week08 - Tagged.pdf",
     "oop/notes/multithreading/Thread Life Cycle.canvas",
     "oop/notes/multithreading/04.Thread Life Cycle.md",
     "oop/notes/multithreading/03.Runnable Interface.md",
@@ -354,8 +360,6 @@
     "oop/notes/multithreading/deep-dive multirhreading/Deadlock.md",
     "oop/notes/multithreading/deep-dive multirhreading/Blocking Queues.md",
     "robotics/Control Theory/PID controller/Integral Part (Past Error ).md",
-    "Maths/Differentiation.md",
-    "robotics/Control Theory/PID controller/Noise filtering in PID control.md",
     "oop/notes/multithreading/Thred Life Cycle 1.canvas"
   ]
 }
