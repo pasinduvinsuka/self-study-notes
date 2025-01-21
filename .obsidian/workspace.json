@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "machine learning/Machine Learning.md",
+                "file": "machine learning/Machine Learning for Wireless Communication/Machine learning for wireless communication.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Machine Learning"
+              "title": "Machine learning for wireless communication"
             }
           }
         ],
@@ -305,9 +305,12 @@
   },
   "active": "9ea5738efc7fe7c0",
   "lastOpenFiles": [
+    "machine learning/Machine Learning for Wireless Communication/attachments/Pasted image 20250121075937.png",
+    "machine learning/Machine Learning for Wireless Communication/attachments",
+    "machine learning/Machine Learning.md",
+    "machine learning/Machine Learning for Wireless Communication/Machine learning for wireless communication.md",
     "machine learning/attachments/Pasted image 20250121075837.png",
     "machine learning/attachments",
-    "machine learning/Machine Learning.md",
     "machine learning/Mathematics for machine learning/Linear Algebra/Linear Algebra for  machine learning.md",
     "machine learning/Mathematics for machine learning/Mathematics for machine learning.md",
     "Maths/Maths.md",
@@ -324,7 +327,6 @@
     "machine learning/Mathematics for machine learning/Linear Algebra/week 01/attachments/Pasted image 20250121074106.png",
     "machine learning/Mathematics for machine learning/Linear Algebra/week 01/attachments/Pasted image 20250121074030.png",
     "machine learning/Mathematics for machine learning/Linear Algebra/week 01/attachments/Pasted image 20250121072619.png",
-    "machine learning/Mathematics for machine learning/Linear Algebra/week 01/attachments/Pasted image 20250121072436.png",
     "machine learning/Mathematics for machine learning/Linear Algebra/week 01/attachments",
     "machine learning/Mathematics for machine learning/Notations.md",
     "machine learning/Mathematics for machine learning/Linear Algebra/week 01",
@@ -347,7 +349,6 @@
     "chunks/2024-11-19.md",
     "chunks/().md",
     "oop/westminster/Summary/Summary.md",
-    "oop/westminster/week 07/Week07 - Tagged.pdf",
     "oop/notes/multithreading/Thread Life Cycle.canvas",
     "oop/notes/multithreading/04.Thread Life Cycle.md",
     "oop/notes/multithreading/03.Runnable Interface.md",
@@ -359,7 +360,6 @@
     "oop/westminster/Summary/Untitled 5.canvas",
     "oop/notes/multithreading/deep-dive multirhreading/Deadlock.md",
     "oop/notes/multithreading/deep-dive multirhreading/Blocking Queues.md",
-    "robotics/Control Theory/PID controller/Integral Part (Past Error ).md",
     "oop/notes/multithreading/Thred Life Cycle 1.canvas"
   ]
 }
