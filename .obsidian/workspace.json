@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "machine learning/Mathematics for machine learning/week 01/02.Systems of equations as lines and planes.md",
+                "file": "machine learning/Mathematics for machine learning/Linear Algebra/week 01/02.Systems of equations as lines and planes.md",
                 "mode": "source",
                 "source": false
               },
@@ -33,6 +33,16 @@
               },
               "icon": "lucide-file",
               "title": "Mathematics for machine learning"
+            }
+          },
+          {
+            "id": "9ea5738efc7fe7c0",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ],
@@ -277,23 +287,23 @@
   },
   "active": "720307e77d8684b2",
   "lastOpenFiles": [
-    "machine learning/Mathematics for machine learning/attachments/Pasted image 20250121075400.png",
     "machine learning/Mathematics for machine learning/Mathematics for machine learning.md",
-    "machine learning/Mathematics for machine learning/week 01/02.Systems of equations as lines and planes.md",
-    "machine learning/Mathematics for machine learning/week 01/attachments/Pasted image 20250121075049.png",
-    "machine learning/Mathematics for machine learning/week 01/attachments/Pasted image 20250121074920.png",
-    "machine learning/Mathematics for machine learning/week 01/attachments/Pasted image 20250121074743.png",
-    "machine learning/Mathematics for machine learning/week 01/attachments/Pasted image 20250121074106.png",
-    "machine learning/Mathematics for machine learning/week 01/attachments/Pasted image 20250121074030.png",
-    "machine learning/Mathematics for machine learning/week 01/attachments/Pasted image 20250121072619.png",
-    "machine learning/Mathematics for machine learning/week 01/attachments/Pasted image 20250121072436.png",
-    "machine learning/Mathematics for machine learning/week 01/attachments/Pasted image 20250121072423.png",
-    "machine learning/Mathematics for machine learning/week 01/attachments/Pasted image 20250121072302.png",
-    "machine learning/Mathematics for machine learning/week 01/01.Systems of linear equations.md",
-    "machine learning/Mathematics for machine learning/week 01/attachments/Pasted image 20250121072212.png",
-    "machine learning/Mathematics for machine learning/week 01/attachments",
+    "machine learning/Mathematics for machine learning/Linear Algebra",
+    "machine learning/Mathematics for machine learning/attachments/Pasted image 20250121075440.png",
+    "machine learning/Mathematics for machine learning/attachments/Pasted image 20250121075400.png",
+    "machine learning/Mathematics for machine learning/Linear Algebra/week 01/02.Systems of equations as lines and planes.md",
+    "machine learning/Mathematics for machine learning/Linear Algebra/week 01/attachments/Pasted image 20250121075049.png",
+    "machine learning/Mathematics for machine learning/Linear Algebra/week 01/attachments/Pasted image 20250121074920.png",
+    "machine learning/Mathematics for machine learning/Linear Algebra/week 01/attachments/Pasted image 20250121074743.png",
+    "machine learning/Mathematics for machine learning/Linear Algebra/week 01/attachments/Pasted image 20250121074106.png",
+    "machine learning/Mathematics for machine learning/Linear Algebra/week 01/attachments/Pasted image 20250121074030.png",
+    "machine learning/Mathematics for machine learning/Linear Algebra/week 01/attachments/Pasted image 20250121072619.png",
+    "machine learning/Mathematics for machine learning/Linear Algebra/week 01/attachments/Pasted image 20250121072436.png",
+    "machine learning/Mathematics for machine learning/Linear Algebra/week 01/attachments/Pasted image 20250121072423.png",
+    "machine learning/Mathematics for machine learning/Linear Algebra/week 01/01.Systems of linear equations.md",
+    "machine learning/Mathematics for machine learning/Linear Algebra/week 01/attachments",
     "machine learning/Mathematics for machine learning/Notations.md",
-    "machine learning/Mathematics for machine learning/week 01",
+    "machine learning/Mathematics for machine learning/Linear Algebra/week 01",
     "machine learning/Mathematics for machine learning/attachments",
     "machine learning/Mathematics for machine learning",
     "Untitled",
@@ -316,7 +326,6 @@
     "oop/westminster/week 07/Week07 - Tagged.pdf",
     "oop/westminster/week 08/Week08 - Tagged.pdf",
     "oop/westminster/week 10/Week10 - Tagged.pdf",
-    "oop/westminster/week 12/Week12 - Tagged.pdf",
     "oop/notes/multithreading/Thread Life Cycle.canvas",
     "oop/notes/multithreading/04.Thread Life Cycle.md",
     "oop/notes/multithreading/03.Runnable Interface.md",
