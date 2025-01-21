@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "machine learning/Mathematics for machine learning/week 01/Systems of linear equations.md",
+                "file": "machine learning/Mathematics for machine learning/week 01/Systems of equations as lines and planes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Systems of linear equations"
+              "title": "Systems of equations as lines and planes"
             }
           }
         ]
@@ -242,11 +242,13 @@
   },
   "active": "f1e0b10112e3b9ca",
   "lastOpenFiles": [
+    "machine learning/Mathematics for machine learning/week 01/Systems of linear equations.md",
+    "machine learning/Mathematics for machine learning/week 01/Systems of equations as lines and planes.md",
+    "machine learning/Mathematics for machine learning/week 01/attachments/Pasted image 20250121071508.png",
     "machine learning/Mathematics for machine learning/week 01/attachments/Pasted image 20250121070953.png",
     "machine learning/Mathematics for machine learning/week 01/attachments/Pasted image 20250121065827.png",
     "machine learning/Mathematics for machine learning/week 01/attachments",
     "machine learning/Mathematics for machine learning/Notations.md",
-    "machine learning/Mathematics for machine learning/week 01/Systems of linear equations.md",
     "machine learning/Mathematics for machine learning/week 01",
     "machine learning/Mathematics for machine learning/attachments/Pasted image 20250120225451.png",
     "machine learning/Mathematics for machine learning/attachments",
@@ -286,8 +288,6 @@
     "oop/notes/multithreading/01.Introduction to multi threading.md",
     "oop/notes/multithreading/deep-dive multirhreading/Thread Signaling.md",
     "oop/westminster/Summary/attachments/Pasted image 20250114203634.png",
-    "oop/westminster/Summary/attachments/Pasted image 20250114203620.png",
-    "oop/westminster/Summary/attachments/Pasted image 20250114203309.png",
     "oop/westminster/Summary/Untitled 5.canvas",
     "oop/notes/multithreading/deep-dive multirhreading/Deadlock.md",
     "oop/notes/multithreading/deep-dive multirhreading/Blocking Queues.md",
