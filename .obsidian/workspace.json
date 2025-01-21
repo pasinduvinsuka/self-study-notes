@@ -182,8 +182,8 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
-              "icon": "SpacedRepIcon",
-              "title": "Notes Review Queue"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -202,12 +202,32 @@
             "state": {
               "type": "planner-timeline",
               "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "265982ebf776a823",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "31021497f7d7d620",
+            "type": "leaf",
+            "state": {
+              "type": "planner-timeline",
+              "state": {},
               "icon": "calendar-with-checkmark",
               "title": "Timeline"
             }
           },
           {
-            "id": "265982ebf776a823",
+            "id": "b94cd5de60c39d91",
             "type": "leaf",
             "state": {
               "type": "review-queue-list-view",
@@ -217,7 +237,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 12
       }
     ],
     "direction": "horizontal",
@@ -233,14 +253,14 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "audio-recorder:Start/stop recording": false,
+      "smart-connections:Open: View Smart Connections": false,
+      "smart-connections:Open: Smart Chat Conversation": false,
       "obsidian-day-planner:Open Timeline": false,
       "obsidian-day-planner:Open Multi-Day View": false,
-      "obsidian-spaced-repetition:Review flashcards": false,
-      "smart-connections:Open: View Smart Connections": false,
-      "smart-connections:Open: Smart Chat Conversation": false
+      "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "f1e0b10112e3b9ca",
+  "active": "b94cd5de60c39d91",
   "lastOpenFiles": [
     "machine learning/Mathematics for machine learning/week 01/attachments/Pasted image 20250121074106.png",
     "machine learning/Mathematics for machine learning/week 01/attachments/Pasted image 20250121074030.png",
