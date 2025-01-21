@@ -25,10 +25,14 @@
             "id": "720307e77d8684b2",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "machine learning/Mathematics for machine learning/Mathematics for machine learning.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Mathematics for machine learning"
             }
           }
         ],
@@ -273,6 +277,8 @@
   },
   "active": "720307e77d8684b2",
   "lastOpenFiles": [
+    "machine learning/Mathematics for machine learning/attachments/Pasted image 20250121075400.png",
+    "machine learning/Mathematics for machine learning/Mathematics for machine learning.md",
     "machine learning/Mathematics for machine learning/week 01/02.Systems of equations as lines and planes.md",
     "machine learning/Mathematics for machine learning/week 01/attachments/Pasted image 20250121075049.png",
     "machine learning/Mathematics for machine learning/week 01/attachments/Pasted image 20250121074920.png",
@@ -326,7 +332,6 @@
     "Maths/Differentiation.md",
     "robotics/Control Theory/PID controller/Noise filtering in PID control.md",
     "robotics/Control Theory/PID controller/Altitude Controller for a quadcopter drone.md",
-    "robotics/Control Theory/Laplace Transfer.md",
     "oop/notes/multithreading/Thred Life Cycle 1.canvas"
   ]
 }
