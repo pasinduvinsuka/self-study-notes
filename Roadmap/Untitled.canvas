@@ -1,9 +1,12 @@
 {
 	"nodes":[
-		{"id":"0437cc099a2485db","x":-280,"y":-500,"width":120,"height":50,"type":"text","text":"Maths"},
-		{"id":"261f2c9ae0501712","x":-511,"y":-355,"width":250,"height":60,"type":"text","text":""}
+		{"id":"0437cc099a2485db","x":-280,"y":-580,"width":120,"height":50,"type":"text","text":"Maths"},
+		{"id":"261f2c9ae0501712","x":-640,"y":-360,"width":220,"height":50,"type":"text","text":"- [ ] basic calculas"},
+		{"id":"25e94f7bd46730fb","x":-360,"y":-360,"width":240,"height":51,"type":"text","text":"- [ ] basic integral"},
+		{"id":"439604aa91bdd87c","x":-106,"y":-364,"width":250,"height":60,"type":"text","text":"- [ ] basic complex numbers\n- [ ] "}
 	],
 	"edges":[
-		{"id":"ac0fd10b7876c611","fromNode":"0437cc099a2485db","fromSide":"bottom","toNode":"261f2c9ae0501712","toSide":"top"}
+		{"id":"ac0fd10b7876c611","fromNode":"0437cc099a2485db","fromSide":"bottom","toNode":"261f2c9ae0501712","toSide":"top"},
+		{"id":"f0a0f6875d8502c7","fromNode":"0437cc099a2485db","fromSide":"bottom","toNode":"25e94f7bd46730fb","toSide":"top"}
 	]
 }
