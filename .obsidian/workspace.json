@@ -262,8 +262,8 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "SpacedRepIcon",
+              "title": "Notes Review Queue"
             }
           },
           {
@@ -317,7 +317,7 @@
             }
           }
         ],
-        "currentTab": 12
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
@@ -333,14 +333,14 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "audio-recorder:Start/stop recording": false,
-      "smart-connections:Open: View Smart Connections": false,
-      "smart-connections:Open: Smart Chat Conversation": false,
       "obsidian-day-planner:Open Timeline": false,
       "obsidian-day-planner:Open Multi-Day View": false,
-      "obsidian-spaced-repetition:Review flashcards": false
+      "obsidian-spaced-repetition:Review flashcards": false,
+      "smart-connections:Open: View Smart Connections": false,
+      "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "f1e0b10112e3b9ca",
+  "active": "75e8e3b09fb98cf3",
   "lastOpenFiles": [
     "machine learning/Mathematics for machine learning/Linear Algebra/Linear Algebra for  machine learning.md",
     "machine learning/Mathematics for machine learning/Linear Algebra/week 01/02.Systems of equations as lines and planes.md",
