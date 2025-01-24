@@ -1,12 +1,15 @@
 {
 	"nodes":[
-		{"id":"0437cc099a2485db","x":-280,"y":-580,"width":120,"height":50,"type":"text","text":"Maths"},
-		{"id":"261f2c9ae0501712","x":-640,"y":-360,"width":220,"height":50,"type":"text","text":"- [ ] basic calculas"},
-		{"id":"25e94f7bd46730fb","x":-360,"y":-360,"width":240,"height":51,"type":"text","text":"- [ ] basic integral"},
-		{"id":"439604aa91bdd87c","x":-106,"y":-364,"width":250,"height":60,"type":"text","text":"- [ ] basic complex numbers\n- [ ] "}
+		{"id":"439604aa91bdd87c","x":-106,"y":-364,"width":266,"height":55,"type":"text","text":"- [ ] basic complex numbers\n"},
+		{"id":"0437cc099a2485db","x":-140,"y":-580,"width":120,"height":50,"type":"text","text":"Maths"},
+		{"id":"52691ee947ddcf2c","x":200,"y":-364,"width":240,"height":56,"type":"text","text":"- [ ] basic trigonometric"},
+		{"id":"261f2c9ae0501712","x":-640,"y":-364,"width":220,"height":50,"type":"text","text":"- [ ] basic calculas"},
+		{"id":"25e94f7bd46730fb","x":-360,"y":-365,"width":240,"height":51,"type":"text","text":"- [ ] basic integral"}
 	],
 	"edges":[
 		{"id":"ac0fd10b7876c611","fromNode":"0437cc099a2485db","fromSide":"bottom","toNode":"261f2c9ae0501712","toSide":"top"},
-		{"id":"f0a0f6875d8502c7","fromNode":"0437cc099a2485db","fromSide":"bottom","toNode":"25e94f7bd46730fb","toSide":"top"}
+		{"id":"f0a0f6875d8502c7","fromNode":"0437cc099a2485db","fromSide":"bottom","toNode":"25e94f7bd46730fb","toSide":"top"},
+		{"id":"eefc5a7fdfb83c77","fromNode":"0437cc099a2485db","fromSide":"bottom","toNode":"439604aa91bdd87c","toSide":"top"},
+		{"id":"f323b2b363adeb1e","fromNode":"0437cc099a2485db","fromSide":"bottom","toNode":"52691ee947ddcf2c","toSide":"top"}
 	]
 }
