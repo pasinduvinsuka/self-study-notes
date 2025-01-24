@@ -1,11 +1,11 @@
 {
 	"nodes":[
-		{"id":"439604aa91bdd87c","type":"text","text":"- [ ] basic complex numbers\n","x":-106,"y":-364,"width":266,"height":55},
-		{"id":"0437cc099a2485db","type":"text","text":"Maths","x":-140,"y":-580,"width":120,"height":50},
-		{"id":"52691ee947ddcf2c","type":"text","text":"- [ ] basic trigonometric","x":200,"y":-364,"width":240,"height":56},
-		{"id":"261f2c9ae0501712","type":"text","text":"- [ ] basic calculas","x":-640,"y":-364,"width":220,"height":50},
-		{"id":"25e94f7bd46730fb","type":"text","text":"- [ ] basic integral","x":-360,"y":-365,"width":240,"height":51},
-		{"id":"b1259abcc635bcc8","x":500,"y":-551,"width":547,"height":375,"type":"file","file":"Roadmap/Math Roadmap for Computer Science, Signals, and Robotics.md"}
+		{"id":"439604aa91bdd87c","type":"text","text":"- [ ] basic complex numbers\n","x":-486,"y":-362,"width":266,"height":55},
+		{"id":"0437cc099a2485db","type":"text","text":"Maths","x":-520,"y":-578,"width":120,"height":50},
+		{"id":"52691ee947ddcf2c","type":"text","text":"- [ ] basic trigonometric","x":-180,"y":-362,"width":240,"height":56},
+		{"id":"261f2c9ae0501712","type":"text","text":"- [ ] basic calculas","x":-1020,"y":-362,"width":220,"height":50},
+		{"id":"25e94f7bd46730fb","type":"text","text":"- [ ] basic integral","x":-740,"y":-363,"width":240,"height":51},
+		{"id":"b1259abcc635bcc8","x":260,"y":-620,"width":920,"height":1080,"type":"file","file":"Roadmap/Math Roadmap for Computer Science, Signals, and Robotics.md"}
 	],
 	"edges":[
 		{"id":"ac0fd10b7876c611","fromNode":"0437cc099a2485db","fromSide":"bottom","toNode":"261f2c9ae0501712","toSide":"top"},
