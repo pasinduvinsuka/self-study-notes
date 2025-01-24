@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Maths/Maths.md",
+                "file": "machine learning/Mathematics for machine learning/Linear Algebra/week 01/01.Systems of linear equations.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Maths"
+              "title": "01.Systems of linear equations"
             }
           },
           {
@@ -101,7 +101,8 @@
               "title": "Graph view"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -340,7 +341,7 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "75e8e3b09fb98cf3",
+  "active": "720307e77d8684b2",
   "lastOpenFiles": [
     "machine learning/Mathematics for machine learning/Linear Algebra/Linear Algebra for  machine learning.md",
     "machine learning/Mathematics for machine learning/Linear Algebra/week 01/02.Systems of equations as lines and planes.md",
