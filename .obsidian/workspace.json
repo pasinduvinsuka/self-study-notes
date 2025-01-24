@@ -25,17 +25,14 @@
             "id": "720307e77d8684b2",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Roadmap/Untitled.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": -2.842170943040401e-14,
-                  "zoom": 0
-                }
+                "file": "Roadmap/Maths Road.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Untitled"
+              "icon": "lucide-file",
+              "title": "Maths Road"
             }
           },
           {
@@ -162,8 +159,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 292.5110321044922,
-    "collapsed": true
+    "width": 292.5110321044922
   },
   "right": {
     "id": "5f79579e1e02cd82",
@@ -348,6 +344,7 @@
   "active": "720307e77d8684b2",
   "lastOpenFiles": [
     "Roadmap/Untitled.canvas",
+    "Roadmap/Maths Road.md",
     "machine learning/Mathematics for machine learning/Linear Algebra/week 01/01.Systems of linear equations.md",
     "Roadmap",
     "machine learning/Mathematics for machine learning/Linear Algebra/Linear Algebra for  machine learning.md",
@@ -400,8 +397,6 @@
     "oop/notes/multithreading/01.Introduction to multi threading.md",
     "oop/notes/multithreading/deep-dive multirhreading/Thread Signaling.md",
     "oop/westminster/Summary/Untitled 5.canvas",
-    "oop/notes/multithreading/deep-dive multirhreading/Deadlock.md",
-    "oop/notes/multithreading/deep-dive multirhreading/Blocking Queues.md",
-    "oop/notes/multithreading/Thred Life Cycle 1.canvas"
+    "oop/notes/multithreading/deep-dive multirhreading/Deadlock.md"
   ]
 }
