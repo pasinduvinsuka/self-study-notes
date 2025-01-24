@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"0437cc099a2485db","x":-280,"y":-500,"width":120,"height":50,"type":"text","text":"Maths"},
+		{"id":"261f2c9ae0501712","x":-511,"y":-355,"width":250,"height":60,"type":"text","text":""}
+	],
+	"edges":[
+		{"id":"ac0fd10b7876c611","fromNode":"0437cc099a2485db","fromSide":"bottom","toNode":"261f2c9ae0501712","toSide":"top"}
+	]
+}

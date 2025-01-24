@@ -25,10 +25,17 @@
             "id": "720307e77d8684b2",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "canvas",
+              "state": {
+                "file": "Roadmap/Untitled.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Untitled"
             }
           },
           {
@@ -339,6 +346,7 @@
   },
   "active": "720307e77d8684b2",
   "lastOpenFiles": [
+    "Roadmap/Untitled.canvas",
     "machine learning/Mathematics for machine learning/Linear Algebra/week 01/01.Systems of linear equations.md",
     "Roadmap",
     "machine learning/Mathematics for machine learning/Linear Algebra/Linear Algebra for  machine learning.md",
