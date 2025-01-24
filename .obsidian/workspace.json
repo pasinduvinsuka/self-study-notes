@@ -25,14 +25,17 @@
             "id": "720307e77d8684b2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Roadmap/Maths Road.md",
-                "mode": "source",
-                "source": false
+                "file": "Roadmap/Untitled.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": -2.842170943040401e-14,
+                  "zoom": 0
+                }
               },
-              "icon": "lucide-file",
-              "title": "Maths Road"
+              "icon": "lucide-layout-dashboard",
+              "title": "Untitled"
             }
           },
           {
@@ -343,8 +346,8 @@
   },
   "active": "720307e77d8684b2",
   "lastOpenFiles": [
+    "Roadmap/Math Roadmap for Computer Science, Signals, and Robotics.md",
     "Roadmap/Untitled.canvas",
-    "Roadmap/Maths Road.md",
     "machine learning/Mathematics for machine learning/Linear Algebra/week 01/01.Systems of linear equations.md",
     "Roadmap",
     "machine learning/Mathematics for machine learning/Linear Algebra/Linear Algebra for  machine learning.md",
