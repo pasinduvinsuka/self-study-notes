@@ -25,17 +25,10 @@
             "id": "720307e77d8684b2",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Roadmap/Untitled.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": -101.87639409215531,
-                  "zoom": 0
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Untitled"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           },
           {
@@ -346,8 +339,8 @@
   },
   "active": "720307e77d8684b2",
   "lastOpenFiles": [
-    "Roadmap/Math Roadmap for Computer Science, Signals, and Robotics.md",
     "Roadmap/Untitled.canvas",
+    "Roadmap/Math Roadmap for Computer Science, Signals, and Robotics.md",
     "machine learning/Mathematics for machine learning/Linear Algebra/week 01/01.Systems of linear equations.md",
     "Roadmap",
     "machine learning/Mathematics for machine learning/Linear Algebra/Linear Algebra for  machine learning.md",
