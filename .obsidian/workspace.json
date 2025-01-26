@@ -25,17 +25,12 @@
             "id": "720307e77d8684b2",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "pdf",
               "state": {
-                "file": "Roadmap/Untitled.canvas",
-                "viewState": {
-                  "x": 80,
-                  "y": -283.7527881843106,
-                  "zoom": 0
-                }
+                "file": "Maths/Calculas/calculus.13th.edition-george.b.thomas.pdf"
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Untitled"
+              "icon": "lucide-file-text",
+              "title": "calculus.13th.edition-george.b.thomas"
             }
           },
           {
@@ -344,13 +339,13 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "c11cfe58e960d3bd",
+  "active": "720307e77d8684b2",
   "lastOpenFiles": [
+    "Roadmap/Untitled.canvas",
     "Maths/Advanced Engineering Mathematics 10th Edition.pdf",
     "Maths/Calculas/calculus.13th.edition-george.b.thomas.pdf",
     "Maths/Calculas",
     "Roadmap/Math Roadmap for Computer Science, Signals, and Robotics.md",
-    "Roadmap/Untitled.canvas",
     "machine learning/Mathematics for machine learning/Linear Algebra/week 01/01.Systems of linear equations.md",
     "Roadmap",
     "machine learning/Mathematics for machine learning/Linear Algebra/Linear Algebra for  machine learning.md",
@@ -376,7 +371,6 @@
     "machine learning/Mathematics for machine learning/Linear Algebra/week 01/attachments",
     "machine learning/Mathematics for machine learning/Notations.md",
     "machine learning/Mathematics for machine learning/Linear Algebra/week 01",
-    "machine learning/Mathematics for machine learning/attachments",
     "chunks/Reasoning and assumptions I made behind the planning of my coursework.md",
     "chunks/Thred Life Cycle.canvas",
     "chunks/Traffic Light Scenario.md",
