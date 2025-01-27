@@ -91,14 +91,12 @@
             "id": "961b6a34797012cf",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Embedded systems/Introduction to microcontrollers.md",
-                "mode": "source",
-                "source": false
+                "file": "Embedded systems/documents_1707580789680Arduino and CPP Cheatsheet.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Introduction to microcontrollers"
+              "icon": "lucide-file-text",
+              "title": "documents_1707580789680Arduino and CPP Cheatsheet"
             }
           }
         ],
@@ -343,11 +341,12 @@
   },
   "active": "961b6a34797012cf",
   "lastOpenFiles": [
+    "Embedded systems/Introduction to microcontrollers.md",
+    "Embedded systems/documents_1707580789680Arduino and CPP Cheatsheet.pdf",
     "Embedded systems/attachments/Pasted image 20250127071930.png",
     "Embedded systems/attachments/Pasted image 20250127071845.png",
     "Embedded systems/attachments/Pasted image 20250127070539.png",
     "Embedded systems/attachments",
-    "Embedded systems/Introduction to microcontrollers.md",
     "machine learning/Mathematics for machine learning/Linear Algebra/Linear Algebra for  machine learning.md",
     "Embedded systems",
     "Maths/Calculas/calculus.13th.edition-george.b.thomas.pdf",
@@ -369,11 +368,9 @@
     "machine learning/attachments",
     "machine learning/Mathematics for machine learning/Linear Algebra/attachments/Pasted image 20250121075639.png",
     "machine learning/Mathematics for machine learning/Linear Algebra/attachments",
-    "machine learning/Mathematics for machine learning/Linear Algebra",
     "machine learning/Mathematics for machine learning/attachments/Pasted image 20250121075440.png",
     "machine learning/Mathematics for machine learning/attachments/Pasted image 20250121075400.png",
     "machine learning/Mathematics for machine learning/Linear Algebra/week 01/attachments/Pasted image 20250121075049.png",
-    "machine learning/Mathematics for machine learning/Linear Algebra/week 01/attachments/Pasted image 20250121074920.png",
     "machine learning/Mathematics for machine learning/Notations.md",
     "chunks/Reasoning and assumptions I made behind the planning of my coursework.md",
     "chunks/Thred Life Cycle.canvas",
