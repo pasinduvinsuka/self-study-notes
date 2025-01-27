@@ -86,9 +86,19 @@
               "icon": "lucide-git-fork",
               "title": "Graph view"
             }
+          },
+          {
+            "id": "961b6a34797012cf",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -327,8 +337,9 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "c11cfe58e960d3bd",
+  "active": "961b6a34797012cf",
   "lastOpenFiles": [
+    "machine learning/Mathematics for machine learning/Linear Algebra/Linear Algebra for  machine learning.md",
     "Embedded systems",
     "Maths/Calculas/calculus.13th.edition-george.b.thomas.pdf",
     "Roadmap/Untitled.canvas",
@@ -337,7 +348,6 @@
     "Roadmap/Math Roadmap for Computer Science, Signals, and Robotics.md",
     "machine learning/Mathematics for machine learning/Linear Algebra/week 01/01.Systems of linear equations.md",
     "Roadmap",
-    "machine learning/Mathematics for machine learning/Linear Algebra/Linear Algebra for  machine learning.md",
     "machine learning/Mathematics for machine learning/Linear Algebra/week 01/02.Systems of equations as lines and planes.md",
     "machine learning/Mathematics for machine learning/Mathematics for machine learning.md",
     "Maths/Maths.md",
@@ -359,7 +369,6 @@
     "machine learning/Mathematics for machine learning/Linear Algebra/week 01/attachments/Pasted image 20250121074106.png",
     "machine learning/Mathematics for machine learning/Linear Algebra/week 01/attachments",
     "machine learning/Mathematics for machine learning/Notations.md",
-    "machine learning/Mathematics for machine learning/Linear Algebra/week 01",
     "chunks/Reasoning and assumptions I made behind the planning of my coursework.md",
     "chunks/Thred Life Cycle.canvas",
     "chunks/Traffic Light Scenario.md",
