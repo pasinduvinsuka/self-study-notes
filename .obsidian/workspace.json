@@ -91,10 +91,14 @@
             "id": "961b6a34797012cf",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Embedded systems/Introduction to microcontrollers.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Introduction to microcontrollers"
             }
           }
         ],
@@ -339,6 +343,9 @@
   },
   "active": "961b6a34797012cf",
   "lastOpenFiles": [
+    "Embedded systems/attachments/Pasted image 20250127070539.png",
+    "Embedded systems/attachments",
+    "Embedded systems/Introduction to microcontrollers.md",
     "machine learning/Mathematics for machine learning/Linear Algebra/Linear Algebra for  machine learning.md",
     "Embedded systems",
     "Maths/Calculas/calculus.13th.edition-george.b.thomas.pdf",
@@ -367,7 +374,6 @@
     "machine learning/Mathematics for machine learning/Linear Algebra/week 01/attachments/Pasted image 20250121074920.png",
     "machine learning/Mathematics for machine learning/Linear Algebra/week 01/attachments/Pasted image 20250121074743.png",
     "machine learning/Mathematics for machine learning/Linear Algebra/week 01/attachments/Pasted image 20250121074106.png",
-    "machine learning/Mathematics for machine learning/Linear Algebra/week 01/attachments",
     "machine learning/Mathematics for machine learning/Notations.md",
     "chunks/Reasoning and assumptions I made behind the planning of my coursework.md",
     "chunks/Thred Life Cycle.canvas",
@@ -392,7 +398,6 @@
     "oop/notes/multithreading/Thread Signaling Process.canvas",
     "oop/notes/multithreading/01.Introduction to multi threading.md",
     "oop/notes/multithreading/deep-dive multirhreading/Thread Signaling.md",
-    "oop/westminster/Summary/Untitled 5.canvas",
-    "oop/notes/multithreading/deep-dive multirhreading/Deadlock.md"
+    "oop/westminster/Summary/Untitled 5.canvas"
   ]
 }
