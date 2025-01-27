@@ -22,18 +22,6 @@
             }
           },
           {
-            "id": "720307e77d8684b2",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Maths/Calculas/calculus.13th.edition-george.b.thomas.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "calculus.13th.edition-george.b.thomas"
-            }
-          },
-          {
             "id": "9e905ba62705a4b3",
             "type": "leaf",
             "state": {
@@ -100,7 +88,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -157,8 +145,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 292.5110321044922,
-    "collapsed": true
+    "width": 292.5110321044922
   },
   "right": {
     "id": "5f79579e1e02cd82",
@@ -340,11 +327,11 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "720307e77d8684b2",
+  "active": "ee789d402f032193",
   "lastOpenFiles": [
+    "Maths/Calculas/calculus.13th.edition-george.b.thomas.pdf",
     "Roadmap/Untitled.canvas",
     "Maths/Advanced Engineering Mathematics 10th Edition.pdf",
-    "Maths/Calculas/calculus.13th.edition-george.b.thomas.pdf",
     "Maths/Calculas",
     "Roadmap/Math Roadmap for Computer Science, Signals, and Robotics.md",
     "machine learning/Mathematics for machine learning/Linear Algebra/week 01/01.Systems of linear equations.md",
