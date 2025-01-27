@@ -157,7 +157,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 292.5110321044922
+    "width": 573.5110321044922
   },
   "right": {
     "id": "5f79579e1e02cd82",
@@ -339,8 +339,9 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "961b6a34797012cf",
+  "active": "c11cfe58e960d3bd",
   "lastOpenFiles": [
+    "Embedded systems/Untitled",
     "Embedded systems/Introduction to microcontrollers.md",
     "Embedded systems/documents_1707580789680Arduino and CPP Cheatsheet.pdf",
     "Embedded systems/attachments/Pasted image 20250127071930.png",
