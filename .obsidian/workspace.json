@@ -91,12 +91,14 @@
             "id": "961b6a34797012cf",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Embedded systems/Mora - introduction to embedded systems/week 01/documents_1707580789680Arduino and CPP Cheatsheet.pdf"
+                "file": "Embedded systems/Mora - introduction to embedded systems/week 01/Introduction to microcontrollers.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "documents_1707580789680Arduino and CPP Cheatsheet"
+              "icon": "lucide-file",
+              "title": "Introduction to microcontrollers"
             }
           },
           {
@@ -355,8 +357,8 @@
   },
   "active": "961b6a34797012cf",
   "lastOpenFiles": [
-    "Embedded systems/Mora - introduction to embedded systems/week 01/Introduction to microcontrollers.md",
     "Embedded systems/Mora - introduction to embedded systems/week 01/documents_1707580789680Arduino and CPP Cheatsheet.pdf",
+    "Embedded systems/Mora - introduction to embedded systems/week 01/Introduction to microcontrollers.md",
     "Embedded systems/Mora - introduction to embedded systems/week 01",
     "Embedded systems/Mora - introduction to embedded systems",
     "Embedded systems/attachments/Pasted image 20250127071930.png",
