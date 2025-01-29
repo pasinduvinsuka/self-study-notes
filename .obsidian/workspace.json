@@ -113,8 +113,7 @@
               "title": "Introduction to microcontrollers"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -353,8 +352,9 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "9e905ba62705a4b3",
+  "active": "f1e0b10112e3b9ca",
   "lastOpenFiles": [
+    "Maths/Advanced Engineering Mathematics 10th Edition.pdf",
     "Maths/Calculas/calculus.13th.edition-george.b.thomas.pdf",
     "machine learning/Mathematics for machine learning/Mathematics for machine learning.md",
     "machine learning/Mathematics for machine learning/Linear Algebra/week 01/01.Systems of linear equations.md",
@@ -370,7 +370,6 @@
     "machine learning/Mathematics for machine learning/Linear Algebra/Linear Algebra for  machine learning.md",
     "Embedded systems",
     "Roadmap/Untitled.canvas",
-    "Maths/Advanced Engineering Mathematics 10th Edition.pdf",
     "Maths/Calculas",
     "Roadmap/Math Roadmap for Computer Science, Signals, and Robotics.md",
     "Roadmap",
