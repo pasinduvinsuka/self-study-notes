@@ -11,14 +11,12 @@
             "id": "f1e0b10112e3b9ca",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "machine learning/Mathematics for machine learning/Linear Algebra/week 01/01.Systems of linear equations.md",
-                "mode": "source",
-                "source": false
+                "file": "Embedded systems/Mora - introduction to embedded systems/week 01/documents_1708792868915MBESD Week 1 Slides.pdf"
               },
-              "icon": "lucide-file",
-              "title": "01.Systems of linear equations"
+              "icon": "lucide-file-text",
+              "title": "documents_1708792868915MBESD Week 1 Slides"
             }
           },
           {
@@ -354,13 +352,14 @@
   },
   "active": "f1e0b10112e3b9ca",
   "lastOpenFiles": [
+    "Embedded systems/Mora - introduction to embedded systems/week 01/documents_1707580789680Arduino and CPP Cheatsheet.pdf",
+    "machine learning/Mathematics for machine learning/Linear Algebra/week 01/01.Systems of linear equations.md",
+    "Embedded systems/Mora - introduction to embedded systems/week 01/documents_1708792868915MBESD Week 1 Slides.pdf",
     "Maths/Advanced Engineering Mathematics 10th Edition.pdf",
     "Maths/Calculas/calculus.13th.edition-george.b.thomas.pdf",
     "machine learning/Mathematics for machine learning/Mathematics for machine learning.md",
-    "machine learning/Mathematics for machine learning/Linear Algebra/week 01/01.Systems of linear equations.md",
     "Embedded systems/Mora - introduction to embedded systems/week 01/Introduction to microcontrollers.md",
     "Embedded systems/books",
-    "Embedded systems/Mora - introduction to embedded systems/week 01/documents_1707580789680Arduino and CPP Cheatsheet.pdf",
     "Embedded systems/Mora - introduction to embedded systems/week 01",
     "Embedded systems/Mora - introduction to embedded systems",
     "Embedded systems/attachments/Pasted image 20250127071930.png",
@@ -372,7 +371,6 @@
     "Roadmap/Untitled.canvas",
     "Maths/Calculas",
     "Roadmap/Math Roadmap for Computer Science, Signals, and Robotics.md",
-    "Roadmap",
     "machine learning/Mathematics for machine learning/Linear Algebra/week 01/02.Systems of equations as lines and planes.md",
     "Maths/Maths.md",
     "machine learning/Machine Learning.md",
