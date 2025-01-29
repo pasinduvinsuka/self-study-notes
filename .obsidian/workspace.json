@@ -25,14 +25,12 @@
             "id": "9e905ba62705a4b3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "machine learning/Mathematics for machine learning/Mathematics for machine learning.md",
-                "mode": "source",
-                "source": false
+                "file": "Maths/Calculas/calculus.13th.edition-george.b.thomas.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Mathematics for machine learning"
+              "icon": "lucide-file-text",
+              "title": "calculus.13th.edition-george.b.thomas"
             }
           },
           {
@@ -116,7 +114,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -355,11 +353,13 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "75e8e3b09fb98cf3",
+  "active": "9e905ba62705a4b3",
   "lastOpenFiles": [
+    "machine learning/Mathematics for machine learning/Mathematics for machine learning.md",
+    "machine learning/Mathematics for machine learning/Linear Algebra/week 01/01.Systems of linear equations.md",
+    "Embedded systems/Mora - introduction to embedded systems/week 01/Introduction to microcontrollers.md",
     "Embedded systems/books",
     "Embedded systems/Mora - introduction to embedded systems/week 01/documents_1707580789680Arduino and CPP Cheatsheet.pdf",
-    "Embedded systems/Mora - introduction to embedded systems/week 01/Introduction to microcontrollers.md",
     "Embedded systems/Mora - introduction to embedded systems/week 01",
     "Embedded systems/Mora - introduction to embedded systems",
     "Embedded systems/attachments/Pasted image 20250127071930.png",
@@ -373,16 +373,13 @@
     "Maths/Advanced Engineering Mathematics 10th Edition.pdf",
     "Maths/Calculas",
     "Roadmap/Math Roadmap for Computer Science, Signals, and Robotics.md",
-    "machine learning/Mathematics for machine learning/Linear Algebra/week 01/01.Systems of linear equations.md",
     "Roadmap",
     "machine learning/Mathematics for machine learning/Linear Algebra/week 01/02.Systems of equations as lines and planes.md",
-    "machine learning/Mathematics for machine learning/Mathematics for machine learning.md",
     "Maths/Maths.md",
     "machine learning/Machine Learning.md",
     "machine learning/Machine Learning for Wireless Communication/Machine learning for wireless communication.md",
     "machine learning/Machine Learning for Wireless Communication/attachments/Pasted image 20250121080024.png",
     "machine learning/Machine Learning for Wireless Communication/attachments/Pasted image 20250121075937.png",
-    "machine learning/Machine Learning for Wireless Communication/attachments",
     "machine learning/attachments/Pasted image 20250121075837.png",
     "machine learning/Mathematics for machine learning/Linear Algebra/attachments/Pasted image 20250121075639.png",
     "machine learning/Mathematics for machine learning/attachments/Pasted image 20250121075440.png",
