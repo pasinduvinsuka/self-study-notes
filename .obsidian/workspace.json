@@ -27,10 +27,10 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Maths/Calculas/calculus.13th.edition-george.b.thomas.pdf"
+                "file": "Maths/Advanced Engineering Mathematics 10th Edition.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "calculus.13th.edition-george.b.thomas"
+              "title": "Advanced Engineering Mathematics 10th Edition"
             }
           },
           {
@@ -171,7 +171,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 573.5110321044922
+    "width": 281.5110321044922
   },
   "right": {
     "id": "5f79579e1e02cd82",
@@ -355,6 +355,7 @@
   },
   "active": "9e905ba62705a4b3",
   "lastOpenFiles": [
+    "Maths/Calculas/calculus.13th.edition-george.b.thomas.pdf",
     "machine learning/Mathematics for machine learning/Mathematics for machine learning.md",
     "machine learning/Mathematics for machine learning/Linear Algebra/week 01/01.Systems of linear equations.md",
     "Embedded systems/Mora - introduction to embedded systems/week 01/Introduction to microcontrollers.md",
@@ -368,7 +369,6 @@
     "Embedded systems/attachments",
     "machine learning/Mathematics for machine learning/Linear Algebra/Linear Algebra for  machine learning.md",
     "Embedded systems",
-    "Maths/Calculas/calculus.13th.edition-george.b.thomas.pdf",
     "Roadmap/Untitled.canvas",
     "Maths/Advanced Engineering Mathematics 10th Edition.pdf",
     "Maths/Calculas",
