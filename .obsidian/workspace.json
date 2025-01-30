@@ -13,18 +13,6 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Embedded systems/Mora - introduction to embedded systems/week 01/documents_1708792868915MBESD Week 1 Slides.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "documents_1708792868915MBESD Week 1 Slides"
-            }
-          },
-          {
-            "id": "9e905ba62705a4b3",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
                 "file": "Maths/Advanced Engineering Mathematics 10th Edition.pdf"
               },
               "icon": "lucide-file-text",
@@ -352,9 +340,9 @@
   },
   "active": "f1e0b10112e3b9ca",
   "lastOpenFiles": [
+    "Embedded systems/Mora - introduction to embedded systems/week 01/documents_1708792868915MBESD Week 1 Slides.pdf",
     "Embedded systems/Mora - introduction to embedded systems/week 01/documents_1707580789680Arduino and CPP Cheatsheet.pdf",
     "machine learning/Mathematics for machine learning/Linear Algebra/week 01/01.Systems of linear equations.md",
-    "Embedded systems/Mora - introduction to embedded systems/week 01/documents_1708792868915MBESD Week 1 Slides.pdf",
     "Maths/Advanced Engineering Mathematics 10th Edition.pdf",
     "Maths/Calculas/calculus.13th.edition-george.b.thomas.pdf",
     "machine learning/Mathematics for machine learning/Mathematics for machine learning.md",
