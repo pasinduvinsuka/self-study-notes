@@ -25,12 +25,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "robotics/Control Theory/PID controller/Integral Part (Past Error ).md",
+                "file": "robotics/Control Theory/PID controller/Derivative Part (Future Error).md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Integral Part (Past Error )"
+              "title": "Derivative Part (Future Error)"
             }
           },
           {
@@ -356,6 +356,7 @@
   },
   "active": "d291aa265055cceb",
   "lastOpenFiles": [
+    "robotics/Control Theory/PID controller/Integral Part (Past Error ).md",
     "robotics/Control Theory/PID controller/Altitude Controller for a quadcopter drone.md",
     "robotics/Control Theory/PID controller/PID Control.md",
     "Embedded systems/Mora - introduction to embedded systems/week 01/documents_1708792868915MBESD Week 1 Slides.pdf",
@@ -410,7 +411,6 @@
     "oop/notes/multithreading/02.Extending a Thread Class.md",
     "oop/notes/multithreading/05.Synchronization in multithreading.md",
     "oop/notes/multithreading/Thread Signaling Process.canvas",
-    "oop/notes/multithreading/01.Introduction to multi threading.md",
     "oop/westminster/Summary/Untitled 5.canvas"
   ]
 }
