@@ -23,14 +23,12 @@
             "id": "d291aa265055cceb",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "robotics/Control Theory/PID controller/Clamping.md",
-                "mode": "preview",
-                "source": false
+                "file": "robotics/westminster/week 10/5elen018w_lecture6_2025.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Clamping"
+              "icon": "lucide-file-text",
+              "title": "5elen018w_lecture6_2025"
             }
           },
           {
@@ -356,6 +354,8 @@
   },
   "active": "d291aa265055cceb",
   "lastOpenFiles": [
+    "robotics/westminster/week 10/5elen018w_lecture7_2025.pdf",
+    "robotics/Control Theory/PID controller/Clamping.md",
     "robotics/Control Theory/PID controller/How does our PID integral handle an actuator that's saturated.md",
     "robotics/Control Theory/PID controller/Anti-windup for PID control.md",
     "robotics/Control Theory/PID controller/PID Control.md",
@@ -407,8 +407,6 @@
     "chunks/Untitled 3.canvas",
     "chunks/Untitled 4.canvas",
     "chunks/2024-12-25.md",
-    "chunks/2024-11-19.md",
-    "chunks/().md",
     "oop/notes/multithreading/Thread Life Cycle.canvas",
     "oop/notes/multithreading/Thread Signaling Process.canvas",
     "oop/westminster/Summary/Untitled 5.canvas"
