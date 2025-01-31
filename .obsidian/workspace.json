@@ -25,10 +25,10 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "robotics/westminster/week 10/5elen018w_lecture6_2025.pdf"
+                "file": "robotics/westminster/week 12/5elen018w_lecture8_2025.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "5elen018w_lecture6_2025"
+              "title": "5elen018w_lecture8_2025"
             }
           },
           {
@@ -355,6 +355,7 @@
   "active": "d291aa265055cceb",
   "lastOpenFiles": [
     "robotics/westminster/week 10/5elen018w_lecture7_2025.pdf",
+    "robotics/westminster/week 10/5elen018w_lecture6_2025.pdf",
     "robotics/Control Theory/PID controller/Clamping.md",
     "robotics/Control Theory/PID controller/How does our PID integral handle an actuator that's saturated.md",
     "robotics/Control Theory/PID controller/Anti-windup for PID control.md",
@@ -381,7 +382,6 @@
     "machine learning/Mathematics for machine learning/Linear Algebra/Linear Algebra for  machine learning.md",
     "Embedded systems",
     "Roadmap/Untitled.canvas",
-    "Maths/Calculas",
     "Roadmap/Math Roadmap for Computer Science, Signals, and Robotics.md",
     "machine learning/Mathematics for machine learning/Linear Algebra/week 01/02.Systems of equations as lines and planes.md",
     "Maths/Maths.md",
