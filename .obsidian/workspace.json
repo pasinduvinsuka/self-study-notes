@@ -23,12 +23,14 @@
             "id": "d291aa265055cceb",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.8.3"
+                "file": "robotics/Control Theory/PID controller/PID Control.md",
+                "mode": "preview",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.3"
+              "icon": "lucide-file",
+              "title": "PID Control"
             }
           },
           {
@@ -352,8 +354,9 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "75e8e3b09fb98cf3",
+  "active": "d291aa265055cceb",
   "lastOpenFiles": [
+    "robotics/Control Theory/PID controller/Altitude Controller for a quadcopter drone.md",
     "Embedded systems/Mora - introduction to embedded systems/week 01/documents_1708792868915MBESD Week 1 Slides.pdf",
     "Embedded systems/Mora - introduction to embedded systems/week 01/documents_1707580789680Arduino and CPP Cheatsheet.pdf",
     "machine learning/Mathematics for machine learning/Linear Algebra/week 01/01.Systems of linear equations.md",
