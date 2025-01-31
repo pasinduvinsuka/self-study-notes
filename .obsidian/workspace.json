@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "d291aa265055cceb",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.3"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.3"
+            }
+          },
+          {
             "id": "c198e7a435c81f1a",
             "type": "leaf",
             "state": {
@@ -99,7 +111,8 @@
               "title": "Introduction to microcontrollers"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -145,7 +158,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -338,7 +352,7 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "f1e0b10112e3b9ca",
+  "active": "75e8e3b09fb98cf3",
   "lastOpenFiles": [
     "Embedded systems/Mora - introduction to embedded systems/week 01/documents_1708792868915MBESD Week 1 Slides.pdf",
     "Embedded systems/Mora - introduction to embedded systems/week 01/documents_1707580789680Arduino and CPP Cheatsheet.pdf",
