@@ -32,6 +32,18 @@
             }
           },
           {
+            "id": "92180b40202fb88c",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.4"
+            }
+          },
+          {
             "id": "c198e7a435c81f1a",
             "type": "leaf",
             "state": {
@@ -112,7 +124,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -352,8 +364,9 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "d291aa265055cceb",
+  "active": "c198e7a435c81f1a",
   "lastOpenFiles": [
+    "Maths/Advanced Engineering Mathematics 10th Edition.pdf",
     "robotics/westminster/week 10/5elen018w_lecture7_2025.pdf",
     "robotics/westminster/week 10/5elen018w_lecture6_2025.pdf",
     "robotics/Control Theory/PID controller/Clamping.md",
@@ -365,7 +378,6 @@
     "robotics/Control Theory/PID controller/Derivative Part (Future Error).md",
     "chunks/PID Controller Finally.md",
     "robotics/Control Theory/PID controller/Design of a control system.md",
-    "Maths/Advanced Engineering Mathematics 10th Edition.pdf",
     "Embedded systems/Mora - introduction to embedded systems/week 01/documents_1708792868915MBESD Week 1 Slides.pdf",
     "Embedded systems/Mora - introduction to embedded systems/week 01/documents_1707580789680Arduino and CPP Cheatsheet.pdf",
     "machine learning/Mathematics for machine learning/Linear Algebra/week 01/01.Systems of linear equations.md",
