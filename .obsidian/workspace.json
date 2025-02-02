@@ -49,12 +49,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Maths/Fourier Series/Fourier Series.md",
-                "mode": "preview",
+                "file": "Projects/Smart medibox/info.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Fourier Series"
+              "title": "info"
             }
           },
           {
@@ -364,11 +364,15 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "c11cfe58e960d3bd",
+  "active": "c198e7a435c81f1a",
   "lastOpenFiles": [
+    "Projects/Smart medibox/attachments/Pasted image 20250202201335.png",
+    "Projects/Smart medibox/attachments/Pasted image 20250202201316.png",
+    "Projects/Smart medibox/attachments",
+    "Maths/Fourier Series/Fourier Series.md",
+    "Projects/Smart medibox/info.md",
     "Projects/Smart medibox",
     "Untitled.md",
-    "Maths/Fourier Series/Fourier Series.md",
     "Projects",
     "Maths/Differentiation.md",
     "machine learning/Mathematics for machine learning/Linear Algebra/Linear Algebra for  machine learning.md",
@@ -391,8 +395,6 @@
     "machine learning/Mathematics for machine learning/Mathematics for machine learning.md",
     "Embedded systems/Mora - introduction to embedded systems/week 01/Introduction to microcontrollers.md",
     "Embedded systems/books",
-    "Embedded systems/Mora - introduction to embedded systems/week 01",
-    "Embedded systems/Mora - introduction to embedded systems",
     "Embedded systems/attachments/Pasted image 20250127071930.png",
     "Embedded systems/attachments/Pasted image 20250127071845.png",
     "Embedded systems/attachments/Pasted image 20250127070539.png",
@@ -408,13 +410,11 @@
     "machine learning/Mathematics for machine learning/Linear Algebra/attachments/Pasted image 20250121075639.png",
     "machine learning/Mathematics for machine learning/attachments/Pasted image 20250121075440.png",
     "machine learning/Mathematics for machine learning/attachments/Pasted image 20250121075400.png",
-    "machine learning/Mathematics for machine learning/Linear Algebra/week 01/attachments/Pasted image 20250121075049.png",
     "machine learning/Mathematics for machine learning/Notations.md",
     "chunks/Reasoning and assumptions I made behind the planning of my coursework.md",
     "chunks/Thred Life Cycle.canvas",
     "chunks/Traffic Light Scenario.md",
     "chunks/Untitled.canvas",
-    "chunks/Untitled.md",
     "chunks/Untitled 1.canvas",
     "chunks/Untitled 2.canvas",
     "chunks/Untitled 3.canvas",
